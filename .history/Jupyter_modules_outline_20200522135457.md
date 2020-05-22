@@ -34,6 +34,3 @@
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA4OTY4NzUyXX0=
 -->
-
-/Users/aidenjohnson/Thinkful/data-science/library/python_for_data_scientists_1_intro/content.md
-/Users/aidenjohnson/Thinkful/data-science/library/python_objects_and_modules/content.md
