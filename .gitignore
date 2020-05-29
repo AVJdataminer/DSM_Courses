@@ -1,3 +1,8 @@
+#VS code and stackedit.io
+.history/
+.stackedit-trash/
+.DS_store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
