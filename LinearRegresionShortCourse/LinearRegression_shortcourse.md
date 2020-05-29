@@ -39,10 +39,6 @@ Avocado Pricing with Linear Regression Exercise
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 
 
-
-```python
-
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyODU0MjM1XX0=
+eyJoaXN0b3J5IjpbMzc5Mjc5MzUsMjcyODU0MjM1XX0=
 -->
