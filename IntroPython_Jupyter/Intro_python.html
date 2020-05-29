@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intro_python</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li><a href="#why-python">Why Python?</a></li>
+<li><a href="#the-python-standard-library-functions">The Python Standard Library functions</a></li>
+<li><a href="#other-libraries---modules-and-packages">Other libraries - Modules and Packages</a></li>
+<li><a href="#interactive-python-ipython">Interactive python IPython</a></li>
+<li><a href="#kernels">Kernels</a></li>
+<li><a href="#jupyter-notebooks">Jupyter notebooks</a></li>
+<li><a href="#troubleshooting-notebooks">Troubleshooting notebooks</a></li>
+<li><a href="#magic-commands">Magic Commands</a></li>
+<li><a href="#working-with-modules">Working with Modules</a></li>
+<li><a href="#installing-modules">Installing modules</a></li>
+<li><a href="#loading-modules">Loading modules</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#run-a-random-forest-model">Run a Random Forest Model</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h2 id="why-python">Why Python?</h2>
+<p>Python is a free, open-source, and super versatile programming language. Python can be used for nearly any programming project imaginable—from web development, to database management, to data science.</p>
+<p>Developed in the late 1980s, Python <a href="https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language">has exploded</a> in popularity in recent years, particularly in the data science profession. For that reason, it’s essential that you hone your Python skills for your future career.</p>
+<p>In this program, you will be programming in Python 3. This is the latest version of the language and the one you’d be most likely to use on the job. However, Python 2 is still used, and it’s not always compatible with Python 3! You don’t need to understand all <a href="https://wiki.python.org/moin/Python2orPython3">the details</a> of this incompatibility right now. But you should know this: if you’re ever executing code that you found online and it’s not working properly, the problem could be that the code was written for Python 2. Before troubleshooting anything else, check whether the code was written for Python 2 or Python 3.</p>
+<h2 id="the-python-standard-library-functions">The Python Standard Library functions</h2>
+<p>A feature of modern programming languages is a library of standard functions built-in. This allows users to work with a set of standard, well-tested and optimised functions for performing common tasks rather than writing our own. The use of  libraries results in more efficient programs written in less time.</p>
+<p>Python has a substantial <a href="https://docs.python.org/3/library/">standard library</a> where a slue of pre-built functions are available for use upon installation. An example of a function provided in the standard library is <code>type()</code> this function returns the data type of the input object to the user. Functions with similar purposes are organized into <em>Modules</em>. For example the Standard Python Library contains the <a href="https://docs.python.org/3/library/math.html#module-math" title="math: Mathematical functions (sin() etc.)."><code>math</code></a> module which contains the following types of mathematical functions and constants:</p>
+<ul>
+<li><code>math.exp()</code></li>
+<li><code>math.log()</code></li>
+<li><code>math.sqrt()</code></li>
+<li><code>math.cosine()</code></li>
+<li><code>math.pi()</code></li>
+</ul>
+<p>The list above is a tiny sampling of the functions available in the <code>math</code> module and there are many more modules as well in the standard Python library. It is good to familiarize yourself with the functions available, spend some time reviewing the documentation and using the base Python functions.</p>
+<h2 id="other-libraries---modules-and-packages">Other libraries - Modules and Packages</h2>
+<p>As we mentioned earlier because Python is Open-Source and has a large and ever-growing user base, there are thousands of libraries that have been developed and contributed to the community of Python users like you. These libraries are often developed around solving specialized problems and commonly referred to as packages or modules. When developing programs<br>
+if there is a no standard library module for a problem you are trying to solve, search online for a module before implementing your own. There is a wide range of Python libraries available for specialised problems.</p>
+<p>Check out the <a href="https://pypi.org/">Python Package Index (PyPI)</a>, a repository of software for Python. Search for different libraries — you’ll find software to help you with everything from sending emails to composing music.</p>
+<h2 id="interactive-python-ipython">Interactive python <a href="url">IPython</a></h2>
+<p>IPython is a library that provides a rich toolkit to help users work with Python interactively, similar to a scientfic programming environment like MATLAB. It is made of these components:</p>
+<ul>
+<li>A powerful interactive shell.</li>
+<li>A kernel for  <a href="https://jupyter.org/">Jupyter</a>.</li>
+<li>Support for interactive data visualization and use of  <a href="https://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support">GUI toolkits</a>.</li>
+<li>Flexible,  <a href="https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython">embeddable</a>  interpreters to load into your own projects.</li>
+<li>Easy to use, high performance tools for  <a href="https://ipyparallel.readthedocs.io/en/latest/">parallel computing</a>.</li>
+</ul>
+<h2 id="kernels">Kernels</h2>
+<p>The <em>kernel for Jupyter</em> is what provides the interactive Python programming environment we use in this course <strong>Jupyter Notebooks</strong>.   A kernel in computer science is the core of the  operating system that allows communication between the user in software applications and the hardware components. In data science kernels have a front-end user side that allows for your programming to be written and pased to the back end host side through this connection. In addition to Jupyter Notebooks you will see the term for running kernels on <a href="https://www.kaggle.com/notebooks">Kaggle</a> when you open a new notebook to view or compete in data science competitions.<br>
+<img src="https://raw.githubusercontent.com/AVJdataminer/content_dev/master/resources/Kernel_diagram.png" alt="Kernel structure"></p>
+<h2 id="jupyter-notebooks">Jupyter notebooks</h2>
+<p><a href="http://jupyter.org/">Jupyter notebooks</a>  provide an interactive environment where you can mix text, equations, computer code and visual outputs. The flexibility of this tool has led to it  becoming the standard in data analytics and data science for project development work.  Check out the latest development of Jupyter notebboks, with more functionality <a href="https://jupyter.org/">Jupyter Labs</a> works in the same way as Jupyter notebooks by creating a connection for user to run code and generate interactive results.</p>
+<h2 id="troubleshooting-notebooks">Troubleshooting notebooks</h2>
+<p>The most common problem you will encouter with Jupyter notebooks is a disconnect from the back end server, the fix is to reload the page. If your notebook does not return the expected results based on your code, double check your code and if you still don’t see the problem reload the kernel.  Remember that all the code is dependent on the current kernel, therefore you must run all the previous cells in your notebook for the current one to run properly. Everytime you re-open your notebook you’re creating a new kernel connection and must run all the preceding cells to work on a later cell in your notebook. Think of it as a top to bottom operation where sequential cells are executed in order.</p>
+<h2 id="magic-commands">Magic Commands</h2>
+<p>There are some add-ons to Ipython known as Magic Comands that are meant to solve common problems faced by users of the kernel. Some examples include; running an external script <code>%run myscript.py</code>, timing a function <code>%timeit</code>, and plotting matplotlib figures inline <code>%matplotlib inline</code> for viewing. Learn more by reviewing the <a href="https://ipython.readthedocs.io/en/stable/interactive/magics.html">docs</a>.</p>
+<h2 id="working-with-modules">Working with Modules</h2>
+<p>Knowing what modules are and working with them can be two different things all together. So, let’s breakdown how you work with modules.</p>
+<p>Check to see if the module you would like is installed. Note* These commands must be run in a terminal or caommand line window. In order to run them from within Jupyter notebooks place an exclamation mark in front of the command. <code>pip list | grep &lt;module_name_you_want_to_check&gt;</code> If you installed Python using Anaconda many common packages you will want to use such as Numpy will already be installed. You can get the entire list of modules installed in your current Python environment using <code>pip list</code> or in Jupyter <code>!pip list</code></p>
+<h2 id="installing-modules">Installing modules</h2>
+<p>Let’s say you wanted to install the Geopandas module for working with spatial data in Python. There are three essential ways to install a package and the one you choose depends on your current Python management setup and preferrence.</p>
+<ol>
+<li>If you use the conda package manager <code>conda install geopoandas</code></li>
+<li>If you prefer pip <code>pip install geopandas</code></li>
+<li>Finally if you’d like to install directly from the source <code>pip install git+git://github.com/geopandas/geopandas.git</code></li>
+</ol>
+<p>If you’re installing a module directly from Jupyter notebook using pip you would start a new cell and type <code>!pip install geopandas</code>.</p>
+<h2 id="loading-modules">Loading modules</h2>
+<p>Once you have the packages you need installed, you need to load them by running import commands. For example to load Pandas we type <code>import pandas as pd</code> and now anytime we want to call a function that’s available in the pandas module we preface it with <code>pd.</code> to indicate as such. Module import statements should be at the beginning of your program or jupyter notebook with one statement per line, such as:<br>
+<code>import numpy as np</code><br>
+<code>import pandas as pd</code><br>
+<code>import scipy</code><br>
+<code>from datetime import datetime</code></p>
+<p>Those with <code>from</code> statements are absolute imports which only load the specified function from the module rather than all the functions in that module. These are recommended when you only need one or two functions from a module as they result in more understandable error messages and cleaner code.</p>
+<h2 id="dependencies">Dependencies</h2>
+<p>Some packages will have dependencies, i.e. other modules they depend on in order to run properly. You can check the dependencies of a package using the <code>pip show module_name</code> command. When installing a package you may encouter a missing dependent module for the package you’re trying to install. Simply install the dependent modules first and then proceed with installing the module you would like to use. The package documentation will most likely list the core dependent and optional dependent packages see the <a href="https://geopandas.org/install.html">GeoPandas page</a> for an example.</p>
+<p>If you encounter a module loading error it is likely a dependent package missing or if running code from someone else it might be a missing module all together. If you can’t discern what the error is indicating, search for the message on <a href="https://stackoverflow.com/questions/tagged/python">Stackoverflow</a>. Most likely someone else has posted the same error and you will find community reponses to help.</p>
+<h2 id="run-a-random-forest-model">Run a Random Forest Model</h2>
+<p>Download <a href="https://drive.google.com/file/d/13SUTkQcdltROLamxF2wcp7mKIeQatfjT/view?usp=sharing">this notebook</a> and save it in a place you can navigate to easily. Then start a Jupyter notebook from your Anaconda prompt or the Terminal and go to File --&gt; Open and select the downloaded notebook.<br>
+Once it is open you’re ready to get started running Python in Jupyter notebooks.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
