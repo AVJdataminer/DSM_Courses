@@ -17,6 +17,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 ---
 # Data Wrangling
 #### Missing Values
+
 #### Outliers
 ---
 # EDA
@@ -29,6 +30,8 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### Data Preprocessing for Modeling
 ---
 # Modeling Methods
+Determinig when to use what type of model can a daunting task for an aspiring or early career data scientist.
+
 Which model when?
 
 #### Supervised
@@ -103,6 +106,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjkxMjQwNSwxOTQwOTYzMTYxLC0xNz
+eyJoaXN0b3J5IjpbLTczMjkwMjgzNCwxOTQwOTYzMTYxLC0xNz
 M3MjM2NTE5XX0=
 -->
