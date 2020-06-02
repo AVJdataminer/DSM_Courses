@@ -30,7 +30,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### Data Preprocessing for Modeling
 ---
 # Modeling Methods
-As you may be aware there are countless types of machine learning models and more variations are being added 
+As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful
 
 #### Supervised
 #### Unsupervised
@@ -145,6 +145,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkyMzY4MDUsLTEyOTQwNzk1MDAsLT
-QyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbOTk3NDYxODUyLC0xMjk0MDc5NTAwLC00Mj
+UxMTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
 -->
