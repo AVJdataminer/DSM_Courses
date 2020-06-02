@@ -42,6 +42,7 @@ Which model when?
 
 # Practical Application
 #### Python, Jupyter and Colab
+
 #### Dash Boards (Dask, plotly)
 
 ## Big Data - Spark
@@ -102,5 +103,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTI3NjkxMjQwNSwxOTQwOTYzMTYxLC0xNz
+M3MjM2NTE5XX0=
 -->
