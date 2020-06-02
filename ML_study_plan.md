@@ -21,12 +21,19 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### EDA
 #### Stats Review/distributions
 ---
-### 
+### Training Data Dev
+---
+### Modeling
+#### Supervised
+#### Unsupervised
+
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDExMjQzMV19
+eyJoaXN0b3J5IjpbLTIzOTkyODE4OF19
 -->
