@@ -65,19 +65,14 @@ You can design your own decision framework based on the algorithms you prefer an
 4.  What is the importance of interpretability to the model outcome?
 5.  What will be the application of the model?
 
-### Be Decisive, not Exhaustive
+### Be Decisive, Not Exhaustive
 
 No matter which model you start with the idea is to balance the constraints of efficiency in implementation, level of understanding required, and overall model performance. It is a best practice to test a couple algorithms and compare their performances, and by a couple I mean two to three with a max of five. You should compare models that leverage different aspects of the features and modeling performance. Don’t compare a decision tree model to a random forest model and expect vastly different results. Hyperparameter tuning is great, but it is also time-consuming and often only yields slight increases in model performance metrics.
 
-## Move on to More Feature Engineering
+### Move on to More Feature Engineering
 
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
--   [Data Science](https://medium.com/tag/data-science)
--   [Machine Learning](https://medium.com/tag/machine-learning)
--   [Python](https://medium.com/tag/python)
--   [Model Selection](https://medium.com/tag/model-selection)
--   [AI](https://medium.com/tag/ai)
 
 #### Supervised
 #### Unsupervised
@@ -151,6 +146,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjMxMTc5MywtNDI1MTEyNjkxLDE5ND
-A5NjMxNjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbLTEyOTQwNzk1MDAsLTQyNTExMjY5MSwxOT
+QwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
