@@ -12,7 +12,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
 6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 
-### An example guided case - study
+### An example guided case study
 
 ---
 # Data Wrangling
@@ -57,5 +57,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1MzIwNTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzcyMzY1MTldfQ==
 -->
