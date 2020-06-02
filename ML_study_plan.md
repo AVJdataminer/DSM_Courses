@@ -22,6 +22,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 #### Stats Review/distributions
 ---
 ### Training Data Dev
+### Feature Eng
 ---
 ### Modeling
 #### Supervised
@@ -35,5 +36,5 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTkyODE4OF19
+eyJoaXN0b3J5IjpbLTEyMzgwODMyM119
 -->
