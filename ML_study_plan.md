@@ -38,6 +38,8 @@ Which model when?
 	- Types and use cases
 - Time Series & forecasting
 
+## Model Evaluation
+
 ### Application
 #### Big Data - Spark
 #### Deep Learning - when is it needed or benefit/cost comparison
@@ -53,5 +55,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI0MDc3NjldfQ==
+eyJoaXN0b3J5IjpbMTkwNjMzNDcyXX0=
 -->
