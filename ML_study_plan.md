@@ -26,12 +26,16 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 ### Data Preprocessing for Modeling
 ---
-### Modeling
+### Modeling Methods
 #### Supervised
 #### Unsupervised
 #### Special topics
 - Recommender Systems
 - Time Series & forecasting
+
+### Application
+#### Big Data - Spark
+#### PythonColab
 
 
 
@@ -41,5 +45,5 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0NzkyMjVdfQ==
+eyJoaXN0b3J5IjpbNTM3MTE0MzgzXX0=
 -->
