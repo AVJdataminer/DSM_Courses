@@ -43,10 +43,11 @@ Which model when?
 # Practical Application
 #### Python, Jupyter and Colab
 #### Dash Boards (Dask, plotly)
-#### Big Data - Spark
+
+## Big Data - Spark
 Businesses rely on numbers to guide decision making and to exploit their competitive advantages whenever possible.
 
-As a result, companies have always leveraged state of the art computing technology to understand as much data as possible. Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. In recent years, as processing power and storage capacity have grown and prices for these services have dropped, businesses have gained the ability to tap massive troves of data.
+As a result, companies have always leveraged state of the art computing technology to understand as much data as possible. Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. 
 
 The sheer amount of data available is staggering, as data generation exponentially expands. In 2013, Science Daily [reported](https://www.sciencedaily.com/releases/2013/05/130522085217.htm) that 90% of all data ever created in history has been generated in the last two years; IBM followed up a year later with a reminder that each year we generate 10 times more data than the prior year. Today, IBM reports that 2.5 quintillion (2.5 x 1018) bytes of data are generated each day. As more devices - particularly internet-of-things devices — come online, and more and more people gain internet access, the data generated daily will only increase.
 For a data scientist, the availability of big data is both enticing and daunting. To better comprehend big data, most companies will describe it in the context of the “3 Vs”: volume, velocity, and variety:
@@ -101,5 +102,5 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjgxNTM1NCwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
 -->
