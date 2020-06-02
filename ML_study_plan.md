@@ -33,6 +33,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions.
 
 ## Supervised Learning
+
 ## Unsupervised Learning
 ## Special topics
 - Recommender Systems
@@ -145,6 +146,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjE5NDkxOSwtMTI5NDA3OTUwMCwtND
+eyJoaXN0b3J5IjpbMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtND
 I1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
 -->
