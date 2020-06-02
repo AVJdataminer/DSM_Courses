@@ -1,7 +1,16 @@
 # ML Study Plan
 
 ## Data Science Method
-How to approach a data science problem in an organized and outcomes
+How to approach a data science problem in an organized and outcomes oriented manner.
+
+**The Data Science Method**
+
+1.  [Problem Identification](https://medium.com/@aiden.dataminer/the-data-science-method-problem-identification-6ffcda1e5152)
+2.  [Data Wrangling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)
+3.  [Exploratory Data Analysis](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-exploratory-data-analysis-bc84d4d8d3f9)
+4.  [Pre-processing and Training Data Development](https://link.medium.com/i5yDUwZi9W)
+5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
+6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjk4Njc1OV19
+eyJoaXN0b3J5IjpbLTIxMjg4OTM2NzZdfQ==
 -->
