@@ -40,11 +40,13 @@ Which model when?
 
 ## Model Evaluation
 
-### Application
-#### Big Data - Spark
-#### Deep Learning - when is it needed or benefit/cost comparison
+# Practical Application
 #### Python, Jupyter and Colab
 #### Dash Boards (Dask, plotly)
+#### Big Data - Spark
+#### Deep Learning - when is it needed or benefit/cost comparison
+
+
 
 
 
@@ -55,5 +57,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjMzNDcyXX0=
+eyJoaXN0b3J5IjpbLTE4NzE5MzI3NzFdfQ==
 -->
