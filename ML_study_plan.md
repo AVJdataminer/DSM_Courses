@@ -100,12 +100,6 @@ As you might imagine, you don’t work with big data on your laptop directly. Yo
 
 ## Big Data with Spark
 
-  
-
-So far in your data science education, you’ve focused on the tools provided by Python to build machine learning models. All of the work you’ve done so far has been on datasets hosted on a single machine (often loaded directly into memory); similarly, the code you’ve written has executed on a single system — often in a single process or thread. There is a great deal of power in this approach. In fact, even when working with big data, you’ll often want to explore, build models, and test on samples of the larger dataset.
-
-  
-
 Adding big data to your toolkit means that you go from working on a dataset hosted on a single system to working with distributed datasets. The best means to work with distributed, massive datasets is within a distributed computing framework. Distributed computing brings significant challenges — How do you synchronize the code across many processors? What happens if a single processor fails? How do you roll up results when execution concludes?
 
   
@@ -136,6 +130,5 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk5OTM3ODcsLTE3MzcyMzY1MTldfQ
-==
+eyJoaXN0b3J5IjpbMTA1MjgwNjA1MCwtMTczNzIzNjUxOV19
 -->
