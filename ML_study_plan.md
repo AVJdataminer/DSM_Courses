@@ -1,4 +1,4 @@
-# ML Study Plan
+# Data Science Study Plan
 
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
@@ -57,5 +57,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE5MzI3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5OTI1MzIwNTJdfQ==
 -->
