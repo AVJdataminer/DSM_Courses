@@ -27,6 +27,8 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### Data Preprocessing for Modeling
 ---
 ### Modeling Methods
+Which model when?
+
 #### Supervised
 #### Unsupervised
 #### Special topics
@@ -35,7 +37,10 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 ### Application
 #### Big Data - Spark
-#### PythonColab
+#### Deep Learning - when is it needed or benefit/cost comparison
+#### Python, Jupyter and Colab
+#### Dash Boards (Dask, plotly)
+
 
 
 
@@ -45,5 +50,5 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MTE0MzgzXX0=
+eyJoaXN0b3J5IjpbNzg3Mjg3NTA3XX0=
 -->
