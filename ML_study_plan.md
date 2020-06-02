@@ -1,6 +1,7 @@
 # ML Study Plan
 
-## Da
+## Data Science Method
+How to approach a data science problem in an organized and outcomes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MzI1NDMxXX0=
+eyJoaXN0b3J5IjpbMTQ3Mjk4Njc1OV19
 -->
