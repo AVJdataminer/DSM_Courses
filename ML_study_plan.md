@@ -30,6 +30,14 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### Data Preprocessing for Modeling
 ---
 # Modeling Methods
+As you may be aware there are countless types of machine learning models and more variations are being added 
+
+#### Supervised
+#### Unsupervised
+#### Special topics
+- Recommender Systems
+	- Types and use cases
+- Time Series & forecasting
 
 ##  [Which machine learning model should you try first?](https://medium.com/@aiden.dataminer/which-machine-learning-model-should-you-try-first-e35579f15924)
 
@@ -71,13 +79,6 @@ No matter which model you start with the idea is to balance the constraints of e
 
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
-
-#### Supervised
-#### Unsupervised
-#### Special topics
-- Recommender Systems
-	- Types and use cases
-- Time Series & forecasting
 
 ## Model Evaluation
 
@@ -144,6 +145,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE4NTQ3MjgsLTEyOTQwNzk1MDAsLT
+eyJoaXN0b3J5IjpbLTEzNjkyMzY4MDUsLTEyOTQwNzk1MDAsLT
 QyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
