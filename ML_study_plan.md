@@ -23,6 +23,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 ---
 
 ### Feature Eng
+#### Dimension Reduction
 
 ### Data Preprocessing for Modeling
 ---
@@ -50,5 +51,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3Mjg3NTA3XX0=
+eyJoaXN0b3J5IjpbLTM2NjY4MTE0NF19
 -->
