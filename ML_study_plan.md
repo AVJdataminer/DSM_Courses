@@ -32,16 +32,10 @@ How to approach a data science problem in an organized and outcomes oriented man
 # Modeling Methods
 Determinig when to use what type of model can a daunting task for an aspiring or early career data scientist. Although this can be a data driven decision it is often in a practical balance between statistically appropriate and business acceptance and comfort.
 
-A simple way to start, read this Which model when?
-# Which machine learning model should you try first?
+A simple way to start.
+##  Which machine learning model should you try first?
 
 [](https://medium.com/@aiden.dataminer?source=post_page-----e35579f15924----------------------)
-
-![Aiden V Johnson](https://miro.medium.com/fit/c/96/96/1*WDVszdcJs5A1fXhnjHZPig.jpeg)
-
-[Aiden V Johnson](https://medium.com/@aiden.dataminer?source=post_page-----e35579f15924----------------------)
-
-[Mar 8](https://medium.com/@aiden.dataminer/which-machine-learning-model-should-you-try-first-e35579f15924?source=post_page-----e35579f15924----------------------)  ·  3  min read
 
 Recently, I received an email from an aspiring data scientist asking a common question in data science.  _How do I know when to use which model?_  The data scientist that sent the question provided more context and had a good approach in mind, but I’d like to answer this question for everyone just starting out in data science.
 
@@ -159,6 +153,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTk3NzU4OCwtNDI1MTEyNjkxLDE5ND
-A5NjMxNjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbLTE0ODUxNTMyNzksLTQyNTExMjY5MSwxOT
+QwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
