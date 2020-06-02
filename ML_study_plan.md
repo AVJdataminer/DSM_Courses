@@ -21,12 +21,17 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### EDA
 #### Stats Review/distributions
 ---
-### Training Data Dev
+
 ### Feature Eng
+
+### Data Preprocessing for Modeling
 ---
 ### Modeling
 #### Supervised
 #### Unsupervised
+#### Special topics
+- Recommender Systems
+- Time Series & forecasting
 
 
 
@@ -36,5 +41,5 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgwODMyM119
+eyJoaXN0b3J5IjpbLTE1Mjk0NzkyMjVdfQ==
 -->
