@@ -12,8 +12,14 @@ How to approach a data science problem in an organized and outcomes oriented man
 5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
 6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 
-## 
+### Problem Identification
+
+### Data Wrangling
+#### Miss
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM1MDE3NDRdfQ==
+eyJoaXN0b3J5IjpbODYxNjMwNzgwXX0=
 -->
