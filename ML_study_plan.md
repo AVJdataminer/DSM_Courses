@@ -30,9 +30,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 ### Data Preprocessing for Modeling
 ---
 # Modeling Methods
-Determinig when to use what type of model can a daunting task for an aspiring or early career data scientist. Although this can be a data driven decision it is often a practical balance between statistically appropriate and business acceptance and comfort.
 
-Here is an article I wrote to answer this question.
 ##  [Which machine learning model should you try first?](https://medium.com/@aiden.dataminer/which-machine-learning-model-should-you-try-first-e35579f15924)
 
 Recently, I received an email from an aspiring data scientist asking a common question in data science.  _How do I know when to use which model?_  The data scientist that sent the question provided more context and had a good approach in mind, but I’d like to answer this question for everyone just starting out in data science.
@@ -151,6 +149,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ1MzM3MTAsLTQyNTExMjY5MSwxOT
-QwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbMjMwMzUwODU4LC00MjUxMTI2OTEsMTk0MD
+k2MzE2MSwtMTczNzIzNjUxOV19
 -->
