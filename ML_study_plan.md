@@ -45,8 +45,6 @@ This is one of those it depends on everything questions; but here is my approach
 
 ### **Diagram of the first model selection**
 
-![](https://miro.medium.com/max/60/1*WBaYR8qUT1K53h87PmJppw.png?q=20)
-
 ![](https://miro.medium.com/max/3300/1*WBaYR8qUT1K53h87PmJppw.png)
 
 ### **Why Random Forest, Logistic, Lasso and Linear Regression?**
@@ -146,6 +144,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQwNzk1MDAsLTQyNTExMjY5MSwxOT
-QwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbLTExNDE4NTQ3MjgsLTEyOTQwNzk1MDAsLT
+QyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
