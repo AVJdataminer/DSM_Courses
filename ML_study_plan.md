@@ -34,6 +34,7 @@ Which model when?
 #### Unsupervised
 #### Special topics
 - Recommender Systems
+	- Types and use cases
 - Time Series & forecasting
 
 ### Application
@@ -51,5 +52,5 @@ Which model when?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjY4MTE0NF19
+eyJoaXN0b3J5IjpbLTE1NTY3NDcxNjFdfQ==
 -->
