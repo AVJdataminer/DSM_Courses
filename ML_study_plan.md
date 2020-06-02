@@ -32,7 +32,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 # Modeling Methods
 Determinig when to use what type of model can a daunting task for an aspiring or early career data scientist. Although this can be a data driven decision it is often in a practical balance between statistically appropriate and business acceptance and comfort.
 
-Which model when?
+A simple way to start, readWhich model when?
 
 #### Supervised
 #### Unsupervised
@@ -106,6 +106,6 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTY3ODYyLDE5NDA5NjMxNjEsLTE3Mz
-cyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNz
+M3MjM2NTE5XX0=
 -->
