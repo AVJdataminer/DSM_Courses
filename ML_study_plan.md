@@ -1,7 +1,6 @@
+# ML Study Plan
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+## Da
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzQ0MzI1NDMxXX0=
 -->
