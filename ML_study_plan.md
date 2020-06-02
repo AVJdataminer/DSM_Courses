@@ -13,13 +13,20 @@ How to approach a data science problem in an organized and outcomes oriented man
 6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 
 ### Problem Identification
-
+---
 ### Data Wrangling
-#### Miss
+#### Missing Values
+#### Outliers
+---
+### EDA
+#### Stats Review/distributions
+---
+### 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNjMwNzgwXX0=
+eyJoaXN0b3J5IjpbLTMxMDExMjQzMV19
 -->
