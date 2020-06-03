@@ -133,7 +133,7 @@ As you may be aware there are countless types of machine learning model types an
 
 [This useful resource offers great advice about when different classification methods ought to be used.](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
-The modeling methods listed below are covered in detail in this playlist. The lecture
+The modeling methods listed below are covered in detail in this playlist. The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
 Linear Regression
 
@@ -265,9 +265,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU4MDQ1NTEsLTExODg4NTM3MTAsLT
-M5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYw
-NzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLD
-cyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUx
-MTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTMyMDMyNDU0OSwtMTE4ODg1MzcxMCwtMz
+k2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3
+MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNz
+I5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTEx
+MjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
