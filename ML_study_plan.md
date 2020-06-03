@@ -119,8 +119,9 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 ---
 
-### Feature Selection & Feature Eng
-#### Dimension Reduction
+### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
+
+### Feature Engineering
 
 ### Data Preprocessing for Modeling
 ---
@@ -241,8 +242,8 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5Nz
-YxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEs
-MjExNjQzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5ND
-A5NjMxNjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbMTg3ODE2NjI4NSw1OTUwNTY4ODYsMzE4Mj
+YwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIy
+LDcyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00Mj
+UxMTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
 -->
