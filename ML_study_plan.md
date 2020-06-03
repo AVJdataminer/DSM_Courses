@@ -133,7 +133,7 @@ As you may be aware there are countless types of machine learning model types an
 
 [This useful resource offers great advice about when different classification methods ought to be used.](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
-The modeling methods listed below are covered in detail in this playlist. The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
+The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
 Linear Regression
 
@@ -150,14 +150,9 @@ KNN
 ## Unsupervised Learning
 
 K means clustering
-Similarity Measures
+
 PCA
 
-
-## Special topics
-- Recommender Systems
-	- Types and use cases
-- Time Series & forecasting
 
 ##  [Which machine learning model should you try first?](https://medium.com/@aiden.dataminer/which-machine-learning-model-should-you-try-first-e35579f15924)
 
@@ -203,9 +198,9 @@ Feature engineering is more likely to improve model performance than hyperparame
 ## Model Evaluation
 
 # Practical Application
-#### Python, Jupyter and Colab
+### If you want some help gett[Python, Jupyter and Colab](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
-#### Dash Boards (Dask, plotly)
+- [ ] Dash Boards (Dask, plotly)
 
 ## Big Data - Spark
 Businesses rely on numbers to guide decision making and to exploit their competitive advantages whenever possible.
@@ -265,9 +260,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDMyNDU0OSwtMTE4ODg1MzcxMCwtMz
-k2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3
-MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNz
-I5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTEx
-MjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbLTE2OTc4NDM1NTYsLTExODg4NTM3MTAsLT
+M5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYw
+NzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLD
+cyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUx
+MTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
 -->
