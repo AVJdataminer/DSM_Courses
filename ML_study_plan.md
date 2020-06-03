@@ -121,9 +121,9 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 ### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
 
-### Feature Engineering
+### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
 
-### Data Preprocessing for Modeling
+
 ---
 # Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions.
@@ -242,8 +242,8 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODE2NjI4NSw1OTUwNTY4ODYsMzE4Mj
-YwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIy
-LDcyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00Mj
-UxMTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxOD
+I2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIy
+Miw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtND
+I1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
 -->
