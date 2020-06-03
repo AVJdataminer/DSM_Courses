@@ -89,34 +89,18 @@ Let's go over each approach in turn.
   
 
 Dropping the observations with extreme values is probably the easiest way of handling outliers. But, consider our discussion from the previous checkpoint about dropping missing values. By excluding any observations from the dataset, we effectively lose information. This the same case for dropping outliers, especially in small datasets. However, some situations may justify dropping the outliers from the dataset:
-
-  
-
 * If we know that the outliers stem from measurement error or a problem in the data collection process, we should drop them.
-
-  
-
 * If dropping the outliers doesn't make any meaningful change in the following phases of analysis, we can drop them. However, we need to replicate our analysis both with the outliers and without them to confirm this.
-
-  
-
 * If dropping the outliers makes a meaningful change in the following phases, but we can't find a proper way of handling them otherwise, we can drop them from our dataset.
 
-  
-
-## Limiting the values of the outliers
-
-  
+### Limiting the values of the outliers
 
 The main problem with the outliers stems from their extreme magnitudes. If we can cap the values of the outliers, their effects on our analysis would be limited. One common way of limiting the outlier values is called **winsorization**. Winsorization can be applied in *one-way* or *two-way* techniques. In one-way winsorization, we either limit the lowest end of the value distribution or the highest end. In two-way winsorization, we set limits on both the lowest end and the highest end.
 
-  
-
 The idea in winsorization is to set the values of the extreme points to the value of a specified percentile. For example, we may set the values of the highest end of the distribution to the value of the 95th percentile. Similarly, we can set the values of the lowest end to the value of the 5th percentile.
 
-  
+We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple of values as a parameter to this method where the 1st element of the tuple is the lowest percentile and the 2nd element is the highest percentile in the two-way winsorization. If we want to apply one-way percentile, we can set the corresponding element in this tuple to zero (0).
 
-We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple of values as a parameter to this method where the 1st element of the tuple is the lowest percentile and the 2nd element is the highest percentile in the two-way winsorization. If we want to apply one-way percentile, we can set the corresponding element in this tuple to zero (0). Now, let's winsorize the *Video views* variable:
 
 ---
 # EDA
@@ -245,7 +229,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTQzNDI3NiwtOTEwNjc3MjIyLDcyOT
-IzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2
-OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mj
+kyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEy
+NjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
 -->
