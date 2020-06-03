@@ -195,7 +195,6 @@ No matter which model you start with the idea is to balance the constraints of e
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
 
-## Model Evaluation
 
 # Practical Application
 ### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
@@ -247,7 +246,10 @@ Spark is the leading open source distributed analytics platform. Its [project pa
 Spark can run in standalone local mode with all processes inside a single Java Virtual Machine, or in standalone cluster mode. Data scientists interact with Spark via APIs in several languages. Spark supports 4 programming languages: Java, Scala, Python, and R. We’ll use Python in our examples for this course.
 
 Spark uses a data representation called the Resilient Distributed Dataset (RDD). This is a data type very similar to the dataframe you know from Pandas but optimized to be distributed across multiple computers, residing in memory across all of them. Once an RDD has been created, by using Spark methods and functions, you interact with this distributed dataset as if it existed only on a single device. As an end developer, you don’t know — or need to know — how the RDD is actually allocated. Spark frees you from those details and allows you to focus on what is important to you — analyzing a dataset.
-#### Deep Learning - when is it needed or benefit/cost comparison
+
+## Didn't have time to fill these topics
+- [ ] Deep Learning - when is it needed or benefit/cost comparison
+- [ ]  Model Evaluation
 
 
 
@@ -260,10 +262,10 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMT
-g4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2
-ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLT
-kxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3
-OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MT
-ldfQ==
+eyJoaXN0b3J5IjpbMTIzOTM5Nzg1MSwxOTQ3NTA4NjMzLDEzMz
+c4OTQyMzUsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4
+NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1MSwtMT
+IyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMTE2NDM1
+NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2MzE2MS
+wtMTczNzIzNjUxOV19
 -->
