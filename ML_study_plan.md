@@ -199,8 +199,6 @@ Feature engineering is more likely to improve model performance than hyperparame
 # Practical Application
 ### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
-- [ ] Dash Boards (Dask, plotly)
-
 ## Big Data - Spark
 Businesses rely on numbers to guide decision making and to exploit their competitive advantages whenever possible.
 
@@ -248,8 +246,11 @@ Spark can run in standalone local mode with all processes inside a single Java V
 Spark uses a data representation called the Resilient Distributed Dataset (RDD). This is a data type very similar to the dataframe you know from Pandas but optimized to be distributed across multiple computers, residing in memory across all of them. Once an RDD has been created, by using Spark methods and functions, you interact with this distributed dataset as if it existed only on a single device. As an end developer, you don’t know — or need to know — how the RDD is actually allocated. Spark frees you from those details and allows you to focus on what is important to you — analyzing a dataset.
 
 ## Didn't have time to fill these topics
+- [ ] Recommendation Systems
+- [ ] Time Series methods
+- [ ] Dash Boards (Dask, plotly)
 - [ ] Deep Learning - when is it needed or benefit/cost comparison
-- [ ]  Model Evaluation
+- [ ]  Model evaluation metrics in detail
 
 
 
@@ -262,10 +263,10 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTM5Nzg1MSwxOTQ3NTA4NjMzLDEzMz
-c4OTQyMzUsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4
-NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1MSwtMT
-IyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMTE2NDM1
-NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2MzE2MS
-wtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3OD
+k0MjM1LC0xMTg4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQw
+ODEsNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMj
+I4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQx
+MywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLT
+E3MzcyMzY1MTldfQ==
 -->
