@@ -16,10 +16,51 @@ How to approach a data science problem in an organized and outcomes oriented man
 
 ---
 # Data Wrangling
-#### Missing Values
+## Missing Values
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
-#### Outliers
+## Outliers
+Another foundational issue in data cleaning is how to handle outliers. According to  [Wikipedia](https://en.wikipedia.org/wiki/Outlier "https://en.wikipedia.org/wiki/Outlier"):
+
+> An outlier is an observation point that is distant from other observations.
+
+Understanding what being "distant from other observations" means is easy if we think in a two-dimensional space. For example, if we had a dataset of the net worth of the 7 billion people on earth, then the net worth of the richest 1,000 people would be visible outliers as they are way higher than the rest.
+
+In general, we get outliers in the data in 2 ways:
+
+1.  An error in the data collection process may create outliers. Take, for example, a "Salary" column in an Excel workbook where the values are stored in thousands. If we mistakenly type 100,000 instead of 100, we created an outlier due to error. That is more broadly called "measurement error."
+2.  Sometimes, the processes that generate the data produce extreme and rare values which can be regarded as true outliers. In this case, the abnormal data is not due to measurement error but to the extreme nature of the observation itself. These cases should be rare.
+
+In this checkpoint, we'll cover:
+
+-   Why we "don't like" outliers
+-   How to detect outliers
+-   How to treat outliers
+
+Before proceeding further, let's highlight that outliers are defined for continuous variables and not for categorical ones. All discussion in this checkpoint, then, applies only to continuous variables.
+
+### Do we really "not like" outliers?
+
+Outliers can contain valuable information and should not be discarded without close consideration of what is causing them. However, for data science models and applications, we often "don't like" outliers because:
+
+-   They skew the descriptive statistics of the data. For example, consider one of the most commonly used descriptive statistics—the mean. This value can be severely skewed by outliers.
+    
+-   Some machine learning models are sensitive to extreme values. In order to get more accurate estimates, we need to eliminate those values from our dataset.
+
+To see the effects of outliers, watch the gif below and see how an outlier influences the relationship between the data points (The orange line represents the relationship between the data points):
+
+That being said, some tasks in data science are  _all about_  the outliers. For example, in anomaly detection the main goal is to identify anomalies—which are often outliers themselves! This area of data science, however, is outside the scope of this course.
+
+### Outlier detection
+
+Detecting outliers, of course, is the first step to understanding how to handle them. But, just as with many of our previous tasks, there is no absolute to define what constitutes an outlier. When we talk about outliers, we should make sure that they are  **rare**  and have  **extreme**  values. Defining just  _how_  rare and  _how_  extreme they are is a judgment call that depends on the task at hand. In light of that, there are some commonly used thresholds for defining outliers.
+
+Usually, we will use standard deviation to define the outliers. Values that reside outside the range of  **(mean - T_standard deviation, mean + T_standard deviation)**  are considered outliers. Here  **T** stands for threshold. Depending on the case, it's common to set the threshold to 1.5, 2, 3, or 5. But, as mentioned earlier, the exact threshold value varies depending on the project in question.
+
+There are two main methods of outlier detection:
+
+1.  Visualize the variables.
+2.  Use statistical techniques.
 
 ---
 # EDA
@@ -148,7 +189,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNj
-QzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMx
-NjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbNjY1MzMxMzkwLC05MTA2NzcyMjIsNzI5Mj
+MxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTExMjY5
+MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
