@@ -139,13 +139,22 @@ Linear Regression
 
 Lasso Regression
 
+Decision Trees
 
+Random Forest 
 
+XGBoost
 
+SVM
 
+KNN
 
-[My MS resource](https://www.mrdbourke.com/aimastersdegree/)
 ## Unsupervised Learning
+K means clustering
+Similarity Measures
+PCA
+
+
 ## Special topics
 - Recommender Systems
 	- Types and use cases
@@ -257,7 +266,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzcwNDY3NzEsLTM5NjkzOTAxMSwtMT
+eyJoaXN0b3J5IjpbLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMT
 I3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1
 MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMT
 E2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2
