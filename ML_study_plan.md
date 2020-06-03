@@ -104,7 +104,7 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 ---
 # EDA
-#### Stats Review/distributions
+#### Math 
 ---
 
 ### Feature Selection & Feature Eng
@@ -229,7 +229,8 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mj
-kyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEy
-NjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbMTYyMzc5NDI1LC0xMjIyODY4MDA0LC05MT
+A2NzcyMjIsNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1
+MDAsLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX
+0=
 -->
