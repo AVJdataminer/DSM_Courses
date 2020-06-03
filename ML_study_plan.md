@@ -17,6 +17,7 @@ How to approach a data science problem in an organized and outcomes oriented man
 ---
 # Data Wrangling
 #### Missing Values
+Learn advanced identification and imputation methods for missing  values with [Data Camp Course](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 #### Outliers
 ---
@@ -146,7 +147,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOT
-QwNzk1MDAsLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2
-NTE5XX0=
+eyJoaXN0b3J5IjpbLTgxNzg4MzQzNCw3MjkyMzE3MTEsMjExNj
+QzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMx
+NjEsLTE3MzcyMzY1MTldfQ==
 -->
