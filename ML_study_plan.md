@@ -143,13 +143,12 @@ Decision Trees
 
 Random Forest 
 
-XGBoost
-
 SVM
 
 KNN
 
 ## Unsupervised Learning
+
 K means clustering
 Similarity Measures
 PCA
@@ -266,9 +265,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMT
-I3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1
-MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMT
-E2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2
-MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbLTI2NjY4OTczMiwtMTE4ODg1MzcxMCwtMz
+k2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3
+MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNz
+I5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTEx
+MjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
