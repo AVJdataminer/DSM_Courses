@@ -135,7 +135,7 @@ As you may be aware there are countless types of machine learning model types an
 
 The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
-Linear Regression
+[Linear Regression](https://docs.google.com/document/d/e/2PACX-1vQxEWaK8ZJJJBaX3prBT7WvZhPlXg146roKwFyw0RKEXLRDcFdxLZPC9ibwfZZOffN_le3Uc8h8oMC7/pub)
 
 Lasso Regression
 
@@ -260,9 +260,10 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMz
-k2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3
-MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNz
-I5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTEx
-MjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbLTE1ODk3NzYyMjcsMTMzNzg5NDIzNSwtMT
+E4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1
+Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC
+05MTA2NzcyMjIsNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQw
+Nzk1MDAsLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NT
+E5XX0=
 -->
