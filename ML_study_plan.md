@@ -129,6 +129,10 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions.
 
 ## Supervised Learning
+[Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
+
+
+
 [My MS resource](https://www.mrdbourke.com/aimastersdegree/)
 ## Unsupervised Learning
 ## Special topics
@@ -242,8 +246,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxOD
-I2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIy
-Miw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtND
-I1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbNjk2OTQxOTQsLTEyNzEyODQwODEsNTk1MD
+U2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQs
+LTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5ND
+A3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1
+MTldfQ==
 -->
