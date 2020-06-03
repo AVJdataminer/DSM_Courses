@@ -1,4 +1,5 @@
-# Data Science Study Plan
+# Data Science Study Plan for David Shvimer
+03 JUNE 2020
 
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
@@ -263,10 +264,10 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3OD
-k0MjM1LC0xMTg4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQw
-ODEsNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMj
-I4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQx
-MywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLT
-E3MzcyMzY1MTldfQ==
+eyJoaXN0b3J5IjpbLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMTk0Nz
+UwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5Mzkw
+MTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNSw5Mz
+g5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3
+MTEsMjExNjQzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLD
+E5NDA5NjMxNjEsLTE3MzcyMzY1MTldfQ==
 -->
