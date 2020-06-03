@@ -198,7 +198,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 ## Model Evaluation
 
 # Practical Application
-### If you want some help gett[Python, Jupyter and Colab](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
+### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
 - [ ] Dash Boards (Dask, plotly)
 
@@ -260,9 +260,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4NDM1NTYsLTExODg4NTM3MTAsLT
-M5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYw
-NzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLD
-cyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUx
-MTI2OTEsMTk0MDk2MzE2MSwtMTczNzIzNjUxOV19
+eyJoaXN0b3J5IjpbMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMz
+k2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3
+MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNz
+I5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTEx
+MjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
