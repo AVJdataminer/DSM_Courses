@@ -137,7 +137,7 @@ The modeling methods listed below are covered in detail [in this playlist.](http
 
 [Linear Regression](https://docs.google.com/document/d/e/2PACX-1vQxEWaK8ZJJJBaX3prBT7WvZhPlXg146roKwFyw0RKEXLRDcFdxLZPC9ibwfZZOffN_le3Uc8h8oMC7/pub)
 
-Lasso Regression
+[Lasso Regression](https://docs.google.com/document/d/e/2PACX-1vTgO2Fykp7R1xB5VSxgCQ0R_iOi_nNEBHqGsN0VOiiGCkXNkfGqXHDpZCT0kW3wsZSJbVr0fvtuCFIz/pub)
 
 Decision Trees
 
@@ -260,10 +260,10 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk3NzYyMjcsMTMzNzg5NDIzNSwtMT
-E4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1
-Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC
-05MTA2NzcyMjIsNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQw
-Nzk1MDAsLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NT
-E5XX0=
+eyJoaXN0b3J5IjpbMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMT
+g4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2
+ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLT
+kxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5NDA3
+OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1MT
+ldfQ==
 -->
