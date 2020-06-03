@@ -59,8 +59,8 @@ Usually, we will use standard deviation to define the outliers. Values that resi
 
 There are two main methods of outlier detection:
 
-1.  Visualize the variables.
-2.  Use statistical techniques.
+1.  Visualize the variables using boxplots and histograms.
+2.  Use statistical techniques such as Z-scores, Tukey's method
 
 ---
 # EDA
@@ -189,7 +189,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MzMxMzkwLC05MTA2NzcyMjIsNzI5Mj
+eyJoaXN0b3J5IjpbNjk2ODkyOTk1LC05MTA2NzcyMjIsNzI5Mj
 MxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLTQyNTExMjY5
 MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
 -->
