@@ -133,6 +133,8 @@ As you may be aware there are countless types of machine learning model types an
 
 [This useful resource offers great advice about when different classification methods ought to be used.](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
+The modeling methods listed below are covered in detail in this playlist. The lecture
+
 Linear Regression
 
 Lasso Regression
@@ -263,7 +265,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc5ODA4MzksLTExODg4NTM3MTAsLT
+eyJoaXN0b3J5IjpbLTEwODU4MDQ1NTEsLTExODg4NTM3MTAsLT
 M5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYw
 NzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLD
 cyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUx
