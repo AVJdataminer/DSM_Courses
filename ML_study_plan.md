@@ -112,6 +112,8 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 -   [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  [Free]
 -   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  [Free]
 -   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML)  [Cost]
+
+Statisitcal Thinking in Python part 1
 ---
 
 ### Feature Selection & Feature Eng
@@ -236,8 +238,8 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MT
-A2NzcyMjIsNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1
-MDAsLTQyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX
-0=
+eyJoaXN0b3J5IjpbMTY3OTQwMDE3OSw5Mzg5NzYxNTEsLTEyMj
+I4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQx
+MywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLT
+E3MzcyMzY1MTldfQ==
 -->
