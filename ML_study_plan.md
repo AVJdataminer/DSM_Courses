@@ -131,7 +131,7 @@ As you may be aware there are countless types of machine learning model types an
 ## Supervised Learning
 [Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
 
-
+[This useful resource offers great advice about when different classification methods ought to be used.](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 [My MS resource](https://www.mrdbourke.com/aimastersdegree/)
 ## Unsupervised Learning
@@ -246,9 +246,9 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2OTQxOTQsLTEyNzEyODQwODEsNTk1MD
-U2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQs
-LTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMTI5ND
-A3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3MzcyMzY1
-MTldfQ==
+eyJoaXN0b3J5IjpbLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OT
+UwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAw
+NCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMTE2NDM1NDEzLC0xMj
+k0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2MzE2MSwtMTczNzIz
+NjUxOV19
 -->
