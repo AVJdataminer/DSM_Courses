@@ -106,12 +106,12 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 # EDA
 ## Math and Stats
 
--   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  [Free]
--   [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  [Free]
--   [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  [Free]
--   [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  [Free]
--   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  [Free]
--   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML)  [Cost]
+-   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
+-   [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
+-   [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
+-   [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  
+-   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
+-   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML) 
 
 [Statistical Thinking in Python part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
@@ -241,8 +241,8 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMj
-g2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMTE2NDM1NDEz
-LC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2MzE2MSwtMT
-czNzIzNjUxOV19
+eyJoaXN0b3J5IjpbNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5Nz
+YxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEs
+MjExNjQzNTQxMywtMTI5NDA3OTUwMCwtNDI1MTEyNjkxLDE5ND
+A5NjMxNjEsLTE3MzcyMzY1MTldfQ==
 -->
