@@ -4,6 +4,9 @@
 ## Study Plan Introduction 
 This study guide is designed to help you efficiently and effectively acquire the knowledge and skills you need to break into the field of data science. Whether you are software engineer or a program manager this guide will put you on the proven path of foundational knowledge to get started in a career in data science. Shorter topics will be covered in detail and more advanced topics will leverage several online resources to provide a more in-depth look. It is easy to get excited by the latest development in computer vision or a new machine learning model such as the Facebook Prophet model, however, before you can get hired and use these tools in your daily work you need to develop the foundational knowledge in the field of data science. It is the foundational algorithms like Logistic Regression and Random Forest as well as a solid project process that hiring managers are looking for in filling data science roles.
 
+## Introduction to Data Science
+If you have been on your data science learning journey for 
+
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
 
@@ -267,11 +270,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgxMDE3ODQsLTE1OTQxOTE5ODAsLT
-E1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMxMjQ3LDQ5MDYx
-MjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOTQ3NTA4NjMzLD
-EzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3
-MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1MS
-wtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMTE2
-NDM1NDEzXX0=
+eyJoaXN0b3J5IjpbMTA0MjAzMzUyMCwtMTU5NDE5MTk4MCwtMT
+U4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyNDcsNDkwNjEy
+MDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1MDg2MzMsMT
+MzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcx
+Mjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC
+0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5MjMxNzExLDIxMTY0
+MzU0MTNdfQ==
 -->
