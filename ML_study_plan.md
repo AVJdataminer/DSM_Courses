@@ -615,25 +615,24 @@ Things to consider when choosing a feature selection method:
 - the interpretability needs of the resulting model built from the selected features
 - the effort required on the data scientists side to implement or review
 
+Click on each method to learn more about each approach.
+
 Remove low variance features
 
-[x]Remove features with Multi-colinearity
+Manually drop features with Multi-colinearity
 
-[]? Ridge can handle multicollinearity ?
+Recursive Feature elimination within a particular model
 
-[]Recursive Feature elimination within a particular model.
+Stability selection methods
 
-[]Stability selection methods
+Select K-best features sklearn
 
-[]Select K-best features sklearn
+Robust Scaler
 
-[]Robust Scaler
+Sklearn TSNE
 
-[]Sklearn TSNE
+PCA/SVD
 
-[x]PCA/SVD
-
-[x]PCA—>feature importance plot
 
 [x]RF or other model feature importance output with Gini coefficient
 
@@ -799,7 +798,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzgwMjM1OCwtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbLTg3MjAwMTk5MSwtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
