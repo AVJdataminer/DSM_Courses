@@ -2,9 +2,8 @@
 This study guide is designed to help you efficiently and effectively acquire the knowledge and skills you need to break into the field of data science. Whether you are software engineer or a program manager this guide will put you on the proven path of foundational knowledge to get started in a career in data science. Shorter topics will be covered in detail and more advanced topics will leverage several online resources to provide a more in-depth look. It is easy to get excited by the latest development in computer vision or a new machine learning model such as the Facebook Prophet model, however, before you can get hired and use these tools in your daily work you need to develop the foundational knowledge in the field of data science. It is the foundational algorithms like Logistic Regression and Random Forest as well as a solid project process that hiring managers are looking for in filling data science roles.
 
 # Introduction to Data Science
-If you have been on your data science learning journey for a bit then you may be familiar with the content here and probably want to skip ahead to the next section.
 
-Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in.
+Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in. The larger framework of data science includes many subtopics including Aritifical Intell
 
  - [ ] Add image of how AI, ML, etc fit together.
 
@@ -774,5 +773,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbNzkyMTAwNDcxLC04ODEwMjc3MzRdfQ==
 -->
