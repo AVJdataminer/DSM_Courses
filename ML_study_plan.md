@@ -562,8 +562,10 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 
 ---
 # Data Wrangling
-This section provides more detail on some topics covered previously
+This section provides more detail on some topics covered previously in the Data Science Method sections. 
+
 ## Missing Values
+
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ## Outliers
@@ -648,9 +650,8 @@ The idea in winsorization is to set the values of the extreme points to the valu
 
 We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple of values as a parameter to this method where the 1st element of the tuple is the lowest percentile and the 2nd element is the highest percentile in the two-way winsorization. If we want to apply one-way percentile, we can set the corresponding element in this tuple to zero (0).
 
-
 ---
-# EDA
+
 ## Math and Stats
 
 -   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
@@ -811,11 +812,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzcxNTg1OCwtNDk1MTEwNTc4LDE3NT
-U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
-MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
-wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
-NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
-YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
-Njc3MjIyXX0=
+eyJoaXN0b3J5IjpbLTExNjY1MzQ5MTYsLTQ5NTExMDU3OCwxNz
+U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
+NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
+EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
+ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
+g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
+MDY3NzIyMl19
 -->
