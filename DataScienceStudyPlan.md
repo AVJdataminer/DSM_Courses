@@ -364,7 +364,8 @@ Categorical Response → Supervised Classification Model → Logistic Regression
 
 Let’s get busy applying this model. Even if you’re using a more advanced machine learning algorithm such as a Random Forest start with the out of the box implementation. Don’t worry about model hyperparameter tuning just yet. The first iteration of fitting the model with training data would look like the code box below implementing the sklearn library to apply a random forest regression.
 
-`from sklearn.ensemble import RandomForestRegressorregressor = RandomForestRegressor(random_state=0, n_estimators=200)regressor.fit(X_train, y_train)regressor.score(X_test, y_test)`
+`from sklearn.ensemble import RandomForestRegressor`
+`regressor = RandomForestRegressor(random_state=0, n_estimators=200)regressor.fit(X_train, y_train)regressor.score(X_test, y_test)`
 
 After fitting the model we score the model to review the performance as well as predict the holdout test set to review the blind model performance.
 
@@ -374,8 +375,11 @@ After fitting the model we score the model to review the performance as well as 
 
 The code box below demonstrates the step of creating predictions on the testing data set using the model you developed in the previous step.
 
-  
-y_pred = regressor.predict(X_test)from sklearn.metrics import mean_squared_errorfrom math import sqrtrmse = sqrt(mean_squared_error(y_test, y_pred))rmse
+`y_pred = regressor.predict(X_test)`
+`from sklearn.metrics import mean_squared_error`
+`from math import sqrt`
+`rmse = sqrt(mean_squared_error(y_test, y_pred))`
+`print(rmse)`
 
 Now let’s say we review our model performance and it’s weak, we discuss model performance metrics later on in the third section of the article. We have identified the need to do some model hyperparameter tuning to improve our model predictions.
 
@@ -731,5 +735,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODE2MjM2OCwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTE3NTY3MDcwMTAsLTg4MTAyNzczNF19
 -->
