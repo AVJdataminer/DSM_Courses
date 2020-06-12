@@ -12,7 +12,7 @@ Data science is the integration of is the integration of Statistics, Machine Lea
  - [ ] Add image of how AI, ML, etc fit together.
 
 ### Data Science Life Cycle
-The work of a data scientist is often changing based on the business needs or the phase of the project they are working in. Most large well developed In the next section you begin to learn how to implement a data project in a business context that will yield meaningful and reliable results.
+The work of a data scientist is often changing based on the business needs or the phase of the project they are working in. Most large well developed data science teams in organizations have established processes for the develpment and execution of data driven projects. However. less centralized teams and individual contributors still need a process to manage all the steps in a data science project. In the next section you begin to learn how to implement a data project in a business context that will yield meaningful and reliable results.
 
 ## The Data Science Method
 To be successful, you must have all the prerequisite core knowledge of machine learning algorithms, programming abilities, and also be passionate about becoming a professional data scientist. The biggest difference between people that are successful in data science roles and those that are not is their ability to effectively frame data science projects and communicate project outcomes. Sometimes, this is referred to as data storytelling, however, that only describes part of the process involved in sharing your findings and results. You need to work to develop the entire framework for the narrative of your data science project to communicate the project as a story.
@@ -293,11 +293,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNTkxMjExLDE3NTU5NzczOTAsLTE1OT
-QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
-MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
-Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
-OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
-kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
-MTcxMV19
+eyJoaXN0b3J5IjpbLTE5NjY2ODM0ODksMTc1NTk3NzM5MCwtMT
+U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
+MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
+E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
+OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
+UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
+MjMxNzExXX0=
 -->
