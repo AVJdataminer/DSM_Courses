@@ -746,19 +746,15 @@ Feature Selection Methods
 
 
 
-Model Prep Steps
+# Model Prep Steps
 
 []Build dummies
 
 []Cross validation (Training & testing split)
 
 []K-fold validation - segments of datasets, can be done within training set.
-
-[]Cross Entropy loss function
-
-[]Deep Learning models
-
 []Grid search optimization on train data only
+
 ---
 # Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions.
@@ -828,6 +824,27 @@ No matter which model you start with the idea is to balance the constraints of e
 ### Move on to More Feature Engineering
 
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
+
+# Model Metrics
+<?xml version="1.0" encoding="UTF-8"?>
+
+Model Evaluation\Interpretation
+
+[x]Precision-False Pos emphasizes
+
+[x]Recall - True Negs emphasis
+
+[]F1-score-> Harmonic mean of precision and recall
+
+[]F-beta -> calculate precision and recall for each class
+
+[x]Confusion Matrix - classification report
+
+[]Log loss
+
+[x]AUC/ROC — 1 versus many for this case
+
+[x]Accuracy Score
 
 - [ ]  Model evaluation metrics in detail
 
@@ -899,11 +916,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkyMDEzNTEsLTQ5NTExMDU3OCwxNz
-U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
-NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
-EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
-ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
-g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
-MDY3NzIyMl19
+eyJoaXN0b3J5IjpbOTQyNzA1NzIsLTQ5NTExMDU3OCwxNzU1OT
+c3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2
+NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLT
+k2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUz
+NzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LD
+MxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3
+NzIyMl19
 -->
