@@ -702,7 +702,7 @@ K means clustering
 PCA
 
 
-##  [Which machine learning model should you try first?](https://medium.com/@aiden.dataminer/which-machine-learning-model-should-you-try-first-e35579f15924)
+##  Decide Which Model to Try First
 
 Determining when to use what type of model can be a daunting task for an aspiring or early career data scientist. Although this can be a data driven decision it is often a practical balance between statistically appropriate and business acceptance and comfort.
 
@@ -812,11 +812,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2ODc4MzIzLC00OTUxMTA1NzgsMTc1NT
-k3NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQz
-NjQ4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC
-05NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1
-MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Ni
-wzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2
-NzcyMjJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzk1OTEwMjEsLTQ5NTExMDU3OCwxNz
+U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
+NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
+EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
+ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
+g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
+MDY3NzIyMl19
 -->
