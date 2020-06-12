@@ -91,6 +91,105 @@ Here is a list of general questions to help you get started in defining the abov
 
 As you develop answers to these questions and the steps outlined in problem identification, you will not only gain a focused trajectory of work, but you also will get at the key details needed for model documentation. Further, you will connect your data analysis to a business need, which may have motivated the work in the first place. If you clearly define your data science work, you will have a framework for successful implementation that works within any industry.
 
+### Data Wrangling
+**Data Wrangling Steps:**
+
+Data wrangling consists of four high-level steps that should be applied in any data science project.
+
+1.  **Data Collection**
+2.  **Data Organization**
+3.  **Data Definition**
+4.  **Data Cleaning**
+
+**DATA COLLECTION**
+
+Data Collection can vary depending on the scope of the project and the data available. Assuming we have completed Problem Identification, Step 1 in the DSM, then ask yourself if the data you have can answer the question of interest. In some cases, writing website scrapers, scouring for census data and search through other web sites for available data can be a time-consuming but necessary task. Perhaps you have data provided by your client, in that case, you may receive access to an S3 bucket or a SQL database each with many tables or files of data or you could be given a single CSV file. Regardless of the situation, you will likely need to spend some time locating your data.
+
+Once you have procured the datasets you need you’ll want to load them into a friendly format such as a data frame. Additionally, collating all your data sources into a single data frame for analysis will make your project much easier going forward. Depending on the relationship of your data pieces and how they tie together you may need to apply some methods from step 4. Data Cleaning, before you’re ready to concatenate the pieces together into a single data frame.
+
+Collating your data sources at this early point in the workflow allows for clean data processing and easy adjustments in methods at later stages in the work.
+
+----------
+
+**DATA ORGANIZATION - DIRECTORY STRUCTURE**
+
+Directory organization is one of those things that you may not think of much when you’re just starting out in data science but as you get into multiple iterations of the same model having a well-structured environment for your model outputs and potentially intermediate steps and data visualizations is paramount. Containerized approaches may reduce the need for this and highly structured work environments also don’t require an additional organizational directory. The key is to keep things organized, clean, and dated and/or versioned.
+
+![](https://miro.medium.com/max/30/1*h-meTEPnSsoGwc-Hhz6a7A.png?q=20)
+
+![](https://miro.medium.com/max/317/1*h-meTEPnSsoGwc-Hhz6a7A.png)
+
+Here is an example of a simple modeling directory.
+
+It’s clearly lacking creativity with the higher folder names, but what it lacks in creativity it gains in simplicity. The date and time stamps help to provide a simple way to identify previous model iterations. Adding a more descriptive name to each modeling folder is good to such as; RandomForest_500, or RCN_3layers.
+
+As you start to develop more advanced methods you may need a more complex structure. Another common method for project organization in Python is by using the  [cookiecutter python package](https://drivendata.github.io/cookiecutter-data-science/)  to generate the file structure for a new project. Below is what the structure looks like.
+
+![](https://miro.medium.com/max/27/1*MpwB4_5jl9lsrYhgBjMF2g.png?q=20)
+
+![](https://miro.medium.com/max/883/1*MpwB4_5jl9lsrYhgBjMF2g.png)
+
+[https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/)
+
+If you come from a computer science background you may already be familiar with the concept of version control, Git, and Github. Learning how to effectively use Git and repositories is a core skill for all data scientists. More junior data scientists should spend some time reviewing the concepts of version control and expect any established data science team they join to be using it daily.
+
+----------
+
+**DATA DEFINITION**
+
+Data definitions are often a  neglected  piece of a data science project. Sometimes this is considered a model documentation component, however, it is both a documentation as well as a development piece. The process of developing data definitions prior to model development informs the data science practitioner at a glance about their development dataset. The data scientist can quickly review the data dictionary as necessary during the modeling process to refresh their understanding of specific components. The other benefit is in communication with the client during the review of intermediate steps or model reviews. When the data definitions are clear and in writing everyone in the exchange is on the same page about what the data features represent.
+
+The data definition should contain the following items by column:
+
+1.  Column Name
+2.  Data Type (numeric, categorical, timestamp, etc)
+3.  Description of Column
+4.  Count or percent per unique values or codes (including NA)
+5.  The range of values or codes
+
+One example of data definitions is what  [kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams)  has on their datasets pages about each downloadable dataset. Below is the header for the table on student’s exam performance with some important data descriptors identified.
+
+![](https://miro.medium.com/max/30/1*j1fHigZCVVQqihY66uU1Qw.png?q=20)
+
+![](https://miro.medium.com/max/761/1*j1fHigZCVVQqihY66uU1Qw.png)
+
+Example of data definition — from kaggle.com
+
+Here is another example where the variable called ‘NETW30’ is described in detail in the sentence above the table. The table defines each column by the unique codes found in that column, the particular description each code represents as well as the count and percent of each unique code in the column. Based on the description we can infer this is a categorical data column that represents the results of a prior statistical model which may have multiplicative error considerations which are good to be aware of.
+
+![](https://miro.medium.com/max/30/1*CGbxsV-J7pmOGOv5BMACmQ.png?q=20)
+
+![](https://miro.medium.com/max/959/1*CGbxsV-J7pmOGOv5BMACmQ.png)
+
+An example data definition table for one column called NETW30.
+
+----------
+
+**DATA CLEANING**
+
+Data Cleaning can be a time-consuming process and can have serious implications for spurious results if not done properly before beginning the modeling project.
+
+The most common types of data cleaning steps are:
+
+1.  Handling missing and NA data
+2.  Removing duplicates
+
+As we mentioned in step 1 perhaps you need to combine two data frames from different sources into a single data frame. This requires unifying the formatting and filling in gaps of overlap with NA or other thoughtful fillers such as 0 or 1 when applicable.
+
+The first step in this process is to identify how many NA values are in your data set. This can be done by printing out the ``df.info()`  to get the data type for each column. One may also want to run additional analyses to ensure there are no mask values such as '-9999' or values such as 'none', these missing values will be missed by ``is.null()`, this scenario can be identified by running ``value_counts()`  for each column in your data frame. Once we determine the different missing or NA values in the data we need to handle them appropriately. Reviewing the percentage of missing observations aids in determining the best step forward.
+
+Follow these steps:
+
+1.  Review the percentage of observations missing per column
+2.  Drop, Impute, or Replace missing values
+
+If less than one percent of the data column is missing then it can be dropped. For percentages larger than one percent each column would need to be reviewed in detail to determine the appropriate handling method. The main consideration is how impactful will the NA approach be on the overall distribution of the data. Dropping the entire row with a missing value rather than simply a missing observation is the best way to fairly drop NA values from a data frame.
+
+_Drop duplicate rows and columns_
+
+Next, we need to check for duplicate rows and columns. Duplicate rows could be legitimate values depending on your data and how it was collected or the magnitude of variation that is expected in your data. The only time you should delete duplicate rows is if you are confident they are repeated measures of the same observation and that it has negative consequences for your expected statistical modeling method. Your prior work on data definitions will inform you of any duplicate columns. Duplicate columns are common when multiple data sources are combined to create the model development dataset. These may not have the same column name, but if the columns’ rows are identical to another column, one of them should be removed.
+
+
 ---
 # Data Wrangling
 ## Missing Values
@@ -341,11 +440,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ3NjYxMTEsMTc1NTk3NzM5MCwtMT
-U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
-MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
-E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
-OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
-UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
-MjMxNzExXX0=
+eyJoaXN0b3J5IjpbMTczMzAxNzg4NCwxNzU1OTc3MzkwLC0xNT
+k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
+MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
+k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
+MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
+w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
+MzE3MTFdfQ==
 -->
