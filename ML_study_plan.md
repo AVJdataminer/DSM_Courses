@@ -1,5 +1,4 @@
 # Data Science Study Plan 
-03 JUNE 2020
 
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
@@ -264,11 +263,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OT
-Y4OTk0MzEsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1
-LC0xMTg4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNT
-k1MDU2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4Njgw
-MDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMT
-I5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3Mzcy
-MzY1MTldfQ==
+eyJoaXN0b3J5IjpbMjAwODE0MzY0OCwtMjgyMDMxMjQ3LDQ5MD
+YxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOTQ3NTA4NjMz
+LDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMT
+I3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LDkzODk3NjE1
+MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIzMTcxMSwyMT
+E2NDM1NDEzLC0xMjk0MDc5NTAwLC00MjUxMTI2OTEsMTk0MDk2
+MzE2MV19
 -->
