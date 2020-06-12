@@ -651,6 +651,7 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 ---
 
 # Exploratory Data Analysis
+The foundation of EDA is data viualization. This is meant to provide a guide to when which type is appropriate or answers an interesting question.
 
 ## Data Visualization
 
@@ -701,9 +702,9 @@ Developing a proper understanding of the math and statistics behind data science
 -   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 -   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML) 
 
-[Statistical Thinking in Python part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
+[Data Camp Course Statistical Thinking in Python part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
-[Statistical Thinking in Python part 2](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
+[Data Camp Course Statistical Thinking in Python part 2](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ---
 # Feature Selection
@@ -892,7 +893,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQwODM1OSwtODYwNDM4MDIsLTE1MD
+eyJoaXN0b3J5IjpbMTMzNTg5MDU2NSwtODYwNDM4MDIsLTE1MD
 g2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3MzkwLC0xNTk0MTkx
 OTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAzMTI0Ny
 w0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMTk0NzUw
