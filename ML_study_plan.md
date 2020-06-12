@@ -690,7 +690,7 @@ The foundation of EDA is data viualization. This is meant to provide a guide to 
 
 []Time series or line graphs
 - [ ] Online Resource for learning Python data vis
-- [ ] Online resource for R data vis 
+
 
 ## Math and Statistics for Data Scientists
 Developing a proper understanding of the math and statistics behind data science algorithms will help you better understand when which modeling methods are most appropriate.
@@ -880,7 +880,10 @@ Consider learning more about these topicsas well.
 - [ ] Time Series methods
 - [ ] NLP
 - [ ] Dash Boards (Dask, plotly)
-- [ ] Deep Learning - when is it needed or benefit/cost comparison
+- [ ] Deep Learning
+	- [ ]   Overview
+	- [ ] when is it needed or benefit/cost comparison
+
 
 
 
@@ -894,11 +897,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgwMjE1NzMsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbOTIxNTk3MzM0LC0xNzM5MTc5MTg4LC04Nj
+A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
+OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
+wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
+OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
+AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
+MjYwNzE1XX0=
 -->
