@@ -36,7 +36,6 @@ The DSM steps can be applied to nearly every data science or machine learning pr
 
 Structured thinking is a common and well-articulated tool used in all types of industries. Thus, the DSM supports an organized approach to solving a business problem with data, and it also supports the essential communication component of articulating project outcomes to your client. As you work through the five steps of the DSM, you will build a deeper understanding of your data, the problem, and how the data can be leveraged to meet your client’s expectations and solve the problem.
 
-
 The next few sections describe each step of the DSM with concrete examples of the methods for clear understanding of the steps. The methods covered are not exhaustive, but merely a starting place. Later sections in this book cover additional methods, such as data imputation for missing values under data wrangling.
  ---
 
@@ -784,11 +783,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMjU5NTMyLC0xNzM5MTc5MTg4LC04Nj
-A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
-OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
-wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
-OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
-AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
-MjYwNzE1XX0=
+eyJoaXN0b3J5IjpbLTExMDExMDAwNjYsLTE3MzkxNzkxODgsLT
+g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
+NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
+Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
+NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
+cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
+MTgyNjA3MTVdfQ==
 -->
