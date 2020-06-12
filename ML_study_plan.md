@@ -654,7 +654,41 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 # EDA
 ## Data Visualization
+
 - [ ] Which plots for which purpose or situation
+<?xml version="1.0" encoding="UTF-8"?>
+
+[x]Balanced or unbalanced data --> [x]SMOTE or under sampling (ada sync) or bootstrapping to oversample
+
+[x]Bar charts
+
+[]Near miss for under sampling
+
+[]Unbalanced response treated with stratifications
+
+[]Word Count - bigram, trigrams
+
+[]Bee swarm
+
+[]Inferential statistics to confirm statistically unbalanced
+
+[x]Scatter matrix
+
+[x]Pearson correlation coefficients heat map
+
+[x]Paired plot
+
+[]Bi-plots
+
+[]Histograms or Distribution plots
+
+[x]Boxplots
+
+[x]Outliers [1.5 * IQR, or extreme value analysis, Z-score 3 std] - frequency of words
+
+[]Hypothesis testing with a/b like testing for same mean
+
+[]Time series or line graphs
 - [ ] Online Resource for learning Python data vis
 - [ ] Online resource for R data vis 
 
@@ -674,12 +708,57 @@ Developing a proper understanding of the math and statistics behind data science
 
 ---
 # Feature Selection
+<?xml version="1.0" encoding="UTF-8"?>
+
+Feature Selection Methods
+
+[]N-grams optimization
+
+[]Remove low variance features
+
+[x]Remove features with Multi-colinearity
+
+[]? Ridge can handle multicollinearity ?
+
+[]Recursive Feature elimination within a particular model.
+
+[]Stability selection methods
+
+[]Select K-best features sklearn
+
+[]Robust Scaler
+
+[]Sklearn TSNE
+
+[x]PCA/SVD
+
+[x]PCA—>feature importance plot
+
+[x]RF or other model feature importance output with Gini coefficient
+
+[x]Lasso Regression -> L1 Regularization, penalty term is in the cost function reducing the coefs to zero.
+
+[x]Chi-square Significance testing
 
 ### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
 
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
 
 
+
+Model Prep Steps
+
+[]Build dummies
+
+[]Cross validation (Training & testing split)
+
+[]K-fold validation - segments of datasets, can be done within training set.
+
+[]Cross Entropy loss function
+
+[]Deep Learning models
+
+[]Grid search optimization on train data only
 ---
 # Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions.
@@ -820,11 +899,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzI1MjU2MiwtNDk1MTEwNTc4LDE3NT
-U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
-MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
-wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
-NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
-YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
-Njc3MjIyXX0=
+eyJoaXN0b3J5IjpbLTE5MDkyMDEzNTEsLTQ5NTExMDU3OCwxNz
+U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
+NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
+EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
+ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
+g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
+MDY3NzIyMl19
 -->
