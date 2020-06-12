@@ -608,9 +608,10 @@ Developing a proper understanding of the math and statistics behind data science
 ---
 # Feature Selection
 
-Feature selection methods are important no matter the size of the data your working with. Below I have listed many feature selection methods you should familiarize yourself with. When reviewing these methods make note of when one is more appropriate over another. For example, using the Principal Component Analsysis (PCA) as a feature selection method is only appropriate when knowing the exact important features is not important for model results interpretation. 
-
-
+Feature selection methods are important no matter the size of the data your working with. Below I have listed many feature selection methods you should familiarize yourself with. When reviewing these methods make note of when one is more appropriate over another. For example, using the Principal Component Analsysis (PCA) as a feature selection method is only appropriate when knowing the exact important features is not important for model results interpretation as just reducing the size of the data going into the model.
+Things to consider when choosing a feature selection method:
+- the number of features in the dataset
+- the type of response 
 
 []Remove low variance features
 
@@ -796,11 +797,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDAwNzAyOCwtMTczOTE3OTE4OCwtOD
-YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
-MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
-gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
-Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
-EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
-ODI2MDcxNV19
+eyJoaXN0b3J5IjpbMzEwNDI0MTEsLTE3MzkxNzkxODgsLTg2MD
+QzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3NzM5
+MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC
+0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5
+Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMC
+wtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgy
+NjA3MTVdfQ==
 -->
