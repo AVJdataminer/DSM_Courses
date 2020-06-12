@@ -91,6 +91,49 @@ Here is a list of general questions to help you get started in defining the abov
 
 As you develop answers to these questions and the steps outlined in problem identification, you will not only gain a focused trajectory of work, but you also will get at the key details needed for model documentation. Further, you will connect your data analysis to a business need, which may have motivated the work in the first place. If you clearly define your data science work, you will have a framework for successful implementation that works within any industry.
 
+#### Problem Identification Overview
+ 1. Define the question specific to modeling activities
+e.g Predict device failures.
+
+## - Identify the data needed and or available:
+
+e.g Daily aggregated telemetry device failure data.
+
+## - Define the data Timeframe:
+
+e.g. 01/01/2015–11/02/2015
+
+## - Describe the Modeling Response:
+
+e.g. Binary, 0 or 1, non-failure = 0, failure = 1
+
+## -Unsupervised or Supervised Classification or Regression Model:
+
+e.g. Supervised Classification
+
+## -What Deliverables will be generated:
+
+e.g.PDF outlining modeling process from data exploration to best model results.
+
+# Data Preprocessing steps of note
+
+-   e.g. dropped duplicate rows
+-   e.g. created PCA for dimension reduction
+
+# Model Description
+
+-   Input data size and features
+-   Model Algorithm and Parameters
+-   Model iterations can be discussed here if they are not saved out separately
+
+# Model Performance
+
+-   R², RMSE, Confusion Matrix, Precision & Recall, AUC/ROC
+
+# Model Findings
+
+-   Feature Importances
+
 ### DSM - Data Wrangling
 **Data Wrangling Steps:**
 
@@ -496,50 +539,6 @@ This is the time and place to corral the data science modeling project into a su
 
 Create a document called the Model Report. Here is the general layout to give you an idea of where start.
 
-# Problem Identification Overview
-
-## - Define the question specific to modeling activities
-
-e.g Predict device failures.
-
-## - Identify the data needed and or available:
-
-e.g Daily aggregated telemetry device failure data.
-
-## - Define the data Timeframe:
-
-e.g. 01/01/2015–11/02/2015
-
-## - Describe the Modeling Response:
-
-e.g. Binary, 0 or 1, non-failure = 0, failure = 1
-
-## -Unsupervised or Supervised Classification or Regression Model:
-
-e.g. Supervised Classification
-
-## -What Deliverables will be generated:
-
-e.g.PDF outlining modeling process from data exploration to best model results.
-
-# Data Preprocessing steps of note
-
--   e.g. dropped duplicate rows
--   e.g. created PCA for dimension reduction
-
-# Model Description
-
--   Input data size and features
--   Model Algorithm and Parameters
--   Model iterations can be discussed here if they are not saved out separately
-
-# Model Performance
-
--   R², RMSE, Confusion Matrix, Precision & Recall, AUC/ROC
-
-# Model Findings
-
--   Feature Importances
 
 # Next Steps
 
@@ -800,11 +799,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2Nzg4MzY4LDE3NTU5NzczOTAsLTE1OT
-QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
-MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
-Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
-OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
-kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
-MTcxMV19
+eyJoaXN0b3J5IjpbLTEzOTE1NTc3OTksMTc1NTk3NzM5MCwtMT
+U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
+MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
+E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
+OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
+UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
+MjMxNzExXX0=
 -->
