@@ -36,9 +36,7 @@ The DSM steps can be applied to nearly every data science or machine learning pr
 
 Structured thinking is a common and well-articulated tool used in all types of industries. Thus, the DSM supports an organized approach to solving a business problem with data, and it also supports the essential communication component of articulating project outcomes to your client. As you work through the five steps of the DSM, you will build a deeper understanding of your data, the problem, and how the data can be leveraged to meet your client’s expectations and solve the problem.
 
-Review each of the linked articles in the above short outline to understand each step in more depth. For now, here is the full overview of the DSM steps.
-
-![](https://miro.medium.com/max/19/1*mTywR9Il5syvfK4js5TGMA.png?q=20)
+ ---
 
 ### DSM - Problem Identification
 Problem identification is the very first, essential step to a well-positioned data science project.
@@ -652,7 +650,7 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 ---
 
-## Math and Stats
+## Math and Statistics for Data Scientists
 
 -   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
 -   [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
@@ -812,11 +810,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY1MzQ5MTYsLTQ5NTExMDU3OCwxNz
-U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
-NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
-EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
-ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
-g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
-MDY3NzIyMl19
+eyJoaXN0b3J5IjpbMTMyMjI5NDA3NywtNDk1MTEwNTc4LDE3NT
+U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
+MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
+wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
+NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
+YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
+Njc3MjIyXX0=
 -->
