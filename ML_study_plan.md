@@ -518,23 +518,23 @@ Create a document called the Model Report. Here is the general layout to give yo
 
 #### Minimum Model Documentation Example 
  1. Define the question specific to modeling activities
-e.g. Predict device failures
+	- e.g. Predict device failures
 
 2. Identify the data needed and or available:
-e.g. Daily aggregated telemetry device failure data
+ 
+	 - e.g. Daily aggregated telemetry device failure data
 
 3.  Define the data Timeframe:
-e.g. 01/01/2015–11/02/2015
+	- e.g. 01/01/2015–11/02/2015
 
 4. Describe the Modeling Response:
-e.g. Binary, 0 or 1, non-failure = 0, failure = 1
+	- e.g. Binary, 0 or 1, non-failure = 0, failure = 1
 
 5. Unsupervised or Supervised Classification or Regression Model:
-e.g. Supervised Classification
+	- e.g. Supervised Classification
 
 6. Identify What Deliverables will be generated:
-e.g. PDF outlining modeling process from data exploration to best model results.
-
+	- e.g. PDF outlining modeling process from data exploration to best model results.
 7. Data Preprocessing steps of note
 	-   e.g. dropped duplicate rows
 	-   e.g. created PCA for dimension reduction
@@ -810,7 +810,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODcwOTY2NSwxNzU1OTc3MzkwLC0xNT
+eyJoaXN0b3J5IjpbLTc2NzMxNDU5NSwxNzU1OTc3MzkwLC0xNT
 k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
 MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
 k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
