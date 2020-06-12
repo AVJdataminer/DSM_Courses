@@ -514,15 +514,15 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 
 ---
 # Data Wrangling
-This section provides more detail additional resources on some topics covered previously in the Data Science Method sections. 
+This section provides more detail on some topics covered previously in the Data Science Method sections. 
 
 ## Missing Values
-Learn advanced identification and imputation methods for missing values with this [Data Camp Course.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
+Learn advanced identification and imputation methods for missing values with this [Data Camp Course using Python.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ---
 
-# Exploratory Data Analysis
-Data visualization is an important component of proper EDA, following the DSM steps you should consider building Bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable.
+# Exploratory Data Analysis (EDA)
+Data visualization is an important component of proper EDA, following the DSM steps you should consider building bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable.
 
 Example questions you should answer when completing EDA:
 
@@ -738,6 +738,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2MzY0NTEsLTQ4MDQwNjIxMiwtOD
+eyJoaXN0b3J5IjpbLTEzODE0NTQwNDYsLTQ4MDQwNjIxMiwtOD
 gxMDI3NzM0XX0=
 -->
