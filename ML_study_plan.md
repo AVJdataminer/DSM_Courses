@@ -550,7 +550,7 @@ Create a document called the Model Report. Here is the general layout to give yo
 -   R², RMSE, Confusion Matrix, Precision & Recall, AUC/ROC
 
 10. Model Findings that may be interesting to decision makers
--   Feature Importances
+-   Feature importances
 -  Volume of missing data
 - Surprising correlations
 #### Next Steps to communicate with stakeholders
@@ -810,11 +810,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzMxNDU5NSwxNzU1OTc3MzkwLC0xNT
-k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
-MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
-k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
-MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
-w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
-MzE3MTFdfQ==
+eyJoaXN0b3J5IjpbODE0ODMzMDIxLDE3NTU5NzczOTAsLTE1OT
+QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
+MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
+Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
+OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
+kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
+MTcxMV19
 -->
