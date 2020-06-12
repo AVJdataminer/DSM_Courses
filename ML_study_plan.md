@@ -570,7 +570,7 @@ Learn advanced identification and imputation methods for missing values with thi
 ---
 
 # Exploratory Data Analysis
-Data Visualization is an important component of proper EDA, following the DSM steps you should consider building Bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable.
+Data visualization is an important component of proper EDA, following the DSM steps you should consider building Bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable.
 
 Example questions you should answer when completing EDA:
 
@@ -580,12 +580,12 @@ Example questions you should answer when completing EDA:
 **Why it matters:** Poor model performance and potential to overfit with model types that are sensitive to highly correlated features. 
 **How to fix:** Feature selection or model method that is not sensitive to highly correalted features.
 
-### Are the data balanced or imbalanced?
+### Is the response variable balanced or imbalanced?
 **How to identify:** Histograms or bar plots by class when appropriate. Also, inferential statistics can be used to confirm statistically unbalanced data.
 **Why it matters:** Unbalanced response variables in data will result in models that don't perform as well on all classes and will be highly bias.
 **How to fix:** Oversampling (SMOTE) or Undersampling (adsync)
 
-### Are there outliers present in the data?
+### Are outliers present in the data?
 **How to identify:** Boxplots, histograms, or calculating 1.5 * Interquartile Range, extreme value analysis, Z-scores, or Tukey's method.
 **Why it matters:** Affects model performance and bias negatively.
 **How to fix:** Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for our analysis.
@@ -610,7 +610,7 @@ Developing a proper understanding of the math and statistics behind data science
 
 Feature Selection Methods
 
-[]N-grams optimization
+
 
 []Remove low variance features
 
@@ -796,11 +796,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY1NzI5MzUsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbLTYwNjUwMTc3MCwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
