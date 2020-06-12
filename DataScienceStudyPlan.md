@@ -391,15 +391,11 @@ _Model Hyperparameter Tuning_
 
 Here is an example of performing a grid search optimization to identify the best settings for the hyperparameters in the Random Forest Regression model. Notice we first create a grid of values for each one of the hyperparameters to test.
 
-`from sklearn.ensemble import RandomForestRegressor`
-`from sklearn.model_selection import GridSearchCV`
-param_grid = {"n_estimators": [200, 500],  
- "max_depth": [3, None],  
- "max_features": [1, 3, 5, 10],  
- "min_samples_split": [2, 5, 10],  
- "min_samples_leaf": [1, 3, 10],  
- "bootstrap": [True, False]}model = RandomForestRegressor(random_state=0)grid = GridSearchCV(estimator=model, param_grid=param_grid, n_jobs=-1)grid.fit(X_train, y_train)print(grid.best_score_)print(grid.best_params_)
 
+
+    enter code 
+
+[enter link description here](https://trinket.io/python3/133b743109)
 Running this hyperparameter optimization will take some time to run compared to the plain out of the box application. However, you’re likely going to improve the model performance such that the added compute time will be worth the result.
 
 #### Identify the final model
@@ -736,5 +732,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbNjAzMzU0OTcsLTQ4MDQwNjIxMiwtODgxMD
+I3NzM0XX0=
 -->
