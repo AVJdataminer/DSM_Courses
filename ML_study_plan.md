@@ -565,8 +565,8 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 This section provides more detail on some topics covered previously in the Data Science Method sections. 
 
 ## Missing Values
- #### Identify then handle
-Learn advanced identification and imputation methods for missing values with this [Data Camp Course](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
+Learn advanced identification and imputation methods for missing values with this [Data Camp Course.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
+
 
 ## Outliers
 Another foundational issue in data cleaning is how to handle outliers. According to  [Wikipedia](https://en.wikipedia.org/wiki/Outlier "https://en.wikipedia.org/wiki/Outlier"):
@@ -891,11 +891,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNz
-U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
-NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
-EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
-ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
-g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
-MDY3NzIyMl19
+eyJoaXN0b3J5IjpbLTg2MDQzODAyLC0xNTA4Njg0MzcxLC00OT
+UxMTA1NzgsMTc1NTk3NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5
+MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC
+0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5
+NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MD
+gxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIy
+ODY4MDA0XX0=
 -->
