@@ -1,16 +1,11 @@
 # Study Plan Introduction 
 This study guide is designed to help you efficiently and effectively acquire the knowledge and skills you need to break into the field of data science. Whether you are software engineer or a program manager this guide will put you on the proven path of foundational knowledge to get started in a career in data science. Shorter topics will be covered in detail and more advanced topics will leverage several online resources to provide a more in-depth look. It is easy to get excited by the latest development in computer vision or a new machine learning model such as the Facebook Prophet model, however, before you can get hired and use these tools in your daily work you need to develop the foundational knowledge in the field of data science. It is the foundational algorithms like Logistic Regression and Random Forest as well as a solid project process that hiring managers are looking for in filling data science roles.
 
-# Introduction to Data Science
+Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in. 
 
-Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in. The larger framework of data science includes many subtopics including Aritifical Intell
-
- - [ ] Add image of how AI, ML, etc fit together.
-
-### Data Science Life Cycle
 The work of a data scientist is often changing based on the business needs or the phase of the project they are working in. Most large well developed data science teams in organizations have established processes for the develpment and execution of data driven projects. However. less centralized teams and individual contributors still need a process to manage all the steps in a data science project. In the next section you begin to learn how to implement a data project in a business context that will yield meaningful and reliable results.
 
-## The Data Science Method
+# The Data Science Method (DSM)
 To be successful, you must have all the prerequisite core knowledge of machine learning algorithms, programming abilities, and also be passionate about becoming a professional data scientist. The biggest difference between people that are successful in data science roles and those that are not is their ability to effectively frame data science projects and communicate project outcomes. Sometimes, this is referred to as data storytelling, however, that only describes part of the process involved in sharing your findings and results. You need to work to develop the entire framework for the narrative of your data science project to communicate the project as a story.
 
 The Data Science Method (DSM) serves to identify the context of your data science story. Starting with the end in mind is one way to glean some guidance — you must know where you are headed in order to take the appropriate steps along the way. This can be difficult depending on the complexity of your data and the business needs being requested for the project. Let’s consider the [scientific method](https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/a/the-science-of-biology) as a framework, as it provides clear steps that are taken along an experimental path.
@@ -773,5 +768,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMTAwNDcxLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbMTc0ODMxOTI3NiwtODgxMDI3NzM0XX0=
 -->
