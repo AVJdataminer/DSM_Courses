@@ -551,11 +551,12 @@ e.g. PDF outlining modeling process from data exploration to best model results.
 
 10. Model Findings that may be interesting to decision makers
 -   Feature Importances
--  Volu
-# Next Steps
-
+-  Volume of missing data
+- Surprising correlations
+#### Next Steps 
 -   Ready for production?
--   Test new hyperparameters or different modeling methods
+-  Further Feature Engineering needed
+-  Test new hyperparameters or different modeling methods
 
 ----------
 
@@ -811,11 +812,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMwOTI2OTcsMTc1NTk3NzM5MCwtMT
-U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
-MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
-E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
-OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
-UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
-MjMxNzExXX0=
+eyJoaXN0b3J5IjpbNjY0NDkwNzQ4LDE3NTU5NzczOTAsLTE1OT
+QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
+MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
+Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
+OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
+kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
+MTcxMV19
 -->
