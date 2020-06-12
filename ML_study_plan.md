@@ -7,7 +7,8 @@ This study guide is designed to help you efficiently and effectively acquire the
 ## Introduction to Data Science
 If you have been on your data science learning journey for a bit then you may be familiar with the content here and probably want to skip ahead to the next section.
 
-Data Science is the integration of 
+Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in.
+
 
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
@@ -272,11 +273,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTk3NzM5MCwtMTU5NDE5MTk4MCwtMT
-U4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyNDcsNDkwNjEy
-MDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1MDg2MzMsMT
-MzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcx
-Mjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC
-0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5MjMxNzExLDIxMTY0
-MzU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc4OTEzOTksMTc1NTk3NzM5MCwtMT
+U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
+MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
+E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
+OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
+UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
+MjMxNzExXX0=
 -->
