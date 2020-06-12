@@ -654,7 +654,7 @@ As you may be aware there are countless types of machine learning model types an
 - Data is split into training & testing data subsets (Cross validation)
 
 ### Supervised versus Unsupervised Models
-The primary difference is that in supervised models you have a labeled training data set. Meaning if you're classifiying images into flower species you have a sample of images that is already labeled by species. A supervised classification model can then be built to predict the labelof flower species on a second set of images that hasn't yet been labeled. In this same example 
+The primary difference is that in supervised models you have a labeled training data set. Meaning if you're classifiying images into flower species you have a sample of images that is already labeled by species. A supervised classification model can then be built to predict the label of the flower species on a second set of images that hasn't yet been labeled. In this same example an Unsupervised modeling method like K-means could statistically group the images together based on similarities but the model would not return a specific species prediction, siml
 
 
 ## Supervised Learning
@@ -796,7 +796,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTI4MjkzMiwtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbLTQ4MjE1NTc0NCwtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
