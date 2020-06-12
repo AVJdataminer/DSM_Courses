@@ -661,28 +661,14 @@ Why it matters: Poor model performance and potential to overfit with model types
 How to fix: Feature selection or model method that is not sensitive to highly correalted features.
 
 - Are the data balanced or imbalanced?
-How to identify: Histograms or bar plots by class when apprpriate.
+How to identify: Histograms or bar plots by class when appropriate. Also, inferential statistics can be used to confirm statistically unbalanced data.
 Why it matters: Unbalanced response variables in data will result in models that don't perform as well on all classes and will be highly bias.
 How to fix: Oversampling (SMOTE) or Undersampling (adsync)
 
+- Are Outliers prese
+
 ## Data Visualization
 
-- [ ] Which plots for which purpose or situation
-
-
-[x]Balanced or unbalanced data --> [x]SMOTE or under sampling (ada sync) or bootstrapping to oversample
-
-[x]Bar charts
-
-[]Near miss for under sampling
-
-[]Unbalanced response treated with stratifications
-
-[]Word Count - bigram, trigrams
-
-[]Bee swarm
-
-[]Inferential statistics to confirm statistically unbalanced
 
 [x]Scatter matrix
 
@@ -909,11 +895,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODc0NDYwLC0xNzM5MTc5MTg4LC04Nj
-A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
-OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
-wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
-OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
-AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
-MjYwNzE1XX0=
+eyJoaXN0b3J5IjpbLTExODQ0MTYyODcsLTE3MzkxNzkxODgsLT
+g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
+NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
+Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
+NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
+cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
+MTgyNjA3MTVdfQ==
 -->
