@@ -654,11 +654,13 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 The foundation of EDA is data viualization. This is meant to provide a guide to when which type is appropriate or answers an interesting question.
 
 Example questions you should answer when completing EDA:
-### Are the features multi-collinear?
-#### How: Pearson correlation heat maps or scores
-	3. Why it matters: Poor model performance and potential to overfit with model types that are sensitive to highly correlated features.  
-	
-2. Are the data balanced or imbalanced?
+
+ - Are the features multi-collinear?
+How to identify: Pearson correlation heat maps or scores.
+Why it matters: Poor model performance and potential to overfit with model types that are sensitive to highly correlated features.  
+
+- Are the data balanced or imbalanced?
+How: Histograms by class when ne
 
 ## Data Visualization
 
@@ -904,11 +906,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4NzE3NjMsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbMTM5MTE4MjMwMSwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
