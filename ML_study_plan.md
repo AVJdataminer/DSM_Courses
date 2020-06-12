@@ -191,7 +191,7 @@ Data Cleaning can be a time-consuming process and can have serious implications 
 
 The most common types of data cleaning steps are:
 
-1.  Handling missing and NA data
+1.  Handling missing, null,  and NA data
 2.  Removing duplicates
 
 As we mentioned in step 1 perhaps you need to combine two data frames from different sources into a single data frame. This requires unifying the formatting and filling in gaps of overlap with NA or other thoughtful fillers such as 0 or 1 when applicable.
@@ -810,11 +810,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDcxMzkxLDE3NTU5NzczOTAsLTE1OT
-QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
-MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
-Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
-OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
-kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
-MTcxMV19
+eyJoaXN0b3J5IjpbLTQ5NTExMDU3OCwxNzU1OTc3MzkwLC0xNT
+k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
+MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
+k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
+MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
+w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
+MzE3MTFdfQ==
 -->
