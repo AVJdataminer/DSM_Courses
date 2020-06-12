@@ -665,7 +665,8 @@ How to identify: Histograms or bar plots by class when appropriate. Also, infere
 Why it matters: Unbalanced response variables in data will result in models that don't perform as well on all classes and will be highly bias.
 How to fix: Oversampling (SMOTE) or Undersampling (adsync)
 
-- Are Outliers prese
+- Are outliers present in the data?
+How to identify: Boxplots, Distribution plots, or calculating 1.5 * Interquartile Range, extreme value analysis, or Z-score with of three stand
 
 ## Data Visualization
 
@@ -680,9 +681,9 @@ How to fix: Oversampling (SMOTE) or Undersampling (adsync)
 
 []Histograms or Distribution plots
 
-[x]Boxplots
+[x]
 
-[x]Outliers [1.5 * IQR, or extreme value analysis, Z-score 3 std] - frequency of words
+[x]Outliers [] - frequency of words
 
 []Hypothesis testing with a/b like testing for same mean
 
@@ -895,11 +896,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ0MTYyODcsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbLTU0NjU0MDkxOCwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
