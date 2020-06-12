@@ -650,7 +650,8 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 ---
 
-# EDA
+# Exploratory Data Analysis
+
 ## Data Visualization
 
 - [ ] Which plots for which purpose or situation
@@ -891,11 +892,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDQzODAyLC0xNTA4Njg0MzcxLC00OT
-UxMTA1NzgsMTc1NTk3NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5
-MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC
-0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5
-NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MD
-gxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIy
-ODY4MDA0XX0=
+eyJoaXN0b3J5IjpbLTk1NzQwODM1OSwtODYwNDM4MDIsLTE1MD
+g2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3MzkwLC0xNTk0MTkx
+OTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAzMTI0Ny
+w0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMTk0NzUw
+ODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5MzkwMT
+EsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5
+NzYxNTFdfQ==
 -->
