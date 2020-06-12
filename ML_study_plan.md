@@ -878,6 +878,7 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 Consider learning more about these topicsas well.
 - [ ] Recommendation Systems
 - [ ] Time Series methods
+- [ ] NLP
 - [ ] Dash Boards (Dask, plotly)
 - [ ] Deep Learning - when is it needed or benefit/cost comparison
 
@@ -893,11 +894,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTg5MDU2NSwtODYwNDM4MDIsLTE1MD
-g2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3MzkwLC0xNTk0MTkx
-OTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAzMTI0Ny
-w0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMTk0NzUw
-ODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5MzkwMT
-EsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNSw5Mzg5
-NzYxNTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzkxNzkxODgsLTg2MDQzODAyLC0xNT
+A4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3NzM5MCwtMTU5NDE5
+MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyND
+csNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1
+MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MD
+ExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4
+OTc2MTUxXX0=
 -->
