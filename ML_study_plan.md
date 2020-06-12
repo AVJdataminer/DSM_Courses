@@ -30,7 +30,7 @@ Based on the scientific method, I have developed the Data Science Method (DSM) a
 3.  Exploratory Data Analysis
 4.  Pre-processing and Training Data Development
 5.  Modeling
-6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
+6.  Documentation
 
 The DSM steps can be applied to nearly every data science or machine learning project, as it serves as a guide map for what actions you need to take. The benefits of following this approach include, but are not limited to: reducing the likelihood of needing to backtrack in your work to solve a data problem, identifying key data issues early, gauging expectations of the project outcomes appropriately, forcing yourself as the data science professional to be very clear about the goal of the project and how the data does or does not support that goal. The DSM steps and other frameworks have been developed by seasoned professionals because they have extensive experience managing projects that forced them to acknowledge when they overlooked a crucial consideration earlier in the analysis. The DSM is most helpful for aspiring data scientists because it allows you to leverage the experience of professionals that came before you.
 
@@ -810,11 +810,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE2NDM4NjgsMTc1NTk3NzM5MCwtMT
-U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
-MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
-E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
-OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
-UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
-MjMxNzExXX0=
+eyJoaXN0b3J5IjpbODQ0NDcxMzkxLDE3NTU5NzczOTAsLTE1OT
+QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
+MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
+Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
+OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
+kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
+MTcxMV19
 -->
