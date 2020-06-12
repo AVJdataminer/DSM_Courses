@@ -13,7 +13,6 @@ How to approach a data science problem in an organized and outcomes oriented man
 5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
 6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 
-### An example guided case study
 
 ---
 # Data Wrangling
@@ -195,7 +194,7 @@ No matter which model you start with the idea is to balance the constraints of e
 
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
-
+- [ ]  Model evaluation metrics in detail
 
 # Practical Application
 ### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
@@ -247,12 +246,12 @@ Spark can run in standalone local mode with all processes inside a single Java V
 Spark uses a data representation called the Resilient Distributed Dataset (RDD). This is a data type very similar to the dataframe you know from Pandas but optimized to be distributed across multiple computers, residing in memory across all of them. Once an RDD has been created, by using Spark methods and functions, you interact with this distributed dataset as if it existed only on a single device. As an end developer, you don’t know — or need to know — how the RDD is actually allocated. Spark frees you from those details and allows you to focus on what is important to you — analyzing a dataset.
 
 ## Advanced topics
-Consider learning more about these topics 
+Consider learning more about these topicsas well.
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] Dash Boards (Dask, plotly)
 - [ ] Deep Learning - when is it needed or benefit/cost comparison
-- [ ]  Model evaluation metrics in detail
+
 
 
 
@@ -265,7 +264,7 @@ Consider learning more about these topics
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjU4MDc3Miw0OTA2MTIwMjgsLTE0OT
+eyJoaXN0b3J5IjpbLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OT
 Y4OTk0MzEsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1
 LC0xMTg4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNT
 k1MDU2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4Njgw
