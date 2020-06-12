@@ -653,6 +653,10 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 # Exploratory Data Analysis
 The foundation of EDA is data viualization. This is meant to provide a guide to when which type is appropriate or answers an interesting question.
 
+Example questions you should answer when completing EDA:
+1. Are my features multi-collinear?
+2. 
+
 ## Data Visualization
 
 - [ ] Which plots for which purpose or situation
@@ -897,11 +901,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNTk3MzM0LC0xNzM5MTc5MTg4LC04Nj
-A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
-OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
-wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
-OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
-AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
-MjYwNzE1XX0=
+eyJoaXN0b3J5IjpbLTE1NTQzNjQwMywtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
