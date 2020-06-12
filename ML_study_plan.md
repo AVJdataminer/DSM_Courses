@@ -639,13 +639,12 @@ Things to consider when choosing a feature selection method:
    function reducing the coefs to zero.
 
 ### Feature Engineering 
-This can simply refer to log transformed data or it can be something more complex like developin
+This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. 
 
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
 
 
-
-# Model Prep Steps
+# Model Preperation Steps
 
 []Build dummies
 
@@ -797,11 +796,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDM4MDg3OSwtMTczOTE3OTE4OCwtOD
-YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
-MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
-gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
-Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
-EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
-ODI2MDcxNV19
+eyJoaXN0b3J5IjpbLTExODAxNTI2MTgsLTE3MzkxNzkxODgsLT
+g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
+NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
+Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
+NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
+cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
+MTgyNjA3MTVdfQ==
 -->
