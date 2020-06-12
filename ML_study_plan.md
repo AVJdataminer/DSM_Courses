@@ -189,6 +189,115 @@ _Drop duplicate rows and columns_
 
 Next, we need to check for duplicate rows and columns. Duplicate rows could be legitimate values depending on your data and how it was collected or the magnitude of variation that is expected in your data. The only time you should delete duplicate rows is if you are confident they are repeated measures of the same observation and that it has negative consequences for your expected statistical modeling method. Your prior work on data definitions will inform you of any duplicate columns. Duplicate columns are common when multiple data sources are combined to create the model development dataset. These may not have the same column name, but if the columns’ rows are identical to another column, one of them should be removed.
 
+### Exploratory Data Analysis
+EXPLORATORY DATA ANALYSIS (EDA)
+
+Step number three in the Data Science Method (DSM) assumes that both steps  [one](https://medium.com/datadriveninvestor/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)  and  [two](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)  have already been completed. At this point in your data science project, you have a well-structured and defined hypothesis or problem description. The model development data set is up and ready to be explored, and your early data cleaning steps are already completed. At a minimum, you have one column per variable and have a clear understanding of your response variable.
+
+Based on step two in the DSM you have already reviewed the following items about each variable in your data:
+
+1.  Column Name
+2.  Data Type (numeric, categorical, timestamp, etc)
+3.  Description of Column
+4.  Count or percent per unique values or codes (including NA)
+5.  The range of values or codes
+
+There are many sub-steps in a proper exploratory data analysis (EDA) workflow. Depending on your familiarity with your data and the complexity of the data and the problem you are solving the scale of the EDA necessary may change. Generally, the exploratory analysis workflow can be broken down into four critical steps:
+
+1.  **Build data profile tables and plots**
+2.  **Explore data relationships**
+3.  **Identification and creation of features**
+
+----------
+
+1. DATA PROFILES — PLOTS AND TABLES
+
+_Reviewing summary statistics_
+
+Summary statistics can be evaluated via a summary statistics table and by checking the individual variable distribution plots. Both will indicate the spread of your data. Depending on the distribution, you may be able to infer the mean from distribution plots; however, the summary table is the best way to review this value. Compare the example summary statistics table and the histogram plots for reference.
+
+#summary stats table transposed for df  
+df.describe().T
+
+![](https://miro.medium.com/max/60/1*qRoPSnAT1ZPJWfepHv-9Fw.png?q=20)
+
+![](https://miro.medium.com/max/808/1*qRoPSnAT1ZPJWfepHv-9Fw.png)
+
+Summary Statistics Table
+
+#histograms for each variable in df  
+hist = df.hist(bins=10,figsize =(10,10))
+
+![](https://miro.medium.com/max/60/1*4jeeEvIoLOyTm27rM5PlMw.png?q=20)
+
+![](https://miro.medium.com/max/994/1*4jeeEvIoLOyTm27rM5PlMw.png)
+
+Histogram plots of each variable in the data frame
+
+Categorical variables require a slightly different approach to review the overall number of each unique value per variable and compare them to each other. The example data we are using for these figures do not contain categorical variables; however, below is an example workflow for categorical variables:
+
+#select categorical variables only  
+df_cat = dataset.select_dtypes(include = 'object').copy()#get counts of each variable value  
+df_cat.ColumnName.value_counts()#count plot for one variable  
+sns.countplot(data = df_cat, x = 'ColumnName')
+
+_Reviewing for Outliers and Anamolies_
+
+Boxplots are a quick way to identify outliers or anomalous observations. Considering these values within the context of your data is important. There may be situations where the so-called outliers or extreme values are the observations of the most interest. For example, if we review the air quality dataset used in the example summary table and histograms we see that several observations beyond the upper whisker; however, these extreme values are observations where the concentration of the particle in question probably exceeds the healthy limit. Similarly, when we review the humidity data, we have a few data points falling outside the upper limit. We want to consider if those values are data collection errors (which is very likely for anything above 100%) and then remove those observations.
+
+#create a boxplot for every column in df  
+boxplot = df.boxplot(grid=False, vert=False,fontsize=15)
+
+![](https://miro.medium.com/max/60/1*ROe1IE0TCSeBjCJI-aHcGw.png?q=20)
+
+![](https://miro.medium.com/max/562/1*ROe1IE0TCSeBjCJI-aHcGw.png)
+
+Boxplot of each variable in the data frame
+
+----------
+
+2. DATA RELATIONSHIPS
+
+Investigating variable relationships through covariance matrices and other analysis methods is essential for not only evaluating the planned modeling strategy but also allows you to understand your data further. Below, we calculated the correlation coefficients for each variable in the data frame and then fed those correlations into a heatmap for ease of interpretation.
+
+![](https://miro.medium.com/max/60/1*y14HU1jpCg-ZHkH1wVcj3A.png?q=20)
+
+![](https://miro.medium.com/max/717/1*y14HU1jpCg-ZHkH1wVcj3A.png)
+
+Pearson Correlation Heatmap
+
+#create the correlation matrix heat map  
+plt.figure(figsize=(14,12))  
+sns.heatmap(df.corr(),linewidths=.1,cmap="YlGnBu", annot=True)  
+plt.yticks(rotation=0);
+
+A glance at the correlation heatmap (Figure X) shows how strongly correlated the different air pollution metrics are with each other, with values between 0.98 and 1. Logically, we know they will be highly correlated, and that is not of concern here. But, if we weren’t expecting that and we’re planning to treat them as independent variables in our modeling process, we would violate co-linearity rules and would need to consider using a modeling technique such as a Random Forest or a decision tree, which is not negatively impacted by high variable correlations.
+
+_Pair plots_
+
+Another way to evaluate the variable distributions against each other is with the  [seaborn pair](https://seaborn.pydata.org/generated/seaborn.pairplot.html)  plots function.
+
+![](https://miro.medium.com/max/60/1*kMSVp41Rf5vuqgxoETbMVg.png?q=20)
+
+![](https://miro.medium.com/max/743/1*kMSVp41Rf5vuqgxoETbMVg.png)
+
+#pair plots  
+g = sns.pairplot(df)
+
+----------
+
+3. IDENTIFYING AND CREATING FEATURES
+
+Variables and features are almost synonymous. The primary difference tends to be the context in which they are used; in machine learning, it is common practice to identify predictive features in your data whereas in parametric statistics, features are often referred to as variables and variables can include the response variable which you predict with your model.
+
+The goal of identifying features is to use your exploratory work to isolate features that will be most helpful in constructing a predictive model. In addition to recognizing those features, it often behooves one to create additional features for inclusion in your predictive modeling work.
+
+Once you have identified the critical features for your model development, you may realize you need to create additional features to augment your original data. You can do this through the development of combining features or revaluing them to emphasize specific relationships. Additional features can also be created through Principal Components Analysis or Clustering.
+
+Building a [Principle Components Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)  is a useful way to apply a dimension reduction application to identify which features contain the most amount of variation within your development dataset. The predictive model can be constructed on the principal components themselves as features, resulting in feature reduction. Feature reduction is helpful when your data set has too many features to choose from, and you need a more automated way to reduce the number of input features for modeling. There are different flavors of dimension reduction methods based on multi-dimensional scaling, such as  [Principal Coordinate Analysis](https://en.wikipedia.org/wiki/Multidimensional_scaling#Types). Lasso regression is another tool for a semi-automated feature selection approach. Review these methods to determine the best strategy for your project.
+
+Clustering (e.g. K-means clustering) is an excellent exploratory analysis method for creating additional features which in this case would be the clusters themselves. The clusters can be used in conjunction with additional features if you find them to be valid after review.
+
 
 ---
 # Data Wrangling
@@ -440,7 +549,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzAxNzg4NCwxNzU1OTc3MzkwLC0xNT
+eyJoaXN0b3J5IjpbMTM2NjY0OTIxMiwxNzU1OTc3MzkwLC0xNT
 k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
 MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
 k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
