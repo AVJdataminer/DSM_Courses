@@ -40,7 +40,7 @@ Review each of the linked articles in the above short outline to understand each
 
 ![](https://miro.medium.com/max/19/1*mTywR9Il5syvfK4js5TGMA.png?q=20)
 
-### Problem Identification
+### DSM - Problem Identification
 Problem identification is the very first, essential step to a well-positioned data science project.
 
 Start by identifying the goal of the data science project. Ask the question: Is this an exploratory project or a predictive modeling project? If the answer is exploratory, then less planning may be needed at the outset to ensure interesting and meaningful outcomes. You might have questions about how you can tell if a project is exploratory or predictive,  so let’s work through some examples. You may be given a data set for a project and asked questions such as:
@@ -91,7 +91,7 @@ Here is a list of general questions to help you get started in defining the abov
 
 As you develop answers to these questions and the steps outlined in problem identification, you will not only gain a focused trajectory of work, but you also will get at the key details needed for model documentation. Further, you will connect your data analysis to a business need, which may have motivated the work in the first place. If you clearly define your data science work, you will have a framework for successful implementation that works within any industry.
 
-### Data Wrangling
+### DSM - Data Wrangling
 **Data Wrangling Steps:**
 
 Data wrangling consists of four high-level steps that should be applied in any data science project.
@@ -189,8 +189,7 @@ _Drop duplicate rows and columns_
 
 Next, we need to check for duplicate rows and columns. Duplicate rows could be legitimate values depending on your data and how it was collected or the magnitude of variation that is expected in your data. The only time you should delete duplicate rows is if you are confident they are repeated measures of the same observation and that it has negative consequences for your expected statistical modeling method. Your prior work on data definitions will inform you of any duplicate columns. Duplicate columns are common when multiple data sources are combined to create the model development dataset. These may not have the same column name, but if the columns’ rows are identical to another column, one of them should be removed.
 
-### Exploratory Data Analysis
-EXPLORATORY DATA ANALYSIS (EDA)
+### DSM - Exploratory Data Analysis (EDA)
 
 Step number three in the Data Science Method (DSM) assumes that both steps  [one](https://medium.com/datadriveninvestor/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)  and  [two](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)  have already been completed. At this point in your data science project, you have a well-structured and defined hypothesis or problem description. The model development data set is up and ready to be explored, and your early data cleaning steps are already completed. At a minimum, you have one column per variable and have a clear understanding of your response variable.
 
@@ -549,11 +548,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjY0OTIxMiwxNzU1OTc3MzkwLC0xNT
-k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
-MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
-k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
-MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
-w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
-MzE3MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYxNzM3MDgsMTc1NTk3NzM5MCwtMT
+U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
+MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
+E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
+OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
+UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
+MjMxNzExXX0=
 -->
