@@ -761,7 +761,6 @@ As you may be aware there are countless types of machine learning model types an
 ## Supervised Learning
 [Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
 
-[This useful resource offers great advice about when different classification methods ought to be used.](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
@@ -776,6 +775,7 @@ Random Forest
 SVM
 
 KNN
+
 
 ## Unsupervised Learning
 
@@ -894,11 +894,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkxNzkxODgsLTg2MDQzODAyLC0xNT
-A4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3NzM5MCwtMTU5NDE5
-MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEyND
-csNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5NDc1
-MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5MD
-ExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOTM4
-OTc2MTUxXX0=
+eyJoaXN0b3J5IjpbLTE3NTgwMjE1NzMsLTE3MzkxNzkxODgsLT
+g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
+NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
+Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
+NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
+cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
+MTgyNjA3MTVdfQ==
 -->
