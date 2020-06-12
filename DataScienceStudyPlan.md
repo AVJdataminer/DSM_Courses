@@ -215,19 +215,16 @@ Histogram plots of each variable in the data frame
 
 Categorical variables require a slightly different approach to review the overall number of each unique value per variable and compare them to each other. The example data we are using for these figures do not contain categorical variables; however, below is an example workflow for categorical variables:
 
-#select categorical variables only  
-df_cat = dataset.select_dtypes(include = 'object').copy()#get counts of each variable value  
-df_cat.ColumnName.value_counts()#count plot for one variable  
-sns.countplot(data = df_cat, x = 'ColumnName')
+`df_cat = dataset.select_dtypes(include = 'object').copy() #get counts of each variable value  
+df_cat.ColumnName.value_counts() #count plot for one variable  
+sns.countplot(data = df_cat, x = 'ColumnName')`
 
 _Reviewing for Outliers and Anamolies_
 
 Boxplots are a quick way to identify outliers or anomalous observations. Considering these values within the context of your data is important. There may be situations where the so-called outliers or extreme values are the observations of the most interest. For example, if we review the air quality dataset used in the example summary table and histograms we see that several observations beyond the upper whisker; however, these extreme values are observations where the concentration of the particle in question probably exceeds the healthy limit. Similarly, when we review the humidity data, we have a few data points falling outside the upper limit. We want to consider if those values are data collection errors (which is very likely for anything above 100%) and then remove those observations.
 
-#create a boxplot for every column in df  
-boxplot = df.boxplot(grid=False, vert=False,fontsize=15)
-
-![](https://miro.medium.com/max/60/1*ROe1IE0TCSeBjCJI-aHcGw.png?q=20)
+`#create a boxplot for every column in df`  
+`boxplot = df.boxplot(grid=False, vert=False,fontsize=15)`
 
 ![](https://miro.medium.com/max/562/1*ROe1IE0TCSeBjCJI-aHcGw.png)
 
@@ -239,24 +236,20 @@ Boxplot of each variable in the data frame
 
 Investigating variable relationships through covariance matrices and other analysis methods is essential for not only evaluating the planned modeling strategy but also allows you to understand your data further. Below, we calculated the correlation coefficients for each variable in the data frame and then fed those correlations into a heatmap for ease of interpretation.
 
-![](https://miro.medium.com/max/60/1*y14HU1jpCg-ZHkH1wVcj3A.png?q=20)
-
 ![](https://miro.medium.com/max/717/1*y14HU1jpCg-ZHkH1wVcj3A.png)
 
 Pearson Correlation Heatmap
 
-#create the correlation matrix heat map  
+`#create the correlation matrix heat map  
 plt.figure(figsize=(14,12))  
 sns.heatmap(df.corr(),linewidths=.1,cmap="YlGnBu", annot=True)  
-plt.yticks(rotation=0);
+plt.yticks(rotation=0);`
 
 A glance at the correlation heatmap (Figure X) shows how strongly correlated the different air pollution metrics are with each other, with values between 0.98 and 1. Logically, we know they will be highly correlated, and that is not of concern here. But, if we weren’t expecting that and we’re planning to treat them as independent variables in our modeling process, we would violate co-linearity rules and would need to consider using a modeling technique such as a Random Forest or a decision tree, which is not negatively impacted by high variable correlations.
 
 _Pair plots_
 
 Another way to evaluate the variable distributions against each other is with the  [seaborn pair](https://seaborn.pydata.org/generated/seaborn.pairplot.html)  plots function.
-
-![](https://miro.medium.com/max/60/1*kMSVp41Rf5vuqgxoETbMVg.png?q=20)
 
 ![](https://miro.medium.com/max/743/1*kMSVp41Rf5vuqgxoETbMVg.png)
 
@@ -738,5 +731,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgwMjgzMjcsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTE0ODk4MzE3OTMsLTg4MTAyNzczNF19
 -->
