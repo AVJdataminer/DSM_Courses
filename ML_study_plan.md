@@ -567,87 +567,6 @@ This section provides more detail on some topics covered previously in the Data 
 ## Missing Values
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
-
-## Outliers
-Another foundational issue in data cleaning is how to handle outliers. According to  [Wikipedia](https://en.wikipedia.org/wiki/Outlier "https://en.wikipedia.org/wiki/Outlier"):
-
-> An outlier is an observation point that is distant from other observations.
-
-Understanding what being "distant from other observations" means is easy if we think in a two-dimensional space. For example, if we had a dataset of the net worth of the 7 billion people on earth, then the net worth of the richest 1,000 people would be visible outliers as they are way higher than the rest.
-
-In general, we get outliers in the data in 2 ways:
-
-1.  An error in the data collection process may create outliers. Take, for example, a "Salary" column in an Excel workbook where the values are stored in thousands. If we mistakenly type 100,000 instead of 100, we created an outlier due to error. That is more broadly called "measurement error."
-2.  Sometimes, the processes that generate the data produce extreme and rare values which can be regarded as true outliers. In this case, the abnormal data is not due to measurement error but to the extreme nature of the observation itself. These cases should be rare.
-
-In this checkpoint, we'll cover:
-
--   Why we "don't like" outliers
--   How to detect outliers
--   How to treat outliers
-
-Before proceeding further, let's highlight that outliers are defined for continuous variables and not for categorical ones. All discussion in this checkpoint, then, applies only to continuous variables.
-
-### Do we really "not like" outliers?
-
-Outliers can contain valuable information and should not be discarded without close consideration of what is causing them. However, for data science models and applications, we often "don't like" outliers because:
-
--   They skew the descriptive statistics of the data. For example, consider one of the most commonly used descriptive statistics—the mean. This value can be severely skewed by outliers.
-    
--   Some machine learning models are sensitive to extreme values. In order to get more accurate estimates, we need to eliminate those values from our dataset.
-
-That being said, some tasks in data science are  _all about_  the outliers. For example, in anomaly detection the main goal is to identify anomalies—which are often outliers themselves! This area of data science, however, is outside the scope of this course.
-
-### Outlier detection
-
-Detecting outliers, of course, is the first step to understanding how to handle them. But, just as with many of our previous tasks, there is no absolute to define what constitutes an outlier. When we talk about outliers, we should make sure that they are  **rare**  and have  **extreme**  values. Defining just  _how_  rare and  _how_  extreme they are is a judgment call that depends on the task at hand. In light of that, there are some commonly used thresholds for defining outliers.
-
-Usually, we will use standard deviation to define the outliers. Values that reside outside the range of  **(mean - T_standard deviation, mean + T_standard deviation)**  are considered outliers. Here  **T** stands for threshold. Depending on the case, it's common to set the threshold to 1.5, 2, 3, or 5. But, as mentioned earlier, the exact threshold value varies depending on the project in question.
-
-There are two main methods of outlier detection:
-
-1.  Visualize the variables using boxplots and histograms.
-2.  Use statistical techniques such as Z-scores, Tukey's method
-
-### How to treat outliers
-
-We've detected the outliers—now what? We need to do something with them so that they do not affect the reliability of our analysis. Broadly speaking, there are 3 approaches we can take in handling outliers:
-
-  
-
-1. We can **drop the outliers** from our dataset.
-
-  
-
-2. We can **cap the values of the outliers** by assigning them new values.
-
-  
-
-3. We can **transform** the outliers into something harmless for our analysis.
-
-  
-
-Let's go over each approach in turn.
-
-  
-
-### Dropping outliers from the dataset
-
-  
-
-Dropping the observations with extreme values is probably the easiest way of handling outliers. But, consider our discussion from the previous checkpoint about dropping missing values. By excluding any observations from the dataset, we effectively lose information. This the same case for dropping outliers, especially in small datasets. However, some situations may justify dropping the outliers from the dataset:
-* If we know that the outliers stem from measurement error or a problem in the data collection process, we should drop them.
-* If dropping the outliers doesn't make any meaningful change in the following phases of analysis, we can drop them. However, we need to replicate our analysis both with the outliers and without them to confirm this.
-* If dropping the outliers makes a meaningful change in the following phases, but we can't find a proper way of handling them otherwise, we can drop them from our dataset.
-
-### Limiting the values of the outliers
-
-The main problem with the outliers stems from their extreme magnitudes. If we can cap the values of the outliers, their effects on our analysis would be limited. One common way of limiting the outlier values is called **winsorization**. Winsorization can be applied in *one-way* or *two-way* techniques. In one-way winsorization, we either limit the lowest end of the value distribution or the highest end. In two-way winsorization, we set limits on both the lowest end and the highest end.
-
-The idea in winsorization is to set the values of the extreme points to the value of a specified percentile. For example, we may set the values of the highest end of the distribution to the value of the 95th percentile. Similarly, we can set the values of the lowest end to the value of the 5th percentile.
-
-We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple of values as a parameter to this method where the 1st element of the tuple is the lowest percentile and the 2nd element is the highest percentile in the two-way winsorization. If we want to apply one-way percentile, we can set the corresponding element in this tuple to zero (0).
-
 ---
 
 # Exploratory Data Analysis
@@ -656,6 +575,7 @@ The foundation of EDA is data viualization. This is meant to provide a guide to 
 Example questions you should answer when completing EDA:
 
  - Are the features multi-collinear?
+ - 
 How to identify: Pearson correlation heat maps or scores.
 Why it matters: Poor model performance and potential to overfit with model types that are sensitive to highly correlated features. 
 How to fix: Feature selection or model method that is not sensitive to highly correalted features.
@@ -671,27 +591,6 @@ Why it matters: Affects model performance and bias negatively.
 How to fix: Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for our analysis.
 
 
-## Data Visualization
-
-
-[x]Scatter matrix
-
-[x]Pearson correlation coefficients heat map
-
-[x]Paired plot
-
-[]Bi-plots
-
-[]Histograms or Distribution plots
-
-[x]
-
-[x]Outliers [] - frequency of words
-
-[]Hypothesis testing with a/b like testing for same mean
-
-[]Time series or line graphs
-- [ ] Online Resource for learning Python data vis
 
 
 ## Math and Statistics for Data Scientists
@@ -899,11 +798,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY5MjcyODgsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbMjAwMzMzMDU3NSwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
