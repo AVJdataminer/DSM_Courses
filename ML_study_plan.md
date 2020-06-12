@@ -442,7 +442,8 @@ Which model performance metric to use may be a decision to be made in the projec
 
 Compare two model performances
 
-When choosing a final model also consider how often this model will need to be re-run and the processing time increase versus model performance increase. Additional considerations include interpretability and the associated buy-in by the stakeholders.
+**When choosing a final model also consider how often this model will need to be re-run and the processing time increase versus model performance increase. Additional considerations include interpretability and the associated buy-in by the stakeholders.**
+
 ---
 # Data Wrangling
 ## Missing Values
@@ -693,7 +694,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk0NTYzNSwxNzU1OTc3MzkwLC0xNT
+eyJoaXN0b3J5IjpbLTU2OTEzMDU0OSwxNzU1OTc3MzkwLC0xNT
 k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
 MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
 k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
