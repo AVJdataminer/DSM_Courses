@@ -657,11 +657,13 @@ Example questions you should answer when completing EDA:
 
  - Are the features multi-collinear?
 How to identify: Pearson correlation heat maps or scores.
-Why it matters: Poor model performance and potential to overfit with model types that are sensitive to highly correlated features.  
+Why it matters: Poor model performance and potential to overfit with model types that are sensitive to highly correlated features. 
+How to fix: Feature selection or model method that is not sensitive to highly
 
 - Are the data balanced or imbalanced?
 How: Histograms or bar plots by class when apprpriate.
 Why: Unbalanced response variables in data will result in models that don't perform as well on all classes and will be highly bias.
+How to fix: Oversampling (SMOTE) or Undersampling (adsync)
 
 ## Data Visualization
 
@@ -907,7 +909,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODM3NjUwMCwtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbLTQ3NjQzNTAyOCwtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
