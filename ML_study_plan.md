@@ -32,16 +32,15 @@ Based on the scientific method, I have developed the Data Science Method (DSM) a
 5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
 6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
 
+The DSM steps can be applied to nearly every data science or machine learning project, as it serves as a guide map for what actions you need to take. The benefits of following this approach include, but are not limited to: reducing the likelihood of needing to backtrack in your work to solve a data problem, identifying key data issues early, gauging expectations of the project outcomes appropriately, forcing yourself as the data science professional to be very clear about the goal of the project and how the data does or does not support that goal. The DSM steps and other frameworks have been developed by seasoned professionals because they have extensive experience managing projects that forced them to acknowledge when they overlooked a crucial consideration earlier in the analysis. The DSM is most helpful for aspiring data scientists because it allows you to leverage the experience of professionals that came before you.
 
-**[The Data Science Method](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)**
+Structured thinking is a common and well-articulated tool used in all types of industries. Thus, the DSM supports an organized approach to solving a business problem with data, and it also supports the essential communication component of articulating project outcomes to your client. As you work through the five steps of the DSM, you will build a deeper understanding of your data, the problem, and how the data can be leveraged to meet your client’s expectations and solve the problem.
 
-1.  [Problem Identification](https://medium.com/@aiden.dataminer/the-data-science-method-problem-identification-6ffcda1e5152)
-2.  [Data Wrangling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)
-3.  [Exploratory Data Analysis](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-exploratory-data-analysis-bc84d4d8d3f9)
-4.  [Pre-processing and Training Data Development](https://link.medium.com/i5yDUwZi9W)
-5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
-6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
+Review each of the linked articles in the above short outline to understand each step in more depth. For now, here is the full overview of the DSM steps.
 
+![](https://miro.medium.com/max/19/1*mTywR9Il5syvfK4js5TGMA.png?q=20)
+
+### Problem Identification
 
 ---
 # Data Wrangling
@@ -293,11 +292,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY2ODM0ODksMTc1NTk3NzM5MCwtMT
-U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
-MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
-E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
-OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MT
-UsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5
-MjMxNzExXX0=
+eyJoaXN0b3J5IjpbMTI2MjA1Njg0NCwxNzU1OTc3MzkwLC0xNT
+k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
+MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
+k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
+MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
+w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
+MzE3MTFdfQ==
 -->
