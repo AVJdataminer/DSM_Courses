@@ -654,7 +654,7 @@ As you may be aware there are countless types of machine learning model types an
 - Data is split into training & testing data subsets (Cross validation)
 
 ### Supervised versus Unsupervised Models
-The primary difference is that in supervised models you have a labeled training data set. Meaning if you're classifiying images into flower species you have a sample of images that is already labeled by species. A supervised classification model can then be built to predict the label of the flower species on a second set of images that hasn't yet been labeled. In this same example an Unsupervised modeling method like K-means clustering could statistically group the images together based on similarities but the model would not return a specific species prediction, simply a list of the cluster number each image was a member of based on the K means algortihm output. A numeric response variable can also be supervised, cosider building a model to predict home prices, the data contains 'labeled' examples of the sales price given the f
+The primary difference is that in supervised models you have a labeled training data set. Meaning if you're classifiying images into flower species you have a sample of images that is already labeled by species. A supervised classification model can then be built to predict the label of the flower species on a second set of images that hasn't yet been labeled. In this same example an Unsupervised modeling method like K-means clustering could statistically group the images together based on similarities but the model would not return a specific species prediction, simply a list of the cluster number each image was a member of based on the K means algortihm output. A numeric response variable can also be supervised, cosider building a model to predict home prices, the data contains 'labeled' examples of the sales price given the components of the house. 
 
 ## Supervised Learning
 [Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
@@ -795,11 +795,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MjkzOTk2LC0xNzM5MTc5MTg4LC04Nj
-A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
-OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
-wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
-OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
-AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
-MjYwNzE1XX0=
+eyJoaXN0b3J5IjpbMTk4MzA0NDIwMiwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
