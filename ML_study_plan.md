@@ -654,9 +654,12 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 
 # EDA
 ## Data Visualization
+- [ ] Which plots for which purpose or situation
+- [ ] Online Resource for learning Python data vis
+- [ ] Online resource for R data vis 
 
 ## Math and Statistics for Data Scientists
-
+Developing a proper understanding of the math and statistics behind 
 -   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
 -   [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
 -   [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
@@ -816,11 +819,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTQ1Mjc2NiwtNDk1MTEwNTc4LDE3NT
-U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
-MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
-wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
-NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
-YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
-Njc3MjIyXX0=
+eyJoaXN0b3J5IjpbMTc4MDg2NjkxLC00OTUxMTA1NzgsMTc1NT
+k3NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQz
+NjQ4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC
+05NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1
+MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Ni
+wzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2
+NzcyMjJdfQ==
 -->
