@@ -338,7 +338,7 @@ Let’s review the primary steps applied in Modeling.
 
 ----------
 
-#### Fit the model with the training data
+### Fit the model with the training data
 
 In the previous DSM step, we discussed the importance of creating a training and testing split of your model development dataset. Additionally, you should have a clear understanding of what you’re hoping to predict. The data type of your response variable along with a strong understanding of the features will guide you in determining which type of model to fit.
 
@@ -367,7 +367,7 @@ After fitting the model we score the model to review the performance as well as 
 
 ----------
 
-#### Review the model performances — Iterate over models and parameters
+### Review the model performances — Iterate over models and parameters
 
 The code box below demonstrates the step of creating predictions on the testing data set using the model you developed in the previous step.
 
@@ -404,7 +404,7 @@ Here is an example of performing a grid search optimization to identify the best
 
 Running this hyperparameter optimization will take some time to run compared to the plain out of the box application. However, you’re likely going to improve the model performance such that the added compute time will be worth the result.
 
-#### Identify the final model
+### Identify the final model
 
 Model performance metrics are again dependent on whether you’re working in a regression universe or a supervised classification universe. Here is a list of commonly used model performance metrics for your reference.
 
@@ -435,9 +435,9 @@ When reviewing your data science project results you are first looking at how th
     The expected price is $88.72
 
 Similarly, if we are looking to forecast maintenance in order to prevent manufacturing downtime we have to start with reviewing sensor data for anomalies in the equipment. An anomaly is an event of the sensor failing over some time horizon. This is considered an anomaly because the majority of the time-series sensor data show reasonable values, and it is not until the sensor fails that maintenance event is indicated. Often the sensor will return zero when everything is running smoothly.
-![](https://miro.medium.com/max/502/1*f5ydhOk9e8-Rhg31pu9uhQ.png)
 
-Sensor data stream where anything other than zero indicates a failure
+![Sensor data stream where anything other than zero indicates a failure](https://miro.medium.com/max/502/1*f5ydhOk9e8-Rhg31pu9uhQ.png)
+
 
 In this sensor example, we have eight failure events at the beginning of our time-series, which from a manufacturing perspective could cause a big disruption and it would be ideal if those failures could be forecast and preventive maintenance be applied before that event occurs to avoid manufacturing downtime. Therefore our data science modeling should be oriented toward effectively forecasting the failure events across the temporal dimension. This is different than building a model to effectively predict failures from non-failures, where the separation between the training and testing data set could be random.
 
@@ -739,6 +739,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4Nzg4NzcyLC00ODA0MDYyMTIsLTg4MT
-AyNzczNF19
+eyJoaXN0b3J5IjpbLTExOTkyMzIwOTEsLTQ4MDQwNjIxMiwtOD
+gxMDI3NzM0XX0=
 -->
