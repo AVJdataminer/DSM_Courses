@@ -666,8 +666,9 @@ Why it matters: Unbalanced response variables in data will result in models that
 How to fix: Oversampling (SMOTE) or Undersampling (adsync)
 
 - Are outliers present in the data?
-How to identify: Boxplots, histograms, or calculating 1.5 * Interquartile Range, extreme value analysis, or Z-score with three standard devations.
+How to identify: Boxplots, histograms, or calculating 1.5 * Interquartile Range, extreme value analysis, Z-scores, or Tukey's method.
 Why it matters: Affects model performance and bias negatively.
+How to fix: Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for our analysis.
 
 
 ## Data Visualization
@@ -898,11 +899,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjIxODE1OCwtMTczOTE3OTE4OCwtOD
-YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
-MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
-gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
-Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
-EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
-ODI2MDcxNV19
+eyJoaXN0b3J5IjpbLTE3NDY5MjcyODgsLTE3MzkxNzkxODgsLT
+g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
+NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
+Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
+NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
+cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
+MTgyNjA3MTVdfQ==
 -->
