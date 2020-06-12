@@ -360,6 +360,89 @@ If you have time series data be sure to consider how to appropriately split your
 
 Additionally, if your data needs to be stratified during the testing and training data split, such as in our example if we considered European carmakers to be different strata then American carmakers we would have included the argument  `stratify=country`  in the train_test_split command.
 
+### DSM - Modeling
+Early practitioners and those less familiar with data science often think data scientists spend their entire day training machine learning models and tuning those models. However, we know that effective data science is the process of converting business problems into thoughtfully designed data problems where thorough problem identification work and data understanding is achieved before any model development work takes place. Modeling is the step that allows leveraging your data to make predictive insights and usually provides the most value in a data science project.
+
+Let’s review the primary steps applied in Modeling.
+
+1.  Fit the model with the training data
+2.  Review the model performances — Iterate over models and parameters
+3.  Identify the final model
+
+----------
+
+#### Fit the model with the training data
+
+In the previous DSM step, we discussed the importance of creating a training and testing split of your model development dataset. Additionally, you should have a clear understanding of what you’re hoping to predict. The data type of your response variable along with a strong understanding of the features will guide you in determining which type of model to fit.
+
+If your response variable is continuous, e.g. temperature or sales price, a numeric value that has a distribution closer to Gaussian than Bernoulli, than you will apply a regression type of model; otherwise a supervised classification model should be used.
+
+**Which type of model?**
+
+Continuous (Numeric) Response → Regression Model
+
+Categorical Response (Labeled data) → Supervised Classification Model
+
+Start with the simplest model for ease of understanding and communication. then as you build two or three model types to compare add more complex modeling methods.
+
+Continuous Response → Regression Model → Multiple Linear Regression
+
+Categorical Response → Supervised Classification Model → Logistic Regression
+
+Let’s get busy applying this model. Even if you’re using a more advanced machine learning algorithm such as a Random Forest start with the out of the box implementation. Don’t worry about model hyperparameter tuning just yet. The first iteration of fitting the model with training data would look like the code box below implementing the sklearn library to apply a random forest regression.
+
+from sklearn.ensemble import RandomForestRegressorregressor = RandomForestRegressor(random_state=0, n_estimators=200)regressor.fit(X_train, y_train)regressor.score(X_test, y_test)
+
+After fitting the model we score the model to review the performance as well as predict the holdout test set to review the blind model performance.
+
+----------
+
+#### Review the model performances — Iterate over models and parameters
+
+The code box below demonstrates the step of creating predictions on the testing data set using the model you developed in the previous step.
+
+  
+y_pred = regressor.predict(X_test)from sklearn.metrics import mean_squared_errorfrom math import sqrtrmse = sqrt(mean_squared_error(y_test, y_pred))rmse
+
+Now let’s say we review our model performance and it’s weak, we discuss model performance metrics later on in the third section of the article. We have identified the need to do some model hyperparameter tuning to improve our model predictions.
+
+_Model Hyperparameter Tuning_
+
+-   When → the simplest model wasn’t a good solution and this more complex model doesn't meet performance requirements,
+-   Why → improve the model accuracy compared to the generic out of the box flavor,
+-   How → Grid Search, Random Search or Bayesian Optimization.
+
+Here is an example of performing a grid search optimization to identify the best settings for the hyperparameters in the Random Forest Regression model. Notice we first create a grid of values for each one of the hyperparameters to test.
+
+from sklearn.ensemble import RandomForestRegressor  
+from sklearn.model_selection import GridSearchCVparam_grid = {"n_estimators": [200, 500],  
+ "max_depth": [3, None],  
+ "max_features": [1, 3, 5, 10],  
+ "min_samples_split": [2, 5, 10],  
+ "min_samples_leaf": [1, 3, 10],  
+ "bootstrap": [True, False]}model = RandomForestRegressor(random_state=0)grid = GridSearchCV(estimator=model, param_grid=param_grid, n_jobs=-1)grid.fit(X_train, y_train)print(grid.best_score_)print(grid.best_params_)
+
+Running this hyperparameter optimization will take some time to run compared to the plain out of the box application. However, you’re likely going to improve the model performance such that the added compute time will be worth the result.
+
+#### Identify the final model
+
+Model performance metrics are again dependent on whether you’re working in a regression universe or a supervised classification universe. Here is a list of commonly used model performance metrics for your reference.
+
+![](https://miro.medium.com/max/60/1*tZxa-pG48yAHfgiIbH_3lQ.png?q=20)
+
+![](https://miro.medium.com/max/552/1*tZxa-pG48yAHfgiIbH_3lQ.png)
+
+List of typical model metrics
+
+Which model performance metric to use may be a decision to be made in the project identification step. Defining the criteria for success of your model as a Mean Absolute Error ≤40 is a clear criterion for determining model success and completion. Based on the table below we would choose the Random Forest Regression model as the ‘Final Model’. The mean absolute error is less than the simple regression model and within our criteria for success.
+
+![](https://miro.medium.com/max/60/1*uktSI2lFUN344fGrVG7miQ.png?q=20)
+
+![](https://miro.medium.com/max/440/1*uktSI2lFUN344fGrVG7miQ.png)
+
+Compare two model performances
+
+When choosing a final model also consider how often this model will need to be re-run and the processing time increase versus model performance increase. Additional considerations include interpretability and the associated buy-in by the stakeholders.
 ---
 # Data Wrangling
 ## Missing Values
@@ -610,11 +693,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzNTE5MjkyLDE3NTU5NzczOTAsLTE1OT
-QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
-MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
-Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
-OTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4MjYwNzE1LD
-kzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEwNjc3MjIyLDcyOTIz
-MTcxMV19
+eyJoaXN0b3J5IjpbLTEzMzk0NTYzNSwxNzU1OTc3MzkwLC0xNT
+k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
+MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
+k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
+MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
+w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
+MzE3MTFdfQ==
 -->
