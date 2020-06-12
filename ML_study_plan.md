@@ -9,6 +9,9 @@ If you have been on your data science learning journey for a bit then you may be
 
 Data science is the integration of is the integration of Statistics, Machine Learning, and Deep Learning with a bit of business analyst and management methods thrown in.
 
+ - [ ] Add image of how AI, ML, etc fit together.
+
+ 
 
 ## The Data Science Method
 How to approach a data science problem in an organized and outcomes oriented manner.
@@ -273,7 +276,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc4OTEzOTksMTc1NTk3NzM5MCwtMT
+eyJoaXN0b3J5IjpbLTExNTE5OTE2MjEsMTc1NTk3NzM5MCwtMT
 U5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIw
 MzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LD
 E5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2
