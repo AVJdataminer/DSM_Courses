@@ -30,8 +30,8 @@ Structured thinking is a common and well-articulated tool used in all types of i
 The next few sections describe each step of the DSM with concrete examples of the methods for clear understanding of the steps. The methods covered are not exhaustive, but merely a starting place. Later sections in this book cover additional methods, such as data imputation for missing values under data wrangling.
 
  ---
-
-## DSM - Problem Identification
+ 
+## DSM Step 1. Problem Identification
 Problem identification is the very first, essential step to a well-positioned data science project.
 
 Start by identifying the goal of the data science project. Ask the question: Is this an exploratory project or a predictive modeling project? If the answer is exploratory, then less planning may be needed at the outset to ensure interesting and meaningful outcomes. You might have questions about how you can tell if a project is exploratory or predictive,  so let’s work through some examples. You may be given a data set for a project and asked questions such as:
@@ -102,9 +102,8 @@ e.g. Supervised Classification
 e.g. PDF outlining modeling process from data exploration to best model results.
 
 
-### DSM - Data Wrangling
+## DSM Step 2. Data Wrangling
 **Data Wrangling Steps:**
-
 Data wrangling consists of four high-level steps that should be applied in any data science project.
 
 1.  **Data Collection**
@@ -126,8 +125,6 @@ Collating your data sources at this early point in the workflow allows for clean
 
 Directory organization is one of those things that you may not think of much when you’re just starting out in data science but as you get into multiple iterations of the same model having a well-structured environment for your model outputs and potentially intermediate steps and data visualizations is paramount. Containerized approaches may reduce the need for this and highly structured work environments also don’t require an additional organizational directory. The key is to keep things organized, clean, and dated and/or versioned.
 
-![](https://miro.medium.com/max/30/1*h-meTEPnSsoGwc-Hhz6a7A.png?q=20)
-
 ![](https://miro.medium.com/max/317/1*h-meTEPnSsoGwc-Hhz6a7A.png)
 
 Here is an example of a simple modeling directory.
@@ -136,7 +133,6 @@ It’s clearly lacking creativity with the higher folder names, but what it lack
 
 As you start to develop more advanced methods you may need a more complex structure. Another common method for project organization in Python is by using the  [cookiecutter python package](https://drivendata.github.io/cookiecutter-data-science/)  to generate the file structure for a new project. Below is what the structure looks like.
 
-![](https://miro.medium.com/max/27/1*MpwB4_5jl9lsrYhgBjMF2g.png?q=20)
 
 ![](https://miro.medium.com/max/883/1*MpwB4_5jl9lsrYhgBjMF2g.png)
 
@@ -769,5 +765,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzM2OTExMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMjEzMDEwMTk5MCwtODgxMDI3NzM0XX0=
 -->
