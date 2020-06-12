@@ -445,7 +445,8 @@ Compare two model performances
 **When choosing a final model also consider how often this model will need to be re-run and the processing time increase versus model performance increase. Additional considerations include interpretability and the associated buy-in by the stakeholders.**
 
 ### DSM - Documentation
-# Reviewing Results
+- [ ] Add introduction or overview  to this step
+####  Reviewing Results
 
 y_pred = model.predict(x_test)  
 print(explained_variance_score(y_test, y_pred))  
@@ -469,7 +470,7 @@ In this sensor example, we have eight failure events at the beginning of our tim
 
 When reviewing the results consider the key factors you identified in the problem identification step and develop data visualizations to communicate the relationship between the key factors and your predicted outcome from the lens of the business problem and recommended action.
 
-# Presenting and sharing your findings (data storytelling)
+#### Presenting and sharing your findings (data storytelling)
 
 This is the most important part of your entire data science project. Doing diligent and thoughtful model development only matters if your models get used. Unfortunately, it is all too common for a data science project to never get put into action, even after weeks of work. Your goal should be to convert your audience into believers of a better future given your recommendation is implemented. This starts by stating the current state of reality per the problem identification step. Once you establish the current state, guide your audience to the future state of rainbows and butterflies, or higher revenues and lower costs. This concept was identified by  [Nancy Duarte](https://www.ted.com/speakers/nancy_duarte)  as the secret structure of great talks. Nancy is an expert in presentation design and I highly recommend you watch her Ted talk. One of the most effective ways to communicate a future the audience is interested in is by tailoring the presentation to their perspective. This brings us to our first step in developing a persuasive data story; identify your audience and adapt your presentation in style and form. This might result in changing the medium you use to communicate, from Jupyter Notebook to Slidedecks. So let’s review the key components:
 
@@ -481,7 +482,7 @@ For more in-depth information check out the  [HBR Guide to Persuasive Presentati
 
 ----------
 
-# Finalizing code
+#### Finalizing code
 
 The primary purpose of the finalizing code step is to ensure that the reuse of your code by you or others is not burdensome. In most developed data science teams you will work in a version control environment such as Git where your code is merged into branches alongside other data scientists and engineers. This is a great place for the team to share code as commonly used scripts or utilities can be shared readily by the team. However, even if you are working independently it is good practice to save your code using Git and to create flexible functions and scripts that can be written once and used again and again throughout your work. Make sure to provide some documentation or comments within each function or script describing the dependencies, inputs, outputs, and possible todos. Adding a short description or a detailed name to a Jupyter notebook can help leverage it later for a different project or to share it with a colleague and please clean up any extraneous or non-functioning code.
 
@@ -799,7 +800,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTY2Njk2LDE3NTU5NzczOTAsLTE1OT
+eyJoaXN0b3J5IjpbMjI2Nzg4MzY4LDE3NTU5NzczOTAsLTE1OT
 QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
 MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
 Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
