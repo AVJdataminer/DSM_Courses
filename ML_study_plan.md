@@ -760,17 +760,6 @@ For a data scientist, the availability of big data is both enticing and daunting
 * **Variety:** Today, data scientists utilize more unique data types and formats than ever. These include structured data in databases, unstructured text, streaming sensor data, images, audio, stock ticker data, and many others. Big data tools allow data scientists to use varied formats together and identify common signal and information.
  
 
-## Big Data with Spark
-
-Adding big data to your toolkit means that you go from working on a dataset hosted on a single system to working with distributed datasets. The best means to work with distributed, massive datasets is within a distributed computing framework. Distributed computing brings significant challenges — How do you synchronize the code across many processors? What happens if a single processor fails? How do you roll up results when execution concludes?
-
-Apache Spark aims to solve many of these challenges. Spark simplifies the tasks that bedevil developers when working on distributed computing including resource scheduling, job execution, communication between nodes, and so on. Spark was developed from the beginning to work with machine learning algorithms, which means it has been optimized for high-performance in situations where data is accessed multiple times over many iterations.
-
-Spark is the leading open source distributed analytics platform. Its [project page](https://spark.apache.org/powered-by.html) lists almost 100 companies using Spark in production, and there are almost 400 active developers contributing to the codebase on GitHub.
-
-Spark can run in standalone local mode with all processes inside a single Java Virtual Machine, or in standalone cluster mode. Data scientists interact with Spark via APIs in several languages. Spark supports 4 programming languages: Java, Scala, Python, and R. We’ll use Python in our examples for this course.
-
-Spark uses a data representation called the Resilient Distributed Dataset (RDD). This is a data type very similar to the dataframe you know from Pandas but optimized to be distributed across multiple computers, residing in memory across all of them. Once an RDD has been created, by using Spark methods and functions, you interact with this distributed dataset as if it existed only on a single device. As an end developer, you don’t know — or need to know — how the RDD is actually allocated. Spark frees you from those details and allows you to focus on what is important to you — analyzing a dataset.
 
 ## Advanced topics
 Consider learning more about these topicsas well.
@@ -795,11 +784,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE0MjI0MTUsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbODgyMjU5NTMyLC0xNzM5MTc5MTg4LC04Nj
+A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
+OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
+wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
+OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
+AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
+MjYwNzE1XX0=
 -->
