@@ -54,7 +54,7 @@ Original question: What type of customers do we have?
 
 Revised question: What are the average ages, incomes, and home locations of our customers?
 
-As you look at the differences between the original question and the revised question, you can hopefully see that the revised questions are now problem statements that you can use data science analysis to answer. Developing revised questions might take some effort on your part — you might need to return to the stakeholders for feedback before fully identifying the problem and the core focus of the analysis. Be sure to ask yourself if the data you have access to supports the question you’re trying to answer. If it doesn’t, ask!!
+As you look at the differences between the original question and the revised question, you can hopefully see that the revised questions are now problem statements that you can use data science analysis to answer. Developing revised questions might take some effort on your part — you might need to return to the stakeholders for feedback before fully identifying the problem and the core focus of the analysis. Be sure to ask yourself if the data you have access to supports the question you’re trying to answer. If it doesn’t, ask!
 
 If your goal is to evaluate the variable correlations and multi-dimensional interactions of the data set, then the initial motivations of the data science project must be more firmly defined.
 
@@ -81,25 +81,6 @@ Here is a list of general questions to help you get started in defining the abov
 -   What deliverables will be provided after this modeling project?
 
 As you develop answers to these questions and the steps outlined in problem identification, you will not only gain a focused trajectory of work, but you also will get at the key details needed for model documentation. Further, you will connect your data analysis to a business need, which may have motivated the work in the first place. If you clearly define your data science work, you will have a framework for successful implementation that works within any industry.
-
-#### Problem Identification Example 
- 1. Define the question specific to modeling activities
-e.g. Predict device failures
-
-2. Identify the data needed and or available:
-e.g. Daily aggregated telemetry device failure data
-
-3.  Define the data Timeframe:
-e.g. 01/01/2015–11/02/2015
-
-4. Describe the Modeling Response:
-e.g. Binary, 0 or 1, non-failure = 0, failure = 1
-
-5. Unsupervised or Supervised Classification or Regression Model:
-e.g. Supervised Classification
-
-6. Identify What Deliverables will be generated:
-e.g. PDF outlining modeling process from data exploration to best model results.
 
 
 ## DSM Step 2. Data Wrangling
@@ -135,8 +116,6 @@ As you start to develop more advanced methods you may need a more complex struct
 
 
 ![](https://miro.medium.com/max/883/1*MpwB4_5jl9lsrYhgBjMF2g.png)
-
-[https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/)
 
 If you come from a computer science background you may already be familiar with the concept of version control, Git, and Github. Learning how to effectively use Git and repositories is a core skill for all data scientists. More junior data scientists should spend some time reviewing the concepts of version control and expect any established data science team they join to be using it daily.
 
@@ -196,7 +175,7 @@ _Drop duplicate rows and columns_
 
 Next, we need to check for duplicate rows and columns. Duplicate rows could be legitimate values depending on your data and how it was collected or the magnitude of variation that is expected in your data. The only time you should delete duplicate rows is if you are confident they are repeated measures of the same observation and that it has negative consequences for your expected statistical modeling method. Your prior work on data definitions will inform you of any duplicate columns. Duplicate columns are common when multiple data sources are combined to create the model development dataset. These may not have the same column name, but if the columns’ rows are identical to another column, one of them should be removed.
 
-### DSM - Exploratory Data Analysis (EDA)
+## DSM Step 3. Exploratory Data Analysis (EDA)
 
 Step number three in the Data Science Method (DSM) assumes that both steps  [one](https://medium.com/datadriveninvestor/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)  and  [two](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)  have already been completed. At this point in your data science project, you have a well-structured and defined hypothesis or problem description. The model development data set is up and ready to be explored, and your early data cleaning steps are already completed. At a minimum, you have one column per variable and have a clear understanding of your response variable.
 
@@ -765,5 +744,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDEwMTk5MCwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMTI5Mzc2NTUzOCwtODgxMDI3NzM0XX0=
 -->
