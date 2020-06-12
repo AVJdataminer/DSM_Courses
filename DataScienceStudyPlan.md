@@ -438,7 +438,6 @@ Similarly, if we are looking to forecast maintenance in order to prevent manufac
 
 ![Sensor data stream where anything other than zero indicates a failure](https://miro.medium.com/max/502/1*f5ydhOk9e8-Rhg31pu9uhQ.png)
 
-
 In this sensor example, we have eight failure events at the beginning of our time-series, which from a manufacturing perspective could cause a big disruption and it would be ideal if those failures could be forecast and preventive maintenance be applied before that event occurs to avoid manufacturing downtime. Therefore our data science modeling should be oriented toward effectively forecasting the failure events across the temporal dimension. This is different than building a model to effectively predict failures from non-failures, where the separation between the training and testing data set could be random.
 
 When reviewing the results consider the key factors you identified in the problem identification step and develop data visualizations to communicate the relationship between the key factors and your predicted outcome from the lens of the business problem and recommended action.
@@ -739,6 +738,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkyMzIwOTEsLTQ4MDQwNjIxMiwtOD
-gxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMTgzODgzNjExNSwtNDgwNDA2MjEyLC04OD
+EwMjc3MzRdfQ==
 -->
