@@ -246,7 +246,8 @@ Spark can run in standalone local mode with all processes inside a single Java V
 
 Spark uses a data representation called the Resilient Distributed Dataset (RDD). This is a data type very similar to the dataframe you know from Pandas but optimized to be distributed across multiple computers, residing in memory across all of them. Once an RDD has been created, by using Spark methods and functions, you interact with this distributed dataset as if it existed only on a single device. As an end developer, you don’t know — or need to know — how the RDD is actually allocated. Spark frees you from those details and allows you to focus on what is important to you — analyzing a dataset.
 
-## Didn't have time to fill these topics
+## Advanced topics
+Consider learning more about these topics 
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] Dash Boards (Dask, plotly)
@@ -264,10 +265,11 @@ Spark uses a data representation called the Resilient Distributed Dataset (RDD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05Nj
-I5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mzcx
-MCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMT
-gyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2Nzcy
-MjIsNzI5MjMxNzExLDIxMTY0MzU0MTMsLTEyOTQwNzk1MDAsLT
-QyNTExMjY5MSwxOTQwOTYzMTYxLC0xNzM3MjM2NTE5XX0=
+eyJoaXN0b3J5IjpbMTI1NjU4MDc3Miw0OTA2MTIwMjgsLTE0OT
+Y4OTk0MzEsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1
+LC0xMTg4ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNT
+k1MDU2ODg2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4Njgw
+MDQsLTkxMDY3NzIyMiw3MjkyMzE3MTEsMjExNjQzNTQxMywtMT
+I5NDA3OTUwMCwtNDI1MTEyNjkxLDE5NDA5NjMxNjEsLTE3Mzcy
+MzY1MTldfQ==
 -->
