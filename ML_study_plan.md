@@ -565,7 +565,7 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 This section provides more detail on some topics covered previously in the Data Science Method sections. 
 
 ## Missing Values
-
+ #### Identify then handle
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ## Outliers
@@ -812,11 +812,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjU5OTYzOCwtNDk1MTEwNTc4LDE3NT
-U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
-MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
-wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
-NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
-YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
-Njc3MjIyXX0=
+eyJoaXN0b3J5IjpbOTA2ODc4MzIzLC00OTUxMTA1NzgsMTc1NT
+k3NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQz
+NjQ4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC
+05NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1
+MzcxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Ni
+wzMTgyNjA3MTUsOTM4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2
+NzcyMjJdfQ==
 -->
