@@ -504,7 +504,7 @@ Create a document called the Model Report. Here is the general layout to give yo
 10. Model Findings that may be interesting to decision makers
 -   Feature importances
 -  Volume of missing data
-- Surprising correlations
+- Surprising correlations 
 #### Next Steps to communicate with stakeholders
 -  Ready for production - yes/no?
 -  Further feature engineering may be needed
@@ -514,7 +514,7 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 
 ---
 # Data Wrangling
-This section provides more detail on some topics covered previously in the Data Science Method sections. 
+This section provides more detail additional resources on some topics covered previously in the Data Science Method sections. 
 
 ## Missing Values
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
@@ -738,6 +738,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODgzNjExNSwtNDgwNDA2MjEyLC04OD
-EwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzY2MzY0NTEsLTQ4MDQwNjIxMiwtOD
+gxMDI3NzM0XX0=
 -->
