@@ -162,7 +162,7 @@ The most common types of data cleaning steps are:
 
 As we mentioned in step 1 perhaps you need to combine two data frames from different sources into a single data frame. This requires unifying the formatting and filling in gaps of overlap with NA or other thoughtful fillers such as 0 or 1 when applicable.
 
-The first step in this process is to identify how many NA values are in your data set. This can be done by printing out the ``df.info()`  to get the data type for each column. One may also want to run additional analyses to ensure there are no mask values such as '-9999' or values such as 'none', these missing values will be missed by ``is.null()`, this scenario can be identified by running ``value_counts()`  for each column in your data frame. Once we determine the different missing or NA values in the data we need to handle them appropriately. Reviewing the percentage of missing observations aids in determining the best step forward.
+The first step in this process is to identify how many NA values are in your data set. This can be done by printing out the `df.info()`  to get the data type for each column. One may also want to run additional analyses to ensure there are no mask values such as '-9999' or values such as 'none', these missing values will be missed by `is.null()`, this scenario can be identified by running `value_counts()`  for each column in your data frame. Once we determine the different missing or NA values in the data we need to handle them appropriately. Reviewing the percentage of missing observations aids in determining the best step forward.
 
 Follow these steps:
 
@@ -177,7 +177,7 @@ Next, we need to check for duplicate rows and columns. Duplicate rows could be l
 
 ## DSM Step 3. Exploratory Data Analysis (EDA)
 
-Step number three in the Data Science Method (DSM) assumes that both steps  [one](https://medium.com/datadriveninvestor/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)  and  [two](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)  have already been completed. At this point in your data science project, you have a well-structured and defined hypothesis or problem description. The model development data set is up and ready to be explored, and your early data cleaning steps are already completed. At a minimum, you have one column per variable and have a clear understanding of your response variable.
+Step number three in the Data Science Method (DSM) assumes that both steps  [one]  and  [two](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)  have already been completed. At this point in your data science project, you have a well-structured and defined hypothesis or problem description. The model development data set is up and ready to be explored, and your early data cleaning steps are already completed. At a minimum, you have one column per variable and have a clear understanding of your response variable.
 
 Based on step two in the DSM you have already reviewed the following items about each variable in your data:
 
@@ -201,19 +201,13 @@ _Reviewing summary statistics_
 
 Summary statistics can be evaluated via a summary statistics table and by checking the individual variable distribution plots. Both will indicate the spread of your data. Depending on the distribution, you may be able to infer the mean from distribution plots; however, the summary table is the best way to review this value. Compare the example summary statistics table and the histogram plots for reference.
 
-#summary stats table transposed for df  
-df.describe().T
-
-![](https://miro.medium.com/max/60/1*qRoPSnAT1ZPJWfepHv-9Fw.png?q=20)
+`df.describe().T`
 
 ![](https://miro.medium.com/max/808/1*qRoPSnAT1ZPJWfepHv-9Fw.png)
 
 Summary Statistics Table
 
-#histograms for each variable in df  
-hist = df.hist(bins=10,figsize =(10,10))
-
-![](https://miro.medium.com/max/60/1*4jeeEvIoLOyTm27rM5PlMw.png?q=20)
+`hist = df.hist(bins=10,figsize =(10,10))`
 
 ![](https://miro.medium.com/max/994/1*4jeeEvIoLOyTm27rM5PlMw.png)
 
@@ -744,5 +738,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc2NTUzOCwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTEzNDgwMjgzMjcsLTg4MTAyNzczNF19
 -->
