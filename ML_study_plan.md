@@ -653,6 +653,8 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 ---
 
 # EDA
+## Data Visualization
+
 ## Math and Statistics for Data Scientists
 
 -   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
@@ -667,7 +669,8 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 [Statistical Thinking in Python part 2](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ---
-##
+# Feature Engineering 
+
 ### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
 
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
@@ -813,7 +816,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjAzODUzNCwtNDk1MTEwNTc4LDE3NT
+eyJoaXN0b3J5IjpbMTA4OTQ1Mjc2NiwtNDk1MTEwNTc4LDE3NT
 U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
 MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
 wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
