@@ -91,7 +91,7 @@ Here is a list of general questions to help you get started in defining the abov
 
 As you develop answers to these questions and the steps outlined in problem identification, you will not only gain a focused trajectory of work, but you also will get at the key details needed for model documentation. Further, you will connect your data analysis to a business need, which may have motivated the work in the first place. If you clearly define your data science work, you will have a framework for successful implementation that works within any industry.
 
-#### Problem Identification Overview
+#### Problem Identification Example 
  1. Define the question specific to modeling activities
 e.g. Predict device failures
 
@@ -111,8 +111,8 @@ e.g. Supervised Classification
 e.g. PDF outlining modeling process from data exploration to best model results.
 
 7. Data Preprocessing steps of note
--   e.g. dropped duplicate rows
--   e.g. created PCA for dimension reduction
+	-   e.g. dropped duplicate rows
+	-   e.g. created PCA for dimension reduction
 
 # Model Description
 
@@ -793,11 +793,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjE0Mzk4NCwxNzU1OTc3MzkwLC0xNT
-k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
-MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
-k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
-MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
-w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
-MzE3MTFdfQ==
+eyJoaXN0b3J5IjpbOTIzMTE0MDUsMTc1NTk3NzM5MCwtMTU5ND
+E5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEy
+NDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5ND
+c1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5
+MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOT
+M4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5MjMx
+NzExXX0=
 -->
