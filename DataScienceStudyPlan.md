@@ -285,15 +285,11 @@ Here are the general steps in pre-processing and training data development:
 
 Although some machine learning algorithms can interpret multi-level categorical variables, many machine learning models cannot handle categorical variables unless they are converted to dummy variables. I hate that term, ‘dummy variables’. Specifically, the variable is converted into a series of boolean variables for each level of a categorical feature. I first learned this concept as an indicator variable, as it indicates the presence or absence of something. For example, below we have the vehicle data set with three categorical columns; specifically, Manufacturer, Model, and vehicle type. We need to create an indicator column of each level of the manufacturer.
 
-![](https://miro.medium.com/max/60/1*y2lFEEFFyp6cyTQaCyC8Bw.png?q=20)
-
 ![](https://miro.medium.com/max/390/1*y2lFEEFFyp6cyTQaCyC8Bw.png)
 
 An original data frame with categorical features
 
 First, we select all the columns that are categorical which are those with the data type = ‘object’, creating a data frame subset named ‘dfo’. Next, we concatenate the original data frame  `df`  while dropping those columns selected in the dfo,  `df.drop(dfo,axis=1)`, with the  `pandas.get_dummies(dfo)`  command, creating only indicator columns for the selected object data type columns and collating it with other numeric data frame columns.
-
-![](https://miro.medium.com/max/60/1*BNIG77Kc6sg0y6OcSmI4Fw.png?q=20)
 
 ![](https://miro.medium.com/max/543/1*BNIG77Kc6sg0y6OcSmI4Fw.png)
 
@@ -310,8 +306,6 @@ This is applied in situations where you have differences in the magnitude of num
 > Many machine learning algorithms objective functions are based on the assumption that the variables have mean of zero and have variance in the same order of magnitude of one, think L1 and L2 regularization. If the development features are not standardized then the larger magnitude features may dominate the objective function and further may spuriously reduce the impact of other features in the model.
 
 Here is an example, the below data is also from the automobile sales dataset. You can see from the distribution plots for each feature that they vary in magnitude.
-
-
 
 ![](https://miro.medium.com/max/1043/1*viPzBC23avFeO3KVzjceBw.png)
 
@@ -333,7 +327,7 @@ If you have time series data be sure to consider how to appropriately split your
 
 Additionally, if your data needs to be stratified during the testing and training data split, such as in our example if we considered European carmakers to be different strata then American carmakers we would have included the argument  `stratify=country`  in the train_test_split command.
 
-### DSM - Modeling
+## DSM Step 5. Modeling
 Early practitioners and those less familiar with data science often think data scientists spend their entire day training machine learning models and tuning those models. However, we know that effective data science is the process of converting business problems into thoughtfully designed data problems where thorough problem identification work and data understanding is achieved before any model development work takes place. Modeling is the step that allows leveraging your data to make predictive insights and usually provides the most value in a data science project.
 
 Let’s review the primary steps applied in Modeling.
@@ -377,9 +371,9 @@ After fitting the model we score the model to review the performance as well as 
 
 The code box below demonstrates the step of creating predictions on the testing data set using the model you developed in the previous step.
 
-`y_pred = regressor.predict(X_test)`
-`from sklearn.metrics import mean_squared_error`
-`from math import sqrt`
+y_pred = regressor.predict(X_test)
+from sklearn.metrics import mean_squared_error
+from math import sqrt
 `rmse = sqrt(mean_squared_error(y_test, y_pred))`
 `print(rmse)`
 
@@ -748,6 +742,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTYzOTM5NiwtNDgwNDA2MjEyLC04OD
-EwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbMzQ4Mjc3MjIwLC00ODA0MDYyMTIsLTg4MT
+AyNzczNF19
 -->
