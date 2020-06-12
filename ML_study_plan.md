@@ -757,10 +757,10 @@ For a data scientist, the availability of big data is both enticing and daunting
 
 * **Variety:** Today, data scientists utilize more unique data types and formats than ever. These include structured data in databases, unstructured text, streaming sensor data, images, audio, stock ticker data, and many others. Big data tools allow data scientists to use varied formats together and identify common signal and information.
  
-## Practical Application
+# Practical Application
 ### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
-## Advanced topics
+# Advanced topics
 Consider learning more about these topics as well.
 - [ ] Recommendation Systems
 - [ ] Time Series methods
@@ -783,11 +783,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTkxOTgyNCwtMTczOTE3OTE4OCwtOD
-YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
-MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
-gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
-Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
-EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
-ODI2MDcxNV19
+eyJoaXN0b3J5IjpbMTU5NTU3NzkyMCwyMDQ5OTE5ODI0LC0xNz
+M5MTc5MTg4LC04NjA0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEw
+NTc4LDE3NTU5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MD
+IsMjAwODE0MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5
+Njg5OTQzMSwtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMz
+UsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1
+OTUwNTY4ODZdfQ==
 -->
