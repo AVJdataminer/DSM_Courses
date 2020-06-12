@@ -653,7 +653,8 @@ As you may be aware there are countless types of machine learning model types an
 - Scale normalize the features
 - Data is split into training & testing data subsets (Cross validation)
 
-### Determine the response variable data type.
+### Supervised versus Unsupervised Models
+The primary difference is that in supervised models you have a labeled training data set. Meaning if you're classifiying images into flower species you have a sample of images that is already labeled.
 
 
 ## Supervised Learning
@@ -795,7 +796,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjk2MzU5NCwtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbMTc5NTkzNDY2MywtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
