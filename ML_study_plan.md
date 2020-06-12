@@ -447,15 +447,11 @@ Running this hyperparameter optimization will take some time to run compared to 
 
 Model performance metrics are again dependent on whether you’re working in a regression universe or a supervised classification universe. Here is a list of commonly used model performance metrics for your reference.
 
-![](https://miro.medium.com/max/60/1*tZxa-pG48yAHfgiIbH_3lQ.png?q=20)
-
 ![](https://miro.medium.com/max/552/1*tZxa-pG48yAHfgiIbH_3lQ.png)
 
 List of typical model metrics
 
 Which model performance metric to use may be a decision to be made in the project identification step. Defining the criteria for success of your model as a Mean Absolute Error ≤40 is a clear criterion for determining model success and completion. Based on the table below we would choose the Random Forest Regression model as the ‘Final Model’. The mean absolute error is less than the simple regression model and within our criteria for success.
-
-![](https://miro.medium.com/max/60/1*uktSI2lFUN344fGrVG7miQ.png?q=20)
 
 ![](https://miro.medium.com/max/440/1*uktSI2lFUN344fGrVG7miQ.png)
 
@@ -477,9 +473,7 @@ predicted_price = model.predict(new_product)
 print ("The expected price is $%s " % ')  
 The expected price is $88.72
 
-Similarly, if we are looking to forecast maintenance in order to prevent manufacturing downtime we have to start with reviewing sensor data for anomalies in the equipment. An anomaly is an event of the sensor failing over some time horizon. This is considered an anomaly because the majority of the time-series sensor data show reasonable values, and it is not until the sensor fails that maintenance event is indicated. Often the sensor will return zero when everything is running smoothly.
-
-![](https://miro.medium.com/max/60/1*f5ydhOk9e8-Rhg31pu9uhQ.png?q=20)
+Similarly, if we are looking to forecast maintenance in order to prevent manufacturing downtime we have to start with reviewing sensor data for anomalies in the equipment. An anomaly is an event of the sensor failing over some time horizon. This is considered an anomaly because the majority of the time-series sensor data show reasonable values, and it is not until the sensor fails that maintenance event is indicated. Often the sensor will return zero when everything is running smoothly.![](https://miro.medium.com/max/60/1*f5ydhOk9e8-Rhg31pu9uhQ.png?q=20)
 
 ![](https://miro.medium.com/max/502/1*f5ydhOk9e8-Rhg31pu9uhQ.png)
 
@@ -783,11 +777,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU3NzkyMCwyMDQ5OTE5ODI0LC0xNz
-M5MTc5MTg4LC04NjA0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEw
-NTc4LDE3NTU5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MD
-IsMjAwODE0MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5
-Njg5OTQzMSwtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMz
-UsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1
-OTUwNTY4ODZdfQ==
+eyJoaXN0b3J5IjpbMjQyOTQzNDUsMTU5NTU3NzkyMCwyMDQ5OT
+E5ODI0LC0xNzM5MTc5MTg4LC04NjA0MzgwMiwtMTUwODY4NDM3
+MSwtNDk1MTEwNTc4LDE3NTU5NzczOTAsLTE1OTQxOTE5ODAsLT
+E1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMxMjQ3LDQ5MDYx
+MjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOTQ3NTA4NjMzLD
+EzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5NjkzOTAxMSwtMTI3
+MTI4NDA4MV19
 -->
