@@ -706,7 +706,6 @@ Developing a proper understanding of the math and statistics behind data science
 
 ---
 # Feature Selection
-<?xml version="1.0" encoding="UTF-8"?>
 
 Feature Selection Methods
 
@@ -824,7 +823,6 @@ No matter which model you start with the idea is to balance the constraints of e
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
 # Model Metrics
-<?xml version="1.0" encoding="UTF-8"?>
 
 Model Evaluation\Interpretation
 
@@ -864,25 +862,6 @@ For a data scientist, the availability of big data is both enticing and daunting
 * **Variety:** Today, data scientists utilize more unique data types and formats than ever. These include structured data in databases, unstructured text, streaming sensor data, images, audio, stock ticker data, and many others. Big data tools allow data scientists to use varied formats together and identify common signal and information.
  
 
-## Why does big data matter?
-
-  
-
-Data is only valuable insofar as you extract insight from it, and the big data side of data science is about bringing your data science skill set to bear on extracting actionable insights from these myriad data sources. Big data can be analyzed to uncover ways to reduce costs and time, improve product design, make smarter decisions, and answer all sorts of questions. It's behind many state-of-the-art business techniques including:
-
-  
-
-* cybersecurity
-
-* predicting tool or device failure before it happens
-
-* optimizing delivery routes
-
-* providing personalized offers or recommendations
-
-* real-time language translation
-
-
 ## Big Data with Spark
 
 Adding big data to your toolkit means that you go from working on a dataset hosted on a single system to working with distributed datasets. The best means to work with distributed, massive datasets is within a distributed computing framework. Distributed computing brings significant challenges — How do you synchronize the code across many processors? What happens if a single processor fails? How do you roll up results when execution concludes?
@@ -914,11 +893,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDk1NjA3NywtNDk1MTEwNTc4LDE3NT
-U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
-MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
-wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
-NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
-YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
-Njc3MjIyXX0=
+eyJoaXN0b3J5IjpbLTEzMTc5NDk1NTEsLTQ5NTExMDU3OCwxNz
+U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
+NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
+EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
+ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
+g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
+MDY3NzIyMl19
 -->
