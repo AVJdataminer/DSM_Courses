@@ -14,7 +14,7 @@ Based on the scientific method, I have developed the Data Science Method (DSM) a
 
 ----------
 
-**The Data Science Method**
+**The Data Science Method (DSM)**
 
 1.  Problem Identification
 2.  Data Wrangling
@@ -28,9 +28,10 @@ The DSM steps can be applied to nearly every data science or machine learning pr
 Structured thinking is a common and well-articulated tool used in all types of industries. Thus, the DSM supports an organized approach to solving a business problem with data, and it also supports the essential communication component of articulating project outcomes to your client. As you work through the five steps of the DSM, you will build a deeper understanding of your data, the problem, and how the data can be leveraged to meet your client’s expectations and solve the problem.
 
 The next few sections describe each step of the DSM with concrete examples of the methods for clear understanding of the steps. The methods covered are not exhaustive, but merely a starting place. Later sections in this book cover additional methods, such as data imputation for missing values under data wrangling.
+
  ---
 
-### DSM - Problem Identification
+## DSM - Problem Identification
 Problem identification is the very first, essential step to a well-positioned data science project.
 
 Start by identifying the goal of the data science project. Ask the question: Is this an exploratory project or a predictive modeling project? If the answer is exploratory, then less planning may be needed at the outset to ensure interesting and meaningful outcomes. You might have questions about how you can tell if a project is exploratory or predictive,  so let’s work through some examples. You may be given a data set for a project and asked questions such as:
@@ -768,5 +769,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODMxOTI3NiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMTgwNzM2OTExMiwtODgxMDI3NzM0XX0=
 -->
