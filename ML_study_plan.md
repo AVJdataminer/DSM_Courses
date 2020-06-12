@@ -608,7 +608,7 @@ Developing a proper understanding of the math and statistics behind data science
 ---
 # Feature Selection
 
-Feature selection methods are important no matter the size of the data your working with. Below I have listed many feature selection methods you should familiarize yourself with. When reviewing these methods make note of when on
+Feature selection methods are important no matter the size of the data your working with. Below I have listed many feature selection methods you should familiarize yourself with. When reviewing these methods make note of when one is more appropriate over another. For example, using the Principal Component Analsysis (PCA) as a feature selection method is only appropriate when knowing the exact important features is not important for model results interpretation. 
 
 
 
@@ -796,7 +796,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDUwODY0MywtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbMjEwNDAwNzAyOCwtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
