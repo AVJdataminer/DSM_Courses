@@ -644,15 +644,11 @@ This can simply refer to log transformed data or it can be something more comple
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
 
 
-# Model Preperation Steps
-
- - segments of datasets, can be done within training set.
-[]Grid search optimization on train data only
 
 ---
 # Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions. Also make sure you completed the data preperation steps before jumping into fitting the models.
-### Data Pre-processing that should be considered before models are fit:
+### Data pre-processing that should be considered before models are fit:
 - Build dummy features or one-hot encoded categorical features
 - Scale normalize the features
 - Data is split into training & testing data subsets (Cross validation)
@@ -796,11 +792,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjQxNzEsLTE3MzkxNzkxODgsLTg2MD
-QzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3NzM5
-MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC
-0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5
-Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMC
-wtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgy
-NjA3MTVdfQ==
+eyJoaXN0b3J5IjpbMjA1NzY5OTM4NCwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
