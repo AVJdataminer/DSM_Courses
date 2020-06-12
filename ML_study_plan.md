@@ -743,10 +743,9 @@ Model Evaluation\Interpretation
 
 - [ ]  Model evaluation metrics in detail
 
-# Practical Application
-### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
-## Big Data 
+
+# Big Data 
 Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. 
 
 The sheer amount of data available is staggering, as data generation exponentially expands. In 2013, Science Daily [reported](https://www.sciencedaily.com/releases/2013/05/130522085217.htm) that 90% of all data ever created in history has been generated in the last two years; IBM followed up a year later with a reminder that each year we generate 10 times more data than the prior year. Today, IBM reports that 2.5 quintillion (2.5 x 1018) bytes of data are generated each day. As more devices - particularly internet-of-things devices — come online, and more and more people gain internet access, the data generated daily will only increase.
@@ -758,10 +757,11 @@ For a data scientist, the availability of big data is both enticing and daunting
 
 * **Variety:** Today, data scientists utilize more unique data types and formats than ever. These include structured data in databases, unstructured text, streaming sensor data, images, audio, stock ticker data, and many others. Big data tools allow data scientists to use varied formats together and identify common signal and information.
  
-
+## Practical Application
+### If you want some help getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
 ## Advanced topics
-Consider learning more about these topicsas well.
+Consider learning more about these topics as well.
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] NLP
@@ -783,11 +783,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDExMDAwNjYsLTE3MzkxNzkxODgsLT
-g2MDQzODAyLC0xNTA4Njg0MzcxLC00OTUxMTA1NzgsMTc1NTk3
-NzM5MCwtMTU5NDE5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNj
-Q4LC0yODIwMzEyNDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05
-NjI5Nzk3LDE5NDc1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1Mz
-cxMCwtMzk2OTM5MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4Niwz
-MTgyNjA3MTVdfQ==
+eyJoaXN0b3J5IjpbMjA0OTkxOTgyNCwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
