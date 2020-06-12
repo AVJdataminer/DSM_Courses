@@ -646,12 +646,15 @@ This can simply refer to log transformed data or it can be something more comple
 
 
 ---
-# Modeling 
+# Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions. Also make sure you completed the data preperation steps before jumping into fitting the models.
 ### Data pre-processing that should be considered before models are fit:
 - Build dummy features or one-hot encoded categorical features
 - Scale normalize the features
 - Data is split into training & testing data subsets (Cross validation)
+
+### Determine the response variable data type.
+
 
 ## Supervised Learning
 [Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
@@ -792,11 +795,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODQ0MTIwLC0xNzM5MTc5MTg4LC04Nj
-A0MzgwMiwtMTUwODY4NDM3MSwtNDk1MTEwNTc4LDE3NTU5Nzcz
-OTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OC
-wtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYy
-OTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MT
-AsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4ODYsMzE4
-MjYwNzE1XX0=
+eyJoaXN0b3J5IjpbMTYwNjk2MzU5NCwtMTczOTE3OTE4OCwtOD
+YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
+MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
+gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
+Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNz
+EwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMx
+ODI2MDcxNV19
 -->
