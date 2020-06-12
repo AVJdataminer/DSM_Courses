@@ -110,23 +110,6 @@ e.g. Supervised Classification
 6. Identify What Deliverables will be generated:
 e.g. PDF outlining modeling process from data exploration to best model results.
 
-7. Data Preprocessing steps of note
-	-   e.g. dropped duplicate rows
-	-   e.g. created PCA for dimension reduction
-
-# Model Description
-
--   Input data size and features
--   Model Algorithm and Parameters
--   Model iterations can be discussed here if they are not saved out separately
-
-# Model Performance
-
--   R², RMSE, Confusion Matrix, Precision & Recall, AUC/ROC
-
-# Model Findings
-
--   Feature Importances
 
 ### DSM - Data Wrangling
 **Data Wrangling Steps:**
@@ -527,13 +510,48 @@ Finalizing your modeling code may also involve moving the model to production or
 
 ----------
 
-# Finalize model documentation
+### Finalize model documentation
 
 This is the time and place to corral the data science modeling project into a succinct document that gives the details of what you built and how well it performed.
 
 Create a document called the Model Report. Here is the general layout to give you an idea of where start.
 
+#### Minimum Model Documentation Example 
+ 1. Define the question specific to modeling activities
+e.g. Predict device failures
 
+2. Identify the data needed and or available:
+e.g. Daily aggregated telemetry device failure data
+
+3.  Define the data Timeframe:
+e.g. 01/01/2015–11/02/2015
+
+4. Describe the Modeling Response:
+e.g. Binary, 0 or 1, non-failure = 0, failure = 1
+
+5. Unsupervised or Supervised Classification or Regression Model:
+e.g. Supervised Classification
+
+6. Identify What Deliverables will be generated:
+e.g. PDF outlining modeling process from data exploration to best model results.
+
+7. Data Preprocessing steps of note
+	-   e.g. dropped duplicate rows
+	-   e.g. created PCA for dimension reduction
+
+# Model Description
+
+-   Input data size and features
+-   Model Algorithm and Parameters
+-   Model iterations can be discussed here if they are not saved out separately
+
+# Model Performance
+
+-   R², RMSE, Confusion Matrix, Precision & Recall, AUC/ROC
+
+# Model Findings
+
+-   Feature Importances
 # Next Steps
 
 -   Ready for production?
@@ -793,11 +811,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMTE0MDUsMTc1NTk3NzM5MCwtMTU5ND
-E5MTk4MCwtMTU4NTE5MjcwMiwyMDA4MTQzNjQ4LC0yODIwMzEy
-NDcsNDkwNjEyMDI4LC0xNDk2ODk5NDMxLC05NjI5Nzk3LDE5ND
-c1MDg2MzMsMTMzNzg5NDIzNSwtMTE4ODg1MzcxMCwtMzk2OTM5
-MDExLC0xMjcxMjg0MDgxLDU5NTA1Njg4NiwzMTgyNjA3MTUsOT
-M4OTc2MTUxLC0xMjIyODY4MDA0LC05MTA2NzcyMjIsNzI5MjMx
-NzExXX0=
+eyJoaXN0b3J5IjpbLTY0NDcyMzcyNiwxNzU1OTc3MzkwLC0xNT
+k0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2NDgsLTI4MjAz
+MTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2Mjk3OTcsMT
+k0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUzNzEwLC0zOTY5
+MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LDMxODI2MDcxNS
+w5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3NzIyMiw3Mjky
+MzE3MTFdfQ==
 -->
