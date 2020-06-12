@@ -596,8 +596,6 @@ Outliers can contain valuable information and should not be discarded without cl
     
 -   Some machine learning models are sensitive to extreme values. In order to get more accurate estimates, we need to eliminate those values from our dataset.
 
-To see the effects of outliers, watch the gif below and see how an outlier influences the relationship between the data points (The orange line represents the relationship between the data points):
-
 That being said, some tasks in data science are  _all about_  the outliers. For example, in anomaly detection the main goal is to identify anomalies—which are often outliers themselves! This area of data science, however, is outside the scope of this course.
 
 ### Outlier detection
@@ -656,7 +654,7 @@ We can winsorize a variable using SciPy's `winsorize()` method. We give a tuple 
 ## Data Visualization
 
 - [ ] Which plots for which purpose or situation
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 [x]Balanced or unbalanced data --> [x]SMOTE or under sampling (ada sync) or bootstrapping to oversample
 
@@ -916,11 +914,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNzA1NzIsLTQ5NTExMDU3OCwxNzU1OT
-c3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2
-NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLT
-k2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4ODUz
-NzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2ODg2LD
-MxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkxMDY3
-NzIyMl19
+eyJoaXN0b3J5IjpbMTA0NDk1NjA3NywtNDk1MTEwNTc4LDE3NT
+U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
+MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
+wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
+NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
+YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
+Njc3MjIyXX0=
 -->
