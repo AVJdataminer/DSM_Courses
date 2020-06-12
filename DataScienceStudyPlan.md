@@ -522,7 +522,7 @@ Learn advanced identification and imputation methods for missing values with thi
 ---
 
 # Exploratory Data Analysis (EDA)
-Data visualization is an important component of proper EDA, following the DSM steps you should consider building bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable.
+Data visualization is an important component of proper EDA, following the DSM steps you should consider building bi-plots or paired-plots to delve deep into the relationships of the features both between each other and with the response variable aka target variable. If you're new to working with data it can be hard to know where to start. Here I have provided some example questions to help direct your 
 
 Example questions you should answer when completing EDA:
 
@@ -738,6 +738,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE0NTQwNDYsLTQ4MDQwNjIxMiwtOD
-gxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMTA4ODk3NzIyLC00ODA0MDYyMTIsLTg4MT
+AyNzczNF19
 -->
