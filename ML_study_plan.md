@@ -621,6 +621,8 @@ Remove low variance features
 
 Manually drop features with Multi-colinearity
 
+Chi-square Significance testing
+
 Recursive Feature elimination within a particular model
 
 Stability selection methods
@@ -633,12 +635,11 @@ Sklearn TSNE
 
 PCA/SVD
 
+Fit Random Forest or other model to return feature importance output with Gini coefficient.
 
-[x]RF or other model feature importance output with Gini coefficient
+Lasso Regression -> L1 Regularization, penalty term in the cost function reducing the coefs to zero.
 
-[x]Lasso Regression -> L1 Regularization, penalty term is in the cost function reducing the coefs to zero.
 
-[x]Chi-square Significance testing
 
 ### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
 
@@ -798,7 +799,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjAwMTk5MSwtMTczOTE3OTE4OCwtOD
+eyJoaXN0b3J5IjpbMTE2ODAwMzcyOSwtMTczOTE3OTE4OCwtOD
 YwNDM4MDIsLTE1MDg2ODQzNzEsLTQ5NTExMDU3OCwxNzU1OTc3
 MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgxNDM2ND
 gsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0MzEsLTk2
