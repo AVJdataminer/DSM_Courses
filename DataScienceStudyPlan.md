@@ -201,13 +201,13 @@ _Reviewing summary statistics_
 
 Summary statistics can be evaluated via a summary statistics table and by checking the individual variable distribution plots. Both will indicate the spread of your data. Depending on the distribution, you may be able to infer the mean from distribution plots; however, the summary table is the best way to review this value. Compare the example summary statistics table and the histogram plots for reference.
 
-`df.describe().T`
+    df.describe().T
 
 ![](https://miro.medium.com/max/808/1*qRoPSnAT1ZPJWfepHv-9Fw.png)
 
 Summary Statistics Table
 
-`hist = df.hist(bins=10,figsize =(10,10))`
+    hist = df.hist(bins=10,figsize =(10,10))
 
 ![](https://miro.medium.com/max/994/1*4jeeEvIoLOyTm27rM5PlMw.png)
 
@@ -215,9 +215,9 @@ Histogram plots of each variable in the data frame
 
 Categorical variables require a slightly different approach to review the overall number of each unique value per variable and compare them to each other. The example data we are using for these figures do not contain categorical variables; however, below is an example workflow for categorical variables:
 
-df_cat = dataset.select_dtypes(include = 'object').copy() #get counts of each variable value  
-df_cat.ColumnName.value_counts() #count plot for one variable  
-sns.countplot(data = df_cat, x = 'ColumnName')
+    df_cat = dataset.select_dtypes(include = 'object').copy() #get counts of each variable value  
+    df_cat.ColumnName.value_counts() #count plot for one variable  
+    sns.countplot(data = df_cat, x = 'ColumnName')
 
 _Reviewing for Outliers and Anamolies_
 
@@ -746,7 +746,8 @@ Consider learning more about these topics as well.
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzczOTA2MCwtNDgwNDA2MjEyLC04OD
+eyJoaXN0b3J5IjpbMTA5MTYzOTM5NiwtNDgwNDA2MjEyLC04OD
 EwMjc3MzRdfQ==
 -->
