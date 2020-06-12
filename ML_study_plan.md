@@ -673,7 +673,7 @@ Developing a proper understanding of the math and statistics behind data science
 [Statistical Thinking in Python part 2](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 ---
-# Feature Engineering 
+# Feature Selection
 
 ### [Feature Selection & Dimension Reduction ](https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/)
 
@@ -820,11 +820,11 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA1OTczNjUsLTQ5NTExMDU3OCwxNz
-U1OTc3MzkwLC0xNTk0MTkxOTgwLC0xNTg1MTkyNzAyLDIwMDgx
-NDM2NDgsLTI4MjAzMTI0Nyw0OTA2MTIwMjgsLTE0OTY4OTk0Mz
-EsLTk2Mjk3OTcsMTk0NzUwODYzMywxMzM3ODk0MjM1LC0xMTg4
-ODUzNzEwLC0zOTY5MzkwMTEsLTEyNzEyODQwODEsNTk1MDU2OD
-g2LDMxODI2MDcxNSw5Mzg5NzYxNTEsLTEyMjI4NjgwMDQsLTkx
-MDY3NzIyMl19
+eyJoaXN0b3J5IjpbLTc4NzI1MjU2MiwtNDk1MTEwNTc4LDE3NT
+U5NzczOTAsLTE1OTQxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0
+MzY0OCwtMjgyMDMxMjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMS
+wtOTYyOTc5NywxOTQ3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4
+NTM3MTAsLTM5NjkzOTAxMSwtMTI3MTI4NDA4MSw1OTUwNTY4OD
+YsMzE4MjYwNzE1LDkzODk3NjE1MSwtMTIyMjg2ODAwNCwtOTEw
+Njc3MjIyXX0=
 -->
