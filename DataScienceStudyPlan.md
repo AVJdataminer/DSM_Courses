@@ -253,8 +253,8 @@ Another way to evaluate the variable distributions against each other is with th
 
 ![](https://miro.medium.com/max/743/1*kMSVp41Rf5vuqgxoETbMVg.png)
 
-#pair plots  
-g = sns.pairplot(df)
+`#pair plots`  
+`g = sns.pairplot(df)`
 
 ----------
 
@@ -270,7 +270,7 @@ Building a [Principle Components Analysis (PCA)](https://en.wikipedia.org/wiki/P
 
 Clustering (e.g. K-means clustering) is an excellent exploratory analysis method for creating additional features which in this case would be the clusters themselves. The clusters can be used in conjunction with additional features if you find them to be valid after review.
 
-### DSM - Data Preprocessing
+## DSM Step 4. Data Preprocessing
 Pre-processing is the concept of standardizing your model development dataset. This is applied in situations where you have differences in the magnitude of numeric features and situations where you have categorical and continuous variables. This would also be the juncture where other numeric translation would be applied to meet some scientific assumptions about the feature, such as accounting for atmospheric attenuation in satellite imagery data.
 
 Here are the general steps in pre-processing and training data development:
@@ -311,7 +311,7 @@ This is applied in situations where you have differences in the magnitude of num
 
 Here is an example, the below data is also from the automobile sales dataset. You can see from the distribution plots for each feature that they vary in magnitude.
 
-![](https://miro.medium.com/max/60/1*viPzBC23avFeO3KVzjceBw.png?q=20)
+
 
 ![](https://miro.medium.com/max/1043/1*viPzBC23avFeO3KVzjceBw.png)
 
@@ -364,7 +364,7 @@ Categorical Response → Supervised Classification Model → Logistic Regression
 
 Let’s get busy applying this model. Even if you’re using a more advanced machine learning algorithm such as a Random Forest start with the out of the box implementation. Don’t worry about model hyperparameter tuning just yet. The first iteration of fitting the model with training data would look like the code box below implementing the sklearn library to apply a random forest regression.
 
-from sklearn.ensemble import RandomForestRegressorregressor = RandomForestRegressor(random_state=0, n_estimators=200)regressor.fit(X_train, y_train)regressor.score(X_test, y_test)
+`from sklearn.ensemble import RandomForestRegressorregressor = RandomForestRegressor(random_state=0, n_estimators=200)regressor.fit(X_train, y_train)regressor.score(X_test, y_test)`
 
 After fitting the model we score the model to review the performance as well as predict the holdout test set to review the blind model performance.
 
@@ -731,5 +731,5 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4MzE3OTMsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTQ2ODE2MjM2OCwtODgxMDI3NzM0XX0=
 -->
