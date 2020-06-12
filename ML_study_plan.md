@@ -11,11 +11,27 @@ Data science is the integration of is the integration of Statistics, Machine Lea
 
  - [ ] Add image of how AI, ML, etc fit together.
 
-### Data S
-In the next section you begin to learn how to implement a data project in a business context that will yield meaningful and reliable results.
+### Data Science Life Cycle
+The work of a data scientist is often changing based on the business needs or the phase of the project they are working in. Most large well developed In the next section you begin to learn how to implement a data project in a business context that will yield meaningful and reliable results.
 
 ## The Data Science Method
-How to approach a data science problem in an organized and outcomes oriented manner.
+To be successful, you must have all the prerequisite core knowledge of machine learning algorithms, programming abilities, and also be passionate about becoming a professional data scientist. The biggest difference between people that are successful in data science roles and those that are not is their ability to effectively frame data science projects and communicate project outcomes. Sometimes, this is referred to as data storytelling, however, that only describes part of the process involved in sharing your findings and results. You need to work to develop the entire framework for the narrative of your data science project to communicate the project as a story.
+
+The Data Science Method (DSM) serves to identify the context of your data science story. Starting with the end in mind is one way to glean some guidance — you must know where you are headed in order to take the appropriate steps along the way. This can be difficult depending on the complexity of your data and the business needs being requested for the project. Let’s consider the [scientific method](https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/a/the-science-of-biology) as a framework, as it provides clear steps that are taken along an experimental path.
+
+Based on the scientific method, I have developed the Data Science Method (DSM) as a way to improve data science project outcomes and take your work to the next level. The DSM is detailed below.
+
+----------
+
+**The Data Science Method**
+
+1.  [Problem Identification](https://medium.com/@aiden.dataminer/the-data-science-method-problem-identification-6ffcda1e5152)
+2.  [Data Wrangling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4)
+3.  [Exploratory Data Analysis](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-exploratory-data-analysis-bc84d4d8d3f9)
+4.  [Pre-processing and Training Data Development](https://link.medium.com/i5yDUwZi9W)
+5.  [Modeling](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-modeling-56b4233cad1b)
+6.  [Documentation](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-documentation-c92c28bd45e6)
+
 
 **[The Data Science Method](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1)**
 
@@ -277,7 +293,7 @@ Consider learning more about these topicsas well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNDMyODc2LDE3NTU5NzczOTAsLTE1OT
+eyJoaXN0b3J5IjpbOTIyNTkxMjExLDE3NTU5NzczOTAsLTE1OT
 QxOTE5ODAsLTE1ODUxOTI3MDIsMjAwODE0MzY0OCwtMjgyMDMx
 MjQ3LDQ5MDYxMjAyOCwtMTQ5Njg5OTQzMSwtOTYyOTc5NywxOT
 Q3NTA4NjMzLDEzMzc4OTQyMzUsLTExODg4NTM3MTAsLTM5Njkz
