@@ -811,7 +811,31 @@ Model Evaluation\Interpretation
 
 - [ ]  Model evaluation metrics in detail
 
+Machine Learning Model Metrics
 
+Regression Metrics
+
+Regression Metrics Adjusted
+
+Classification Metrics
+
+Machine Learning Model Metrics Quick Reference
+
+Model Evaluation Metrics
+
+Model Optimization
+
+Parameters Versus Hyperparameters
+
+Hyperparameter Tuning
+
+Grid Search and Random Search
+
+Grid Search in KNN
+
+Bayesian Optimization
+
+Bayesian Optimization
 
 # Big Data 
 Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. 
@@ -853,7 +877,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTM5NTM0MywtMTQ1NTEyNzY5NywxNz
+eyJoaXN0b3J5IjpbLTc2NzE1NTI4NCwtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
 MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
 wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
