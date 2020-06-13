@@ -688,7 +688,10 @@ Text Resource:
 Video Resource:
 #### 3. In-depth Understanding of 
 Text Resource:
-Video Resource:
+Video Resources:
+ [Decision Trees](https://www.youtube.com/watch?v=6ENTbK3yQUQ) (14:37)
+[Pruning a Decision Tree](https://www.youtube.com/watch?v=GfPR7Xhdokc) (11:45)
+[Classification Trees and Comparison with Linear Models](https://www.youtube.com/watch?v=hPEJoITBbQ4) (11:00)
 #### 3.1 Decision Trees Exercise Notebook
 ---
 ### Random Forest 
@@ -839,7 +842,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMD
-AyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2
-MjEyLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbODI2MTcxMjA4LDYxMTkzNzcwNCwtMTY4MT
+k0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0
+MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
 -->
