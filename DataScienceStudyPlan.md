@@ -598,7 +598,7 @@ Things to consider when choosing a feature selection method:
    function reduces the coefficients to zero.
 
 ## Feature Engineering 
-This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. Feature engineering can be thought of as either creating additional features, transforming current features, as well as selecting specific features to use in modeling. The strenghts of many deep learning models involves there ability to identify features in multidimensional space that i
+This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. Feature engineering can be thought of as either creating additional features, transforming current features, as well as selecting specific features to use in modeling. The strenghts of many deep learning models involves there ability to identify features in multi-dimensional feature space that is unknown otherwise.
 
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
 
@@ -744,6 +744,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MzAzMTY1LC00ODA0MDYyMTIsLTg4MT
+eyJoaXN0b3J5IjpbMTQ4MTA2NDg3LC00ODA0MDYyMTIsLTg4MT
 AyNzczNF19
 -->
