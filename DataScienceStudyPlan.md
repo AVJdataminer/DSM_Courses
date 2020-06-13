@@ -686,6 +686,11 @@ Decision Trees
 
 Random Forest 
 #### 1.   Overview of Linear Regression in Machine Learning & AI
+#### 2.  Understand the Math of Lasso Regression
+#### 3. In-depth Understanding of Lasso Regression
+   
+Text Resource:
+
 3.1 Random Forest Exercise Notebook
 SVM
 3.1 SVM Exercise Notebook
@@ -803,7 +808,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzE3OTYxMCwtMjAwMjYyNDE2OSwtNz
+eyJoaXN0b3J5IjpbMTk2ODE1NjM4NCwtMjAwMjYyNDE2OSwtNz
 Y3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3
 NzM0XX0=
 -->
