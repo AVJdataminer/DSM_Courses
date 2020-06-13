@@ -528,20 +528,25 @@ Data visualization is an important component of proper EDA, following the DSM st
 
  ### 1. Are multi-collinear features present in the data?
 
-**How to identify:** Pearson correlation heat maps or scores.
+**How to identify:** Pearson correlation coefficient heat maps or scores.
+
 **Why it matters:** Poor model performance and potential to overfit with model types that are sensitive to highly correlated features. 
+
 **How to fix:** Feature selection or model method that is not sensitive to highly correalted features.
 
-### Is the response variable balanced or imbalanced?
+#### 2. Is the response variable balanced or imbalanced?
 **How to identify:** Histograms or bar plots by class when appropriate. Also, inferential statistics can be used to confirm statistically unbalanced data.
+
 **Why it matters:** Unbalanced response variables in data will result in models that don't perform as well on all classes and will be highly bias.
+
 **How to fix:** Oversampling (SMOTE) or Undersampling (adsync)
 
-### Are outliers present in the data?
+#### 3. Are outliers present in the data?
 **How to identify:** Boxplots, histograms, or calculating 1.5 * Interquartile Range, extreme value analysis, Z-scores, or Tukey's method.
-**Why it matters:** Affects model performance and bias negatively.
-**How to fix:** Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for our analysis.
 
+**Why it matters:** Affects model performance and bias negatively.
+
+**How to fix:** Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for your analysis.
 
 ## Math and Statistics for Data Scientists
 Developing a proper understanding of the math and statistics behind data science algorithms will help you better understand when which modeling methods are most appropriate.
@@ -738,6 +743,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjM1NjYsLTQ4MDQwNjIxMiwtODgxMD
-I3NzM0XX0=
+eyJoaXN0b3J5IjpbMTk0MjMwMDM2NSwtNDgwNDA2MjEyLC04OD
+EwMjc3MzRdfQ==
 -->
