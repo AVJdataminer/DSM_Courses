@@ -735,7 +735,8 @@ Video Resource:
 #### In-depth understanding
 [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
-### PCA
+### Principle COmponenet Analysis(PCA)
+#### 1. [A One Stop Shop for Understanding PCA](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
 #### 2. Understand the Math of PCA
 Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
 #### 3. In-depth Understanding
@@ -847,8 +848,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODc3MzMxMSwxNzMzMzg5MDQxLDIxMz
-c5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcw
-NCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLD
-EzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbOTQzMTU3MDIzLDE3MzMzODkwNDEsMjEzNz
+k0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0
+LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMT
+M0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
