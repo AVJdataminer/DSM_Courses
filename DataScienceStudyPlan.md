@@ -661,32 +661,24 @@ Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.
 ### Lasso Regression
 This is your short course on Lasso Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook in this document that provides an applied example of using Lasso Regression in a Jupyter Notebook in Google Colab. More details and in-depth content on Lasso Regression is found in the video lessons and the other materials in this document. Happy Learning!
 
-1.  ## Overview of Lasso Regression in Machine Learning & AI
+#### 1.  Overview of Lasso Regression in Machine Learning & AI
     
 - [ ]  TODO:  Add image of table with Lasso reg highlighted
 
-2.  ## Understand the Math of Lasso Regression
-    
-
- 
-
+#### 2.  Understand the Math of Lasso Regression
+   
 Video Resource: [Lasso Regression](https://www.youtube.com/watch?v=jbwSCwoT51M) by ritvikmath (7 mins)
 
-3.  ## In-depth Understanding of Lasso Regression
-    
-
+#### 3. In-depth Understanding of Lasso Regression
+   
 Text Resource: [An introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) Chapter 6
 
-  
-
 Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMlcs) StatQuest with Josh Starmer (8 mins)
-
-  
 
 [ISLR Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) (16 mins)
 
 #### [3.1 Lasso Regression Exercise Notebook](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
-
+[![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 ---
 
 Decision Trees
@@ -809,6 +801,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTI0OTA4LC03Njc1MTk3MDEsMTM0Mj
-I3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzQzNjM4NzIsLTc2NzUxOTcwMSwxMz
+QyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
 -->
