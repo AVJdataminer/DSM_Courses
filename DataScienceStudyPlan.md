@@ -623,6 +623,10 @@ This is your short course on Linear Regression, feel free to skip around based o
 
 #### 1.   Overview of Linear Regression in Machine Learning & AI
 - [ ] Add image of table with Linear reg highlighted
+- ```
+<span style="color:red">some **This is Red Bold.** text</span>
+```
+
 
 
 Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/watch?v=szXbuO3bVRk) (18 mins)
@@ -812,6 +816,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI2MzUzMywxMzQyMjc0NDMxLC00OD
+eyJoaXN0b3J5IjpbMTExNTQ5MzM2MiwxMzQyMjc0NDMxLC00OD
 A0MDYyMTIsLTg4MTAyNzczNF19
 -->
