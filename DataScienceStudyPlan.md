@@ -700,7 +700,8 @@ Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-
 Video Resources:
 [Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
 [Boosting and Variable Importance](https://www.youtube.com/watch?v=U3MdBNysk9w) (12:03)
-#### 3.1 Random Forest Exercise Notebook
+#### 3 Random Forest Exercise Notebook
+
 ---
 
 ### Support Vector Machine (SVM)
@@ -843,7 +844,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY1NzcwOTgsNzc4NDkxNDg0LC0xMj
+eyJoaXN0b3J5IjpbLTE2MDA3ODEzMDUsNzc4NDkxNDg0LC0xMj
 c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
 NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
 wtODgxMDI3NzM0XX0=
