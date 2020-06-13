@@ -679,11 +679,12 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 #### [3.1 Lasso Regression Exercise Notebook](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
+
 ---
 
 Decision Trees
-3.1 Decision Trees Exercise Notebook
-
+#### 3.1 Decision Trees Exercise Notebook
+---
 Random Forest 
 #### 1.   Overview of  in Machine Learning & AI
 Text Resource:
@@ -813,7 +814,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLT
-c2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAy
-NzczNF19
+eyJoaXN0b3J5IjpbLTc4MDU3NDM2MCwtMTY4MTk0MjE2MywtMj
+AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
+NjIxMiwtODgxMDI3NzM0XX0=
 -->
