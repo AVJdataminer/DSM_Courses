@@ -717,7 +717,7 @@ Video Resources:
 -   [Support Vector Classifier](https://www.youtube.com/watch?v=xKsTsGE7KpI) (8:04)
 -   [Kernels and Support Vector Machines](https://www.youtube.com/watch?v=dm32QvCW7wE) (15:04)
 #### 3.1 SVM Exercise Notebook
-
+---
 ### KNN
 
 #### 2.  Understand the Math of 
@@ -735,7 +735,8 @@ Video Resource:
 #### In-depth understanding
 [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
-### Principle Componenet Analysis (PCA)
+---
+### Principle Component Analysis (PCA)
 #### 1. [A One Stop Shop for Understanding PCA](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
 #### 2. Understand the Math of PCA
 Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
@@ -744,6 +745,7 @@ Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://ww
 -   [Exploring Principal Components Analysis and Proportion of Variance Explained](https://www.youtube.com/watch?v=dbuSGWCgdzw) (17:39)
 
 
+---
 ##  Decide on a First Model
 
 Determining when to use what type of model can be a daunting task for an aspiring or early career data scientist. Although this can be a data driven decision it is often a practical balance between statistically appropriate and business acceptance and comfort.
@@ -848,8 +850,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODQwMDkyNywxNzMzMzg5MDQxLDIxMz
-c5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcw
-NCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLD
-EzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMT
+M3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3
+MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMS
+wxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
 -->
