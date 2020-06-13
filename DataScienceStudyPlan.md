@@ -737,11 +737,17 @@ Video Resource:
 
 ## Unsupervised Learning
 
-K means clustering
+### K means clustering
+#### I-depth understanding
+[K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
 ### PCA
 #### 2. Understand the Math of PCA
 Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
+#### 3. In-depth Understanding
+-   [Unsupervised Learning and Principal Components Analysis](https://www.youtube.com/watch?v=ipyxSYXgzjQ) (12:37)
+-   [Exploring Principal Components Analysis and Proportion of Variance Explained](https://www.youtube.com/watch?v=dbuSGWCgdzw) (17:39)
+
 
 ##  Decide on a First Model
 
@@ -847,7 +853,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMjE3MTI4LDYxMTkzNzcwNCwtMTY4MT
-k0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0
-MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTM0ODc1MTM5OSw2MTE5Mzc3MDQsLTE2OD
+E5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0
+NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
 -->
