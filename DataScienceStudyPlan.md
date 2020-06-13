@@ -685,7 +685,7 @@ Text Resource:
 Video Resource:
 #### 2.  Understand the Math of Decision Trees
 Text Resource:
-Video Resource: https://youtu.be/1IQOtJ4NI_0
+Video Resource: https://youtu.be/p17C9q2M00Q
 #### 3. In-depth Understanding of 
 Text Resource:
 Video Resources:
@@ -853,8 +853,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ5MDEwMTUsLTEyNzcxMjcyMjksNj
-ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
-MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
-RdfQ==
+eyJoaXN0b3J5IjpbMzgwNjEwNDQ0LC0xMjc3MTI3MjI5LDYxMT
+kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
+NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX
+0=
 -->
