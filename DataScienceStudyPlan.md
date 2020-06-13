@@ -737,7 +737,8 @@ Video Resource:
 
 ---
 ### Principle Component Analysis (PCA)
-#### 1. [A One Stop Shop for Understanding PCA](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
+#### 1. Introduction to PCA
+[A One Stop Shop for Understanding PCA](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
 #### 2. Understand the Math of PCA
 Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
 #### 3. In-depth Understanding
@@ -850,9 +851,9 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNTkwMDkwLC0xNDU1MTI3Njk3LDE3Mz
-MzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcy
-MjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC
-03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEw
-Mjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5OTY4ODE5NTUsLTE0NTUxMjc2OTcsMT
+czMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEy
+NzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNj
+ksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4
+MTAyNzczNF19
 -->
