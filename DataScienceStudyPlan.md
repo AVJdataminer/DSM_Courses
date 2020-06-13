@@ -573,6 +573,7 @@ Things to consider when choosing a feature selection method:
  - the interpretability needs of the resulting model built from the selected features
  - the effort required on the data scientists side to implement or review
  - Remove low variance features
+ 
   ### Feature Selection Methods:
    Manually drop features with Multi-colinearity
    
@@ -588,13 +589,13 @@ Things to consider when choosing a feature selection method:
    
    Sklearn TSNE
    
-   PCA/SVD
+   Principle Component Analysis (PCA)
    
    Fit Random Forest or other model to return feature importance output
    with Gini coefficient.
    
    Lasso Regression -> L1 Regularization, penalty term in the cost
-   function reducing the coefs to zero.
+   function reduces the coefficients to zero.
 
 ### Feature Engineering 
 This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. 
@@ -744,6 +745,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTg0ODQwOSwtNDgwNDA2MjEyLC04OD
-EwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbNTIxNzU5OTI1LC00ODA0MDYyMTIsLTg4MT
+AyNzczNF19
 -->
