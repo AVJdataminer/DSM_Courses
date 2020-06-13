@@ -680,12 +680,9 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 ---
 
 ### Decision Trees
-#### 1.   Overview of  in Machine Learning & AI
-Text Resource:
-Video Resource:
 #### 2.  Understand the Math of Decision Trees
-Text Resource:
-Video Resource: https://youtu.be/p17C9q2M00Q
+Text Resource: 
+Video Resource: [Classification trees (CART)](https://youtu.be/p17C9q2M00Q) by mathematicalmonk (10:15)
 #### 3. In-depth Understanding of 
 Text Resource:
 Video Resources:
@@ -853,8 +850,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNjEwNDQ0LC0xMjc3MTI3MjI5LDYxMT
-kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
-NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX
-0=
+eyJoaXN0b3J5IjpbLTE3NDk4ODI2NTQsLTEyNzcxMjcyMjksNj
+ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
+MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
+RdfQ==
 -->
