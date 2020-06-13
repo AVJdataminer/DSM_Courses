@@ -709,6 +709,7 @@ Video Resources:
 ### Support Vector Machine (SVM)
 #### 1.  Introduction to  SVM
 https://www.youtube.com/watch?v=efR1C6CvhmE
+[SVM with kernel visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
 #### 3. In-depth Understanding of SVM
 Text Resource:
 Video Resources:
@@ -845,8 +846,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMDY5MTQzLDE3MzMzODkwNDEsMjEzNz
-k0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0
-LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMT
-M0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTcxMzgwNzA3NSwxNzMzMzg5MDQxLDIxMz
+c5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcw
+NCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLD
+EzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
 -->
