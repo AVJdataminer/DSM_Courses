@@ -679,13 +679,21 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 #### [3.1 Lasso Regression Exercise Notebook](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
-
 ---
 
-Decision Trees
+### Decision Trees
+#### 1.   Overview of  in Machine Learning & AI
+Text Resource:
+Video Resource:
+#### 2.  Understand the Math of 
+Text Resource:
+Video Resource:
+#### 3. In-depth Understanding of 
+Text Resource:
+Video Resource:
 #### 3.1 Decision Trees Exercise Notebook
 ---
-Random Forest 
+### Random Forest 
 #### 1.   Overview of  in Machine Learning & AI
 Text Resource:
 Video Resource:
@@ -696,7 +704,6 @@ Video Resource:
 Text Resource:
 Video Resource:
 #### 3.1 Random Forest Exercise Notebook
-
 
 SVM
 3.1 SVM Exercise Notebook
@@ -814,7 +821,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDU3NDM2MCwtMTY4MTk0MjE2MywtMj
+eyJoaXN0b3J5IjpbLTgxMDQ0MjgwNCwtMTY4MTk0MjE2MywtMj
 AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
 NjIxMiwtODgxMDI3NzM0XX0=
 -->
