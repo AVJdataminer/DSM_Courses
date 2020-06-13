@@ -681,10 +681,10 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 ### Decision Trees
 #### 1. Understand the Math of Decision Trees
-Text Resource: 
+
 Video Resource: [Classification trees (CART)](https://youtu.be/p17C9q2M00Q) by mathematicalmonk (10:15)
 #### 2. In-depth Understanding of 
-Text Resource:
+Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 Video Resources:
  [Decision Trees](https://www.youtube.com/watch?v=6ENTbK3yQUQ) (14:37)
 [Pruning a Decision Tree](https://www.youtube.com/watch?v=GfPR7Xhdokc) (11:45)
@@ -692,14 +692,11 @@ Video Resources:
 #### 3. Decision Trees Exercise Notebook
 ---
 ### Random Forest 
-#### 1.   Overview of  in Machine Learning & AI
-Text Resource:
+#### 1.  Understand the Math of 
+
 Video Resource:
-#### 2.  Understand the Math of 
-Text Resource:
-Video Resource:
-#### 3. In-depth Understanding of 
-Text Resource:
+#### 2. In-depth Understanding of 
+Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 Video Resources:
 [Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
 [Boosting and Variable Importance](https://www.youtube.com/watch?v=U3MdBNysk9w) (12:03)
@@ -850,8 +847,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg0ODIzNzUsLTEyNzcxMjcyMjksNj
-ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
-MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
-RdfQ==
+eyJoaXN0b3J5IjpbNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMT
+kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
+NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX
+0=
 -->
