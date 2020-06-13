@@ -598,13 +598,13 @@ Things to consider when choosing a feature selection method:
    function reduces the coefficients to zero.
 
 ## Feature Engineering 
-This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. Feature engineering can be thought of as either creating additional features, transforming current features, as well as selecting specific features to use in modeling. The strenghts of many deep learning models involves there ability to identify features in multi-dimensional feature space that is unknown otherwise. [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb) tools do exist but are not commonly used. Check out the link for an example notebook in a Customer Churn data project using automated feature .
+This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. Feature engineering can be thought of as either creating additional features, transforming current features, as well as selecting specific features to use in modeling. The strenghts of many deep learning models involves there ability to identify features in multi-dimensional feature space that is unknown otherwise. [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb) tools do exist but are not commonly used. Check out the link for an example notebook in a Customer Churn data project using automated feature engineering tools.
 
 
 ---
 # Modeling Methods
 As you may be aware there are countless types of machine learning model types and more variations are being added al time.  To be succesful as a data science professional you need to first learn the most broadly appropriate and applied methods and later you can delve into more specific solutions. Also make sure you completed the data preperation steps before jumping into fitting the models.
-### Data pre-processing that should be considered before models are fit:
+## Modeling Data Prep
 - Build dummy features or one-hot encoded categorical features
 - Scale normalize the features
 - Data is split into training & testing data subsets (Cross validation)
@@ -742,6 +742,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDkwNTc3MywtNDgwNDA2MjEyLC04OD
-EwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbNzQzNDgyMzQwLC00ODA0MDYyMTIsLTg4MT
+AyNzczNF19
 -->
