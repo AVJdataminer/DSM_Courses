@@ -701,15 +701,13 @@ Video Resources:
 [Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
 [Boosting and Variable Importance](https://www.youtube.com/watch?v=U3MdBNysk9w) (12:03)
 #### 3.1 Random Forest Exercise Notebook
+---
 
-### SVM
-#### 1.   Overview of  in Machine Learning & AI
+### Support Vector Machine (SVM)
+#### 2.  Understand the Math of SVM
 Text Resource:
 Video Resource:
-#### 2.  Understand the Math of 
-Text Resource:
-Video Resource:
-#### 3. In-depth Understanding of 
+#### 3. In-depth Understanding of SVM
 Text Resource:
 Video Resources:
 -   [Maximal Margin Classifier](https://www.youtube.com/watch?v=QpbynqiTCsY) (11:35)
@@ -718,9 +716,7 @@ Video Resources:
 #### 3.1 SVM Exercise Notebook
 
 ### KNN
-#### 1.   Overview of  in Machine Learning & AI
-Text Resource:
-Video Resource:
+
 #### 2.  Understand the Math of 
 Text Resource:
 Video Resource:
@@ -847,7 +843,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgzNTE4NTEsNzc4NDkxNDg0LC0xMj
+eyJoaXN0b3J5IjpbLTEzNzY1NzcwOTgsNzc4NDkxNDg0LC0xMj
 c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
 NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
 wtODgxMDI3NzM0XX0=
