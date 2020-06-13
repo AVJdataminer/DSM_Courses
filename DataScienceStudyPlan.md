@@ -693,18 +693,18 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 [ISLR Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) (16 mins)
 
-#### [3.1 Jupyter Notebook Lasso Exercise](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
+#### [3.1 Lasso Regression Exercise Notebook](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
 
 ---
 
 Decision Trees
-
+3.1 Decision Trees Exercise Notebook
 Random Forest 
-
+3.1 Random Forest Exercise Notebook
 SVM
-
+3.1 SVM Exercise Notebook
 KNN
-
+3.1 KNN Exercise Notebook
 
 ## Unsupervised Learning
 
@@ -817,6 +817,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTk4MjY3MCwtNzY3NTE5NzAxLDEzND
-IyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbNDA5NTU3ODE4LC03Njc1MTk3MDEsMTM0Mj
+I3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
