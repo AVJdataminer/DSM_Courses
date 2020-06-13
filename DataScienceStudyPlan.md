@@ -626,27 +626,19 @@ This is your short course on Linear Regression, feel free to skip around based o
 - [ ]  TODO:  Add image of table with Linear reg highlighted
 
 
-
 Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/watch?v=szXbuO3bVRk) (18 mins)
 
 #### 2.  Understand the Math and the Assumptions of Linear Regression
     
 Visual Resource: [Seeing Theory Interactive Exercise](https://seeing-theory.brown.edu/regression-analysis/index.html)  (10 mins)
 
-  
-
 Video Resource:
 
 Get out a pen and paper and do the math along with these videos. Doing the math by hand with these simple examples will meld this method into your mind and allow you to have a deep understanding of the appropriate applications and limitations of Linear Regression.
 
-  
-
 [Krista King Math](https://www.youtube.com/watch?v=1pawL_5QYxE) (8 mins)
 
 [Khan Academy](https://www.youtube.com/watch?v=8mAZYv5wIcE) (19 mins)
-
-  
-  
 
 #### 3. In-depth Understanding of Linear Regression
     
@@ -667,7 +659,7 @@ Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.
 ---
 
 ### Lasso Regression
-This is your short course on Lasso Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook in this document that provides an applied example of using Lasso Regression within the structure of the Data Science Method for solving problems with data science. More details and in-depth content on Lasso Regression is found in the video lessons and the other materials in this document. Happy Learning!
+This is your short course on Lasso Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook in this document that provides an applied example of using Lasso Regression in a Jupyter Notebook in Google Colab. More details and in-depth content on Lasso Regression is found in the video lessons and the other materials in this document. Happy Learning!
 
 1.  ## Overview of Lasso Regression in Machine Learning & AI
     
@@ -817,6 +809,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NTU3ODE4LC03Njc1MTk3MDEsMTM0Mj
+eyJoaXN0b3J5IjpbNjM3OTI0OTA4LC03Njc1MTk3MDEsMTM0Mj
 I3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
