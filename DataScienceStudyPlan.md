@@ -705,10 +705,29 @@ Text Resource:
 Video Resource:
 #### 3.1 Random Forest Exercise Notebook
 
-SVM
-3.1 SVM Exercise Notebook
-KNN
-3.1 KNN Exercise Notebook
+### SVM
+#### 1.   Overview of  in Machine Learning & AI
+Text Resource:
+Video Resource:
+#### 2.  Understand the Math of 
+Text Resource:
+Video Resource:
+#### 3. In-depth Understanding of 
+Text Resource:
+Video Resource:
+#### 3.1 SVM Exercise Notebook
+
+### KNN
+#### 1.   Overview of  in Machine Learning & AI
+Text Resource:
+Video Resource:
+#### 2.  Understand the Math of 
+Text Resource:
+Video Resource:
+#### 3. In-depth Understanding of 
+Text Resource:
+Video Resource:
+#### 3.1 KNN Exercise Notebook
 
 ## Unsupervised Learning
 
@@ -821,7 +840,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDQ0MjgwNCwtMTY4MTk0MjE2MywtMj
-AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
-NjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTE2ODM4ODkzMDIsLTE2ODE5NDIxNjMsLT
+IwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0
+MDYyMTIsLTg4MTAyNzczNF19
 -->
