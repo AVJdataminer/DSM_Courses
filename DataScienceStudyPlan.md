@@ -526,7 +526,7 @@ Data visualization is an important component of proper EDA, following the DSM st
 
 ## Question Driven EDA:
 
- ### 1. Are multi-collinear features present in the data?
+ #### 1. Are multi-collinear features present in the data?
 
 **How to identify:** Pearson correlation coefficient heat maps or scores.
 
@@ -548,7 +548,7 @@ Data visualization is an important component of proper EDA, following the DSM st
 
 **How to fix:** Drop the outliers, cap the values of the outliers, or transform the outliers into something harmless for your analysis.
 
-## Math and Statistics for Data Scientists
+# Math and Statistics for Data Scientists
 Developing a proper understanding of the math and statistics behind data science algorithms will help you better understand when which modeling methods are most appropriate.
 
 -   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
@@ -566,6 +566,7 @@ Developing a proper understanding of the math and statistics behind data science
 # Feature Selection
 
 Feature selection methods are important no matter the size of the data your working with. Below I have listed many feature selection methods you should familiarize yourself with. When reviewing these methods make note of when one is more appropriate over another. For example, using the Principal Component Analsysis (PCA) as a feature selection method is only appropriate when knowing the exact important features is not important for model results interpretation as just reducing the size of the data going into the model.
+
 Things to consider when choosing a feature selection method:
  - the number of features in the dataset
  - the type of response variable 
@@ -743,6 +744,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjMwMDM2NSwtNDgwNDA2MjEyLC04OD
+eyJoaXN0b3J5IjpbMTY4MTg0ODQwOSwtNDgwNDA2MjEyLC04OD
 EwMjc3MzRdfQ==
 -->
