@@ -694,7 +694,7 @@ Video Resources:
 ### Random Forest 
 #### 1.  Understand the Math of 
 
-Video Resource:
+Video Resource: # Machine learning - Random forests by Nando de Freitas (1hr:18mins)
 #### 2. In-depth Understanding of 
 Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 Video Resources:
@@ -847,8 +847,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMT
-kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
-NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX
-0=
+eyJoaXN0b3J5IjpbMTYxODUwMTQxNiw3Nzg0OTE0ODQsLTEyNz
+cxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0
+MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC
+04ODEwMjc3MzRdfQ==
 -->
