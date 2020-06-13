@@ -696,7 +696,7 @@ Video Resources:
 ### Random Forest 
 #### 1.  Understand the Math of Random Forest
 
-Video Resource: # [Machine learning - Random forests by Nando de Freitas](https://youtu.be/3kYujfDgmNk) (1hr 18mins)
+Video Resource:  [Machine learning - Random forests by Nando de Freitas](https://youtu.be/3kYujfDgmNk) (1hr 18mins)
 #### 2. In-depth Understanding of Random Forest
 Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 Video Resources:
@@ -710,7 +710,7 @@ Video Resources:
 #### 1.  Introduction to  SVM
 https://www.youtube.com/watch?v=efR1C6CvhmE
 [SVM with kernel visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
-#### 3. In-depth Understanding of SVM
+#### 2. In-depth Understanding of SVM
 Text Resource:
 Video Resources:
 -   [Maximal Margin Classifier](https://www.youtube.com/watch?v=QpbynqiTCsY) (11:35)
@@ -722,6 +722,7 @@ Video Resources:
 
 #### 2.  Understand the Math of 
 Text Resource:
+
 Video Resource:
 #### 3. In-depth Understanding of 
 Text Resource:
@@ -846,7 +847,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzgwNzA3NSwxNzMzMzg5MDQxLDIxMz
+eyJoaXN0b3J5IjpbMTYwODc3MzMxMSwxNzMzMzg5MDQxLDIxMz
 c5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcw
 NCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLD
 EzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
