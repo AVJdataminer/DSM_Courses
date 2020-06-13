@@ -622,6 +622,7 @@ The modeling methods listed below are covered in detail [in this playlist.](http
 This is your short course on Linear Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook at the end of this document that provides the structure for problem-solving with linear regression but is limited in-depth on Linear Regression, which is found more in the video lessons and the other materials. Happy Learning!
 
 #### 1.   Overview of Linear Regression in Machine Learning & AI
+- [ ] Add image of table with Linear reg highlighted
 
 
 Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/watch?v=szXbuO3bVRk) (18 mins)
@@ -664,7 +665,32 @@ Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 ---
 
-[Lasso Regression](https://docs.google.com/document/d/e/2PACX-1vTgO2Fykp7R1xB5VSxgCQ0R_iOi_nNEBHqGsN0VOiiGCkXNkfGqXHDpZCT0kW3wsZSJbVr0fvtuCFIz/pub)
+### Lasso Regression
+This is your short course on Lasso Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook in this document that provides an applied example of using Lasso Regression within the structure of the Data Science Method for solving problems with data science. More details and in-depth content on Lasso Regression is found in the video lessons and the other materials in this document. Happy Learning!
+
+1.  ## Overview of Lasso Regression in Machine Learning & AI
+    
+
+
+2.  ## Understand the Math of Lasso Regression
+    
+
+  
+
+Video Resource: [Lasso Regression](https://www.youtube.com/watch?v=jbwSCwoT51M) by ritvikmath (7 mins)
+
+3.  ## In-depth Understanding of Lasso Regression
+    
+
+Text Resource: [An introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) Chapter 6
+
+  
+
+Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMlcs) StatQuest with Josh Starmer (8 mins)
+
+  
+
+[ISLR Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) (16 mins)
 
 Decision Trees
 
@@ -786,6 +812,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04OD
-EwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbMTEzNzI2MzUzMywxMzQyMjc0NDMxLC00OD
+A0MDYyMTIsLTg4MTAyNzczNF19
 -->
