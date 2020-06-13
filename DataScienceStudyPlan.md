@@ -703,7 +703,9 @@ Text Resource:
 Video Resource:
 #### 3. In-depth Understanding of 
 Text Resource:
-Video Resource:
+Video Resources:
+[Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
+[Boosting and Variable Importance](https://www.youtube.com/watch?v=U3MdBNysk9w) (12:03)
 #### 3.1 Random Forest Exercise Notebook
 
 ### SVM
@@ -715,7 +717,10 @@ Text Resource:
 Video Resource:
 #### 3. In-depth Understanding of 
 Text Resource:
-Video Resource:
+Video Resources:
+-   [Maximal Margin Classifier](https://www.youtube.com/watch?v=QpbynqiTCsY) (11:35)
+-   [Support Vector Classifier](https://www.youtube.com/watch?v=xKsTsGE7KpI) (8:04)
+-   [Kernels and Support Vector Machines](https://www.youtube.com/watch?v=dm32QvCW7wE) (15:04)
 #### 3.1 SVM Exercise Notebook
 
 ### KNN
@@ -842,7 +847,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MTcxMjA4LDYxMTkzNzcwNCwtMTY4MT
+eyJoaXN0b3J5IjpbNzkzMjE3MTI4LDYxMTkzNzcwNCwtMTY4MT
 k0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0
 MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
 -->
