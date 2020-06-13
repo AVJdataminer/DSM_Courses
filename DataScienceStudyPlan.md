@@ -683,7 +683,9 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 Decision Trees
 3.1 Decision Trees Exercise Notebook
+
 Random Forest 
+#### 1.   Overview of Linear Regression in Machine Learning & AI
 3.1 Random Forest Exercise Notebook
 SVM
 3.1 SVM Exercise Notebook
@@ -801,6 +803,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMz
-QyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbMTI2NzE3OTYxMCwtMjAwMjYyNDE2OSwtNz
+Y3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3
+NzM0XX0=
 -->
