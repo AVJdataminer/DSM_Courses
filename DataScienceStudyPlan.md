@@ -810,6 +810,7 @@ Model Evaluation\Interpretation
 [x]Accuracy Score
 
 - [ ]  Model evaluation metrics in detail
+- [ ] 
 
 Machine Learning Model Metrics
 
@@ -836,6 +837,26 @@ Grid Search in KNN
 Bayesian Optimization
 
 Bayesian Optimization
+[https://www.youtube.com/watch?v=wpQiEHYkBys](https://www.youtube.com/watch?v=wpQiEHYkBys)
+
+[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
+
+[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74)
+
+[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991)
+
+[https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+
+[https://docs.google.com/document/d/1GtjOvfbaRmHp6YI7X5CjiK0HgRTITjlSzHOz_tYFQu4/copy](https://docs.google.com/document/d/1GtjOvfbaRmHp6YI7X5CjiK0HgRTITjlSzHOz_tYFQu4/copy)
+
+[https://youtu.be/VTE2KlfoO3Q](https://youtu.be/VTE2KlfoO3Q)
+
+[https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/  
+](https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/)
+
+[https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85](https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85)
+
+[https://youtu.be/KhBB1J5JRzs](https://youtu.be/KhBB1J5JRzs)
 
 # Big Data 
 Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. 
@@ -877,7 +898,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzE1NTI4NCwtMTQ1NTEyNzY5NywxNz
+eyJoaXN0b3J5IjpbMjA5MjAwNzg4OSwtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
 MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
 wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
