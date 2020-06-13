@@ -720,14 +720,7 @@ Video Resources:
 ---
 ### KNN
 
-#### 2.  Understand the Math of 
-Text Resource:
-
-Video Resource:
-#### 3. In-depth Understanding of 
-Text Resource:
-Video Resource:
-#### 3.1 KNN Exercise Notebook
+Go to the Hyperparam
 
 ## Unsupervised Learning
 
@@ -898,7 +891,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjAwNzg4OSwtMTQ1NTEyNzY5NywxNz
+eyJoaXN0b3J5IjpbLTk3MzA1ODcyMSwtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
 MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
 wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
