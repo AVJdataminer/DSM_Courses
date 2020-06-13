@@ -618,7 +618,56 @@ The primary difference is that in supervised models you have a labeled training 
 
 The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
-###
+### Linear Regression
+This is your short course on Linear Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook at the end of this document that provides the structure for problem-solving with linear regression but is limited in-depth on Linear Regression, which is found more in the video lessons and the other materials. Happy Learning!
+
+#### 1.   Overview of Linear Regression in Machine Learning & AI
+
+
+Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/watch?v=szXbuO3bVRk) ( 18 mins)
+
+#### 2.  Understand the Math and the Assumptions of Linear Regression
+    
+
+  
+
+Visual Resource: [Seeing Theory Interactive Exercise](https://seeing-theory.brown.edu/regression-analysis/index.html) (10 mins)
+
+  
+
+Video Resource:
+
+Get out a pen and paper and do the math along with these videos. Doing the math by hand with these simple examples will meld this method into your mind and allow you to have a deep understanding of the appropriate applications and limitations of Linear Regression.
+
+  
+
+[Krista King Math](https://www.youtube.com/watch?v=1pawL_5QYxE) (8 mins)
+
+[Khan Academy](https://www.youtube.com/watch?v=8mAZYv5wIcE) (19 mins)
+
+  
+  
+
+#### 3. In-depth Understanding of Linear Regression
+    
+
+Video Resources:
+
+[Statistical Learning Introduction by Dr. Hastie](https://www.youtube.com/watch?v=WjyuiK5taS8) (14 mins) - [ISLR Textbook Chapter 2](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+
+[Linear Regression Lecture by Dr.Tribshirani](https://www.youtube.com/watch?v=PsE9UqoWtS4) (15 mins) - [ISLR Textbook Chapter 3](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+
+Optional additional video [Statistical Sommelier](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-3-multiple-linear-regression/) (4 mins)
+
+  
+
+Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.io/ml_sandbox/linear_regression_diagnostics/) (10 mins)
+
+#### 3.1 Exercise Notebook - Google Colab or Jupyter Notebook
+
+[Avocado Pricing with Linear Regression](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
+
+[![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 
 [Lasso Regression](https://docs.google.com/document/d/e/2PACX-1vTgO2Fykp7R1xB5VSxgCQ0R_iOi_nNEBHqGsN0VOiiGCkXNkfGqXHDpZCT0kW3wsZSJbVr0fvtuCFIz/pub)
 
@@ -742,6 +791,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE2OTU2NTksLTQ4MDQwNjIxMiwtOD
-gxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMjAwNTM3OTE3NSwtNDgwNDA2MjEyLC04OD
+EwMjc3MzRdfQ==
 -->
