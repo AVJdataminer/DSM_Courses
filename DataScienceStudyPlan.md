@@ -662,7 +662,7 @@ Optional additional video [Statistical Sommelier](https://ocw.mit.edu/courses/sl
  
 Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.io/ml_sandbox/linear_regression_diagnostics/) (10 mins)
 
-#### 3.1 [Exercise Notebook](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)  Avocado Pricing with Linear Regression
+#### 3.1 [Linear Regression Exercise Notebook](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)  Avocado Pricing with Linear Regression
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 ---
 
@@ -693,6 +693,7 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 
 [ISLR Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) (16 mins)
 
+#### [3.1 Jupyter Notebook Lasso Exercise](https://colab.research.google.com/drive/1Kc_Lckt-3w0_dkhzWp2KqwNHaemsaxoN?usp=sharing)
 
 ---
 
@@ -816,6 +817,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00OD
-A0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTYyMTk4MjY3MCwtNzY3NTE5NzAxLDEzND
+IyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
 -->
