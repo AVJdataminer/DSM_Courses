@@ -618,7 +618,7 @@ The primary difference is that in supervised models you have a labeled training 
 
 The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
-[Linear Regression](https://docs.google.com/document/d/e/2PACX-1vQxEWaK8ZJJJBaX3prBT7WvZhPlXg146roKwFyw0RKEXLRDcFdxLZPC9ibwfZZOffN_le3Uc8h8oMC7/pub)
+###
 
 [Lasso Regression](https://docs.google.com/document/d/e/2PACX-1vTgO2Fykp7R1xB5VSxgCQ0R_iOi_nNEBHqGsN0VOiiGCkXNkfGqXHDpZCT0kW3wsZSJbVr0fvtuCFIz/pub)
 
@@ -742,6 +742,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNDgyMzQwLC00ODA0MDYyMTIsLTg4MT
-AyNzczNF19
+eyJoaXN0b3J5IjpbLTIwNzE2OTU2NTksLTQ4MDQwNjIxMiwtOD
+gxMDI3NzM0XX0=
 -->
