@@ -622,10 +622,8 @@ The modeling methods listed below are covered in detail [in this playlist.](http
 This is your short course on Linear Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook at the end of this document that provides the structure for problem-solving with linear regression but is limited in-depth on Linear Regression, which is found more in the video lessons and the other materials. Happy Learning!
 
 #### 1.   Overview of Linear Regression in Machine Learning & AI
-- [ ] Add image of table with Linear reg highlighted
-- ```
-<span style="color:red">some **This is Red Bold.** text</span>
-```
+
+- [ ]  TODO:  Add image of table with Linear reg highlighted
 
 
 
@@ -661,8 +659,7 @@ Video Resources:
 
 Optional additional video [Statistical Sommelier](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-3-multiple-linear-regression/) (4 mins)
 
-  
-
+ 
 Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.io/ml_sandbox/linear_regression_diagnostics/) (10 mins)
 
 #### 3.1 [Exercise Notebook](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)  Avocado Pricing with Linear Regression
@@ -674,12 +671,12 @@ This is your short course on Lasso Regression, feel free to skip around based on
 
 1.  ## Overview of Lasso Regression in Machine Learning & AI
     
-
+- [ ]  TODO:  Add image of table with Lasso reg highlighted
 
 2.  ## Understand the Math of Lasso Regression
     
 
-  
+ 
 
 Video Resource: [Lasso Regression](https://www.youtube.com/watch?v=jbwSCwoT51M) by ritvikmath (7 mins)
 
@@ -695,6 +692,9 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
   
 
 [ISLR Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) (16 mins)
+
+
+---
 
 Decision Trees
 
@@ -816,6 +816,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ5MzM2MiwxMzQyMjc0NDMxLC00OD
+eyJoaXN0b3J5IjpbLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00OD
 A0MDYyMTIsLTg4MTAyNzczNF19
 -->
