@@ -692,10 +692,10 @@ Video Resources:
 #### 3. Decision Trees Exercise Notebook
 ---
 ### Random Forest 
-#### 1.  Understand the Math of 
+#### 1.  Understand the Math of Random Forest
 
 Video Resource: # [Machine learning - Random forests by Nando de Freitas](https://youtu.be/3kYujfDgmNk) (1hr 18mins)
-#### 2. In-depth Understanding of 
+#### 2. In-depth Understanding of Random Forest
 Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 Video Resources:
 [Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
@@ -847,8 +847,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzk5OTI5Nyw3Nzg0OTE0ODQsLTEyNz
-cxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0
-MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC
-04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4OTgzNTE4NTEsNzc4NDkxNDg0LC0xMj
+c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
+NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
+wtODgxMDI3NzM0XX0=
 -->
