@@ -707,9 +707,8 @@ Video Resources:
 ---
 
 ### Support Vector Machine (SVM)
-#### 2.  Understand the Math of SVM
-Text Resource:
-Video Resource:
+#### 1.  Introduction to  SVM
+https://www.youtube.com/watch?v=efR1C6CvhmE
 #### 3. In-depth Understanding of SVM
 Text Resource:
 Video Resources:
@@ -846,8 +845,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
-Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
-NjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC
-00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbMzgyMDY5MTQzLDE3MzMzODkwNDEsMjEzNz
+k0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0
+LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMT
+M0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
