@@ -683,9 +683,9 @@ Video Resources: [Lasso Regression by](https://www.youtube.com/watch?v=NGf0voTMl
 #### 1.   Overview of  in Machine Learning & AI
 Text Resource:
 Video Resource:
-#### 2.  Understand the Math of 
+#### 2.  Understand the Math of Decision Trees
 Text Resource:
-Video Resource:
+Video Resource: https://youtu.be/1IQOtJ4NI_0
 #### 3. In-depth Understanding of 
 Text Resource:
 Video Resources:
@@ -853,7 +853,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNj
-gxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3
-NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTExMjQ5MDEwMTUsLTEyNzcxMjcyMjksNj
+ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
+MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
+RdfQ==
 -->
