@@ -555,9 +555,9 @@ Developing a proper understanding of the math and statistics behind data science
 ## [ Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
 ## [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  
 
--   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
--   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML) 
+## [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML) 
 
+## Statistical Methods in Python
 [Data Camp Course Statistical Thinking in Python part 1](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
 [Data Camp Course Statistical Thinking in Python part 2](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
@@ -840,7 +840,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDIwODUzOCwtMTY4MTk0MjE2MywtMj
-AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
-NjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbNjM4NTAwMDE1LC0xNjgxOTQyMTYzLC0yMD
+AyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2
+MjEyLC04ODEwMjc3MzRdfQ==
 -->
