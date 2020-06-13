@@ -516,6 +516,8 @@ Phew, that’s all folks! You’ve now seen all the steps involved in the data s
 # Data Wrangling
 This section provides more detail on some topics covered previously in the Data Science Method sections. 
 
+[Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 ## Missing Values
 Learn advanced identification and imputation methods for missing values with this [Data Camp Course using Python.](https://www.datacamp.com/courses/dealing-with-missing-data-in-python/?tap_a=5644-dce66f&tap_s=644217-4bb8b9)
 
@@ -844,8 +846,8 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNz
-cxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0
-MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC
-04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
+Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
+NjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC
+00ODA0MDYyMTIsLTg4MTAyNzczNF19
 -->
