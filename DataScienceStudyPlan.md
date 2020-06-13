@@ -615,9 +615,9 @@ The primary difference is that in supervised models you have a labeled training 
 ## Supervised Learning
 [Classification, kNN, Cross-validation, Dimensionality Reduction](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
 
-
 The modeling methods listed below are covered in detail [in this playlist.](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) The lectures are solid and the text they reference is excellent as well. Don't be detered byy the code examples being in R, there are plenty of Python coding examples out there, the main point is to gain the statistical concepts and insights.
 
+---
 ### Linear Regression
 This is your short course on Linear Regression, feel free to skip around based on your interest level and time constraints. There is a python exercise notebook at the end of this document that provides the structure for problem-solving with linear regression but is limited in-depth on Linear Regression, which is found more in the video lessons and the other materials. Happy Learning!
 
@@ -628,9 +628,6 @@ Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/wat
 
 #### 2.  Understand the Math and the Assumptions of Linear Regression
     
-
-  
-
 Visual Resource: [Seeing Theory Interactive Exercise](https://seeing-theory.brown.edu/regression-analysis/index.html) (10 mins)
 
   
@@ -668,6 +665,7 @@ Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.
 [Avocado Pricing with Linear Regression](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
+---
 
 [Lasso Regression](https://docs.google.com/document/d/e/2PACX-1vTgO2Fykp7R1xB5VSxgCQ0R_iOi_nNEBHqGsN0VOiiGCkXNkfGqXHDpZCT0kW3wsZSJbVr0fvtuCFIz/pub)
 
@@ -791,6 +789,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTM3OTE3NSwtNDgwNDA2MjEyLC04OD
+eyJoaXN0b3J5IjpbLTczMzMxMTE1OSwtNDgwNDA2MjEyLC04OD
 EwMjc3MzRdfQ==
 -->
