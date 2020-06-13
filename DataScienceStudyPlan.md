@@ -550,11 +550,11 @@ Data visualization is an important component of proper EDA, following the DSM st
 
 # Math and Statistics for Data Scientists
 Developing a proper understanding of the math and statistics behind data science algorithms will help you better understand when which modeling methods are most appropriate.
+## [Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
+## [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
+## [ Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
+## [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  
 
--   [Khan Academy Introduction to Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)  
--   [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
--   [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
--   [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)  
 -   [3blue1brown YouTube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 -   [Math for Machine Learning on Coursera](https://bit.ly/courseraMathForML) 
 
@@ -840,7 +840,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM4ODkzMDIsLTE2ODE5NDIxNjMsLT
-IwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0
-MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTM5MDIwODUzOCwtMTY4MTk0MjE2MywtMj
+AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
+NjIxMiwtODgxMDI3NzM0XX0=
 -->
