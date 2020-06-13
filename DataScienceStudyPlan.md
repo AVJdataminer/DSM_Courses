@@ -597,11 +597,10 @@ Things to consider when choosing a feature selection method:
    Lasso Regression -> L1 Regularization, penalty term in the cost
    function reduces the coefficients to zero.
 
-### Feature Engineering 
+## Feature Engineering 
 This can simply refer to log transformed data or it can be something more complex like developing entirely new data derivates and using them as additional features. 
 
 ### [Automated Feature Engineering](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb)
-
 
 
 ---
@@ -745,6 +744,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzU5OTI1LC00ODA0MDYyMTIsLTg4MT
-AyNzczNF19
+eyJoaXN0b3J5IjpbLTEyMjA4MDAwMTgsLTQ4MDQwNjIxMiwtOD
+gxMDI3NzM0XX0=
 -->
