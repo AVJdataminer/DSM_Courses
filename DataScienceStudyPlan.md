@@ -738,7 +738,7 @@ Video Resource:
 ## Unsupervised Learning
 
 ### K means clustering
-#### I-depth understanding
+#### In-depth understanding
 [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
 ### PCA
@@ -853,7 +853,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODc1MTM5OSw2MTE5Mzc3MDQsLTE2OD
-E5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0
-NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNj
+gxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3
+NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
