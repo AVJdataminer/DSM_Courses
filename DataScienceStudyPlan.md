@@ -720,7 +720,7 @@ Video Resources:
 ---
 ### KNN
 
-Go to the Hyperparam
+Go to the Hyperparameter optimization section for more info on K Nearest Neighbor.
 
 ## Unsupervised Learning
 
@@ -891,7 +891,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzA1ODcyMSwtMTQ1NTEyNzY5NywxNz
+eyJoaXN0b3J5IjpbMTAzMzk1MjUyMywtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
 MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
 wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
