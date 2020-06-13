@@ -711,7 +711,7 @@ Video Resources:
 https://www.youtube.com/watch?v=efR1C6CvhmE
 [SVM with kernel visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
 #### 2. In-depth Understanding of SVM
-Text Resource:
+Text Resource: https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
 Video Resources:
 -   [Maximal Margin Classifier](https://www.youtube.com/watch?v=QpbynqiTCsY) (11:35)
 -   [Support Vector Classifier](https://www.youtube.com/watch?v=xKsTsGE7KpI) (8:04)
@@ -850,8 +850,9 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMT
-M3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3
-MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMS
-wxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbNDIwNTkwMDkwLC0xNDU1MTI3Njk3LDE3Mz
+MzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcy
+MjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC
+03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEw
+Mjc3MzRdfQ==
 -->
