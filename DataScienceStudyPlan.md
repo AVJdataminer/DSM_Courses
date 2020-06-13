@@ -868,6 +868,8 @@ For a data scientist, the availability of big data is both enticing and daunting
 
 # Advanced topics
 Consider learning more about these topics as well.
+- [ ] Git and Version Control
+- [ ] SQL and Databases
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] NLP
@@ -891,9 +893,9 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTE4OTM1NiwtMTQ1NTEyNzY5NywxNz
-MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
-MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
-wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
-MDI3NzM0XX0=
+eyJoaXN0b3J5IjpbNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3Mz
+MzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcy
+MjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC
+03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEw
+Mjc3MzRdfQ==
 -->
