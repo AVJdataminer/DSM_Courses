@@ -742,7 +742,8 @@ Text Reource: [A One Stop Shop for Understanding PCA](https://towardsdatascience
 Visual Resource: [Understanding PCA visually](https://setosa.io/ev/principal-component-analysis/)
 #### 2. Understand the Math of PCA
 Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
-#### 3. In-depth Understanding
+#### 3. In-depth Understanding of PCA
+Video Resources:
 -   [Unsupervised Learning and Principal Components Analysis](https://www.youtube.com/watch?v=ipyxSYXgzjQ) (12:37)
 -   [Exploring Principal Components Analysis and Proportion of Variance Explained](https://www.youtube.com/watch?v=dbuSGWCgdzw) (17:39)
 
@@ -852,7 +853,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Njc2MDA5MiwtMTQ1NTEyNzY5NywxNz
+eyJoaXN0b3J5IjpbLTU2NTM5NTM0MywtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
 MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
 wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
