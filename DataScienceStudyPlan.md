@@ -731,8 +731,9 @@ Video Resource:
 
 K means clustering
 
-PCA
-
+### PCA
+#### 2. Understand the Math of PCA
+Video Resource: [https://www.coursera.org/learn/pca-machine-learning](https://www.coursera.org/learn/pca-machine-learning)
 
 ##  Decide on a First Model
 
@@ -838,7 +839,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE4ODMyMSwtMTY4MTk0MjE2MywtMj
-AwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQw
-NjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMD
+AyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2
+MjEyLC04ODEwMjc3MzRdfQ==
 -->
