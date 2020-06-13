@@ -660,8 +660,7 @@ Optional additional video [Statistical Sommelier](https://ocw.mit.edu/courses/sl
 
 Visual Interactive Resource: [Linear Diagnostic Plots](https://kwichmann.github.io/ml_sandbox/linear_regression_diagnostics/) (10 mins)
 
-#### 3.1 Exercise Notebook - Google Colab or Jupyter Notebook
-[Avocado Pricing with Linear Regression](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
+#### 3.1 [Exercise Notebook](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)  Avocado Pricing with Linear Regression
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1_Yb158dd9Qw3CcKnxt4pO97qBtgXXHvL#scrollTo=33q5TZskB5X6)
 ---
 
@@ -787,6 +786,6 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzQ1Mjg1NSwtNDgwNDA2MjEyLC04OD
+eyJoaXN0b3J5IjpbMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04OD
 EwMjc3MzRdfQ==
 -->
