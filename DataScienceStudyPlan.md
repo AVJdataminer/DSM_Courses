@@ -663,8 +663,6 @@ This is your short course on Lasso Regression, feel free to skip around based on
 
 #### 1.  Overview of Lasso Regression in Machine Learning & AI
     
-- [ ]  TODO:  Add image of table with Lasso reg highlighted
-
 #### 2.  Understand the Math of Lasso Regression
    
 Video Resource: [Lasso Regression](https://www.youtube.com/watch?v=jbwSCwoT51M) by ritvikmath (7 mins)
@@ -893,9 +891,9 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3Mz
-MzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcy
-MjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC
-03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEw
-Mjc3MzRdfQ==
+eyJoaXN0b3J5IjpbMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NT
+UxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4
+NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLT
+IwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0
+MDYyMTIsLTg4MTAyNzczNF19
 -->
