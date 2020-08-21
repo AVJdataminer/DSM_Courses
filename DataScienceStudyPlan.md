@@ -784,7 +784,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must be able to communicate to an employer or manager why you decided to report the model precision scores for a particular set models. What does the precision emphasize that relates back to the business problem, i.e. false positives and flagging fraudulent transactions.
 
-Model Evaluation\Interpretation
+## Clas
 
 [x]Precision-False Pos emphasizes
 
@@ -894,10 +894,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4Mj
-kyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0
-MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MT
-E5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUx
-OTcwMSwxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF
-19
+eyJoaXN0b3J5IjpbLTE5MzUwNjE0Nyw1MzgwNjQyNDMsMTA4OT
+k3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5
+NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMj
+c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
+NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
+wtODgxMDI3NzM0XX0=
 -->
