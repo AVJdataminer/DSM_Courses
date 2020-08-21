@@ -782,6 +782,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 # Model Metrics
 
+Understanding the appropriate model metric to evaluate your model performance is an im
 Model Evaluation\Interpretation
 
 [x]Precision-False Pos emphasizes
@@ -892,9 +893,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMD
-YyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAz
-NTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMT
-Y4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIy
-NzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTcxODAxODU0NywxMDg5OTc4NDk1LDExOD
+I5MjQ0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkw
+NDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNj
+ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
+MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
+RdfQ==
 -->
