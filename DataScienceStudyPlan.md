@@ -807,15 +807,11 @@ Mathematically, R_Squared is given by:
 
 > The numerator is MSE ( average of the squares of the residuals) and the denominator is the variance in Y values. Higher the MSE, smaller the R_squared and poorer is the model.
 
-Adjusted R²
-
-Just like R², adjusted R² also shows how well terms fit a curve or line but adjusts for the number of terms in a model. It is given by below formula:
-
-![Image for post](https://miro.medium.com/max/60/1*Hj0akOXAhx4UEhbRJjyHhw.png?q=20)
+Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a model. It is given by below formula:
 
 ![Image for post](https://miro.medium.com/max/235/1*Hj0akOXAhx4UEhbRJjyHhw.png)
 
-where n is the total number of observations and k is the number of predictors. Adjusted R² will always be less than or equal to R²
+
 - 
 - MAE (Mean Absolute Error)--> the average of the absolute difference between the predicted values and observed value. Mathematically, it is calculated using this formula:
 
@@ -906,7 +902,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTE0NjYxNywxMzA0NDgyMTA3LC05MT
+eyJoaXN0b3J5IjpbMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MT
 UyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5
 NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNz
 MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
