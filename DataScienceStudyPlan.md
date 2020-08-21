@@ -689,7 +689,7 @@ Video Resources:
  [Decision Trees](https://www.youtube.com/watch?v=6ENTbK3yQUQ) (14:37)
 [Pruning a Decision Tree](https://www.youtube.com/watch?v=GfPR7Xhdokc) (11:45)
 [Classification Trees and Comparison with Linear Models](https://www.youtube.com/watch?v=hPEJoITBbQ4) (11:00)
-#### 3. Decision Trees Exercise Notebook(https://colab.research.google.com/drive/1ErBMJobpW0oOqr1Rq-HWkjIBydS6hbO3?usp=sharing)
+#### [3. Decision Trees Exercise Notebook](https://colab.research.google.com/drive/1ErBMJobpW0oOqr1Rq-HWkjIBydS6hbO3?usp=sharing)
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1ErBMJobpW0oOqr1Rq-HWkjIBydS6hbO3?usp=sharing)
 ---
 ### Random Forest 
@@ -701,8 +701,8 @@ Text Resource: [ISLR Textbook Chapter 8](http://faculty.marshall.usc.edu/gareth-
 Video Resources:
 [Bootstrap Aggregation (Bagging) and Random Forests](https://www.youtube.com/watch?v=lq_xzBRIWm4) (13:45)
 [Boosting and Variable Importance](https://www.youtube.com/watch?v=U3MdBNysk9w) (12:03)
-#### 3. Random Forest Exercise Notebook
-
+#### [3. Random Forest Exercise Notebook](https://colab.research.google.com/drive/1ugtosmRSJBpPR_gaTy0Py1Pr0yC3momW?usp=sharing)
+[![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1ugtosmRSJBpPR_gaTy0Py1Pr0yC3momW?usp=sharing)
 ---
 
 ### Support Vector Machine (SVM)
@@ -877,11 +877,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ1NzQ1NjMsMzk4MTA0NDMsODk5MD
-Q4MTQxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2
-LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4Mj
-kyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0
-MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MT
-E5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUx
-OTcwMV19
+eyJoaXN0b3J5IjpbMTY2NjM0MTcyMywzOTgxMDQ0Myw4OTkwND
+gxNDEsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYs
+MjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOT
+I0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQx
+LDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMT
+kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
+NzAxXX0=
 -->
