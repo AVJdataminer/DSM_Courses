@@ -801,8 +801,12 @@ Learn and understand how these are calculated and when to use them.
 
 ### Regression Metrics Quick View
 - R-squared and Adjusted R-squared
-- MAE
-- RMSE
+- MAE--> MAE is the average of the absolute difference between the predicted values and observed value. The MAE is a linear score which means that all the individual differences are weighted equally in the average. For example, the difference between 10 and 0 will be twice the difference between 5 and 0. However, same is not true for RMSE which we will discuss more in details further. Mathematically, it is calculated using this formula:
+
+![Image for post](https://miro.medium.com/max/315/1*iLabSjpdwd1TaZyKdDKYBA.png)
+- RMSE (Root Mean Squared Error) --> represents the  [sample standard deviation](https://en.wikipedia.org/wiki/Sample_standard_deviation)  of the differences between predicted values and observed values (called residuals). Mathematically, it is calculated using this formula:
+
+![Image for post](https://miro.medium.com/max/327/1*pQR9id8CtnsdKljm8KODuw.png)
 -  AIC
 
 Machine Learning Model Metrics Quick Reference
@@ -886,10 +890,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNT
-czMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQx
-NCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMT
-M3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3
-MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMS
-wxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbMTE0MDY2ODUxMiwxMzA0NDgyMTA3LC05MT
+UyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5
+NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNz
+MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
+MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
+wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
+MDI3NzM0XX0=
 -->
