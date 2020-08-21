@@ -784,6 +784,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must be able to communicate to an employer or manager why you decided to report the model precision scores for a particular set models. What does the precision emphasize that relates back to the business problem, i.e. false positives and flagging fraudulent transactions.
 
+
 ### Classification Metrics Quick View
 Learn and understand how these are calculated and when to use them.
 - Precision --> Emphasizes False Positives 
@@ -799,10 +800,12 @@ Learn and understand how these are calculated and when to use them.
 - Accuracy Score
 
 ### Regression Metrics
+**Total sum of squares**
 
+**Explained sum of squares**
+
+**Residual sum of squares**
 Regression Metrics Adjusted
-
-
 
 Machine Learning Model Metrics Quick Reference
 
@@ -885,10 +888,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDcwMzA5LDIwNTczMjE4OTIsNTM4MD
-Y0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTks
-LTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
-Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
-NjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC
-00ODA0MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbLTYzODY0MDQwMiwyMDU3MzIxODkyLDUzOD
+A2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5
+LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nz
+g0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQy
+MTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMS
+wtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
