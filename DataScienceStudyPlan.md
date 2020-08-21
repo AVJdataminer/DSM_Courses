@@ -866,12 +866,13 @@ For a data scientist, the availability of big data is both enticing and daunting
 
 # Advanced topics
 Consider learning more about these topics as well.
+
 - [ ] Git and Version Control
 - [ ] SQL and Databases
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] NLP
-- [ ] Dash Boards (Dask, plotly)
+- [ ] Dash Boards (Dask, plotly, Streamlit.io)
 - [ ] Deep Learning
 	- [ ]   Overview
 	- [ ] when is it needed or benefit/cost comparison
@@ -891,9 +892,9 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NT
-UxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4
-NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLT
-IwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0
-MDYyMTIsLTg4MTAyNzczNF19
+eyJoaXN0b3J5IjpbMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMD
+YyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAz
+NTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMT
+Y4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIy
+NzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3NzM0XX0=
 -->
