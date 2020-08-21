@@ -789,17 +789,13 @@ Understanding the appropriate model metric to evaluate your model performance is
 
 - Recall --> Empahsizes True Negatives
 
-- F1-score -_> Harmonic mean of precision and recall
+- F1-score --> Harmonic mean of precision and recall
 
 - F-beta -> calculate precision and recall for each class
-
-[x]Confusion Matrix - classification report
-
-[]Log loss
-
-[x]AUC/ROC — 1 versus many for this case
-
-[x]Accuracy Score
+- Confusion Matrix - Best for Multi-class models
+- Log loss
+- AUC/ROC 
+Accuracy Score
 
 - [ ]  Model evaluation metrics in detail
 - [ ] 
@@ -893,10 +889,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OT
-k3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5
-NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMj
-c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
-NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
-wtODgxMDI3NzM0XX0=
+eyJoaXN0b3J5IjpbMTA1NjQ3OTUyMywyMDU3MzIxODkyLDUzOD
+A2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5
+LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nz
+g0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQy
+MTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMS
+wtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
 -->
