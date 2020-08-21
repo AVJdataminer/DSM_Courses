@@ -831,9 +831,7 @@ Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a 
 
 [Grid Search and Random Search](https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85)
 
-[Bayesian Optimization]
-
-[https://youtu.be/KhBB1J5JRzs](https://youtu.be/KhBB1J5JRzs)
+[Bayesian Optimization](https://youtu.be/KhBB1J5JRzs)
 
 # Big Data 
 Even though it’s a relatively new term, “big data” simply refers to a desire to glean relevant information from the most data. 
@@ -878,11 +876,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzIyNTgzNCw4OTkwNDgxNDEsMTA1OD
-QzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5
-Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMD
-YyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAz
-NTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMT
-Y4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIy
-NzQ0MzFdfQ==
+eyJoaXN0b3J5IjpbMzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0Mz
+IyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIs
+NTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2Mj
+UyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUx
+LDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2OD
+E5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0
+NDMxXX0=
 -->
