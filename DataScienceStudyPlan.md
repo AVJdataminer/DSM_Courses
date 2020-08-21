@@ -820,10 +820,7 @@ Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a 
 	
 [Machine Learning Model Metrics Quick Reference]([https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks))
 
-[Test your knowledge with these Model Metrics Exercises]([https://docs.google.com/document/d/18xT4I9yXhwqOEuTKDmZdYp2Scm3SU5Fd7Ueq--sP12U/edit](https://docs.google.com/document/d/18xT4I9yXhwqOEuTKDmZdYp2Scm3SU5Fd7Ueq--sP12U/edit)
-
-
-
+[Test your knowledge with these Model Metrics Exercises](https://docs.google.com/document/d/18xT4I9yXhwqOEuTKDmZdYp2Scm3SU5Fd7Ueq--sP12U/edit)
 
 ## Model Optimization
 
@@ -902,11 +899,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDQ0MDQ4MCwxMDU4NDMyMjY3LDEzMD
-Q0ODIxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUzODA2NDI0
-MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5LC0xND
-U1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0
-ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC
-0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgw
-NDA2MjEyXX0=
+eyJoaXN0b3J5IjpbODk5MDQ4MTQxLDEwNTg0MzIyNjcsMTMwND
+Q4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQz
+LDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NT
+UxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4
+NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLT
+IwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0
+MDYyMTJdfQ==
 -->
