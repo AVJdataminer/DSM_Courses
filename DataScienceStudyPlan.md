@@ -719,6 +719,9 @@ Video Resources:
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
 ---
 ### KNN
+#### 1.  Introduction to KNN
+#### 2. In-depth Understanding of KNN
+#### [3. KNN Exercise Notebook]
 
 Go to the Hyperparameter optimization section for more info on K Nearest Neighbor.
 
@@ -878,11 +881,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0OD
-E0MSwxMDU4NDMyMjY3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4Niwy
-MDU3MzIxODkyLDUzODA2NDI0MywxMDg5OTc4NDk1LDExODI5Mj
-Q0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEs
-MjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOT
-M3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTA5NDc1NCwtNjUwMTAyMzMsMzk4MT
+A0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywt
+OTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nz
+g0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcs
+MTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3Nz
+EyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQx
+NjldfQ==
 -->
