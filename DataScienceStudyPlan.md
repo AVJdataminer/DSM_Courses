@@ -719,7 +719,8 @@ Video Resources:
 #### 1.  Introduction to KNN
 
 #### 2. In-depth Understanding of KNN
-#### [3. KNN Exercise Notebook](V
+#### [3. KNN Exercise Notebook](https://colab.research.google.com/drive/1LAJZWEp-4lTCHU5BgiQBgGrR6gx5jzT6?usp=sharing)
+
 
 
 ## Unsupervised Learning
@@ -878,11 +879,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQzNzUyMDAsMTQ0OTA5NDc1NCwtNj
-UwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcs
-MTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MD
-Y0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTks
-LTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
-Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0LC02NT
+AxMDIzMywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMjI2Nywx
+MzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNj
+QyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwt
+MTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4ND
+kxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2
+M119
 -->
