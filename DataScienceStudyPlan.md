@@ -782,7 +782,8 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 # Model Metrics
 
-Understanding the appropriate model metric to evaluate your model performance is an im
+Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your 
+
 Model Evaluation\Interpretation
 
 [x]Precision-False Pos emphasizes
@@ -893,7 +894,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODAxODU0NywxMDg5OTc4NDk1LDExOD
+eyJoaXN0b3J5IjpbMTQwNjgzODI3NiwxMDg5OTc4NDk1LDExOD
 I5MjQ0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkw
 NDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNj
 ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
