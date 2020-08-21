@@ -799,19 +799,16 @@ Learn and understand how these are calculated and when to use them.
 - AUC/ROC 
 - Accuracy Score
 
-### Regression Metrics
-**Total sum of squares**
-
-**Explained sum of squares**
-
-**Residual sum of squares**
-Regression Metrics Adjusted
+### Regression Metrics Quick View
+- Adjusted R-squared
+- MAE
+- RMSE
 
 Machine Learning Model Metrics Quick Reference
 
-Model Evaluation Metrics
 
-Model Optimization
+
+## Model Optimization
 
 Parameters Versus Hyperparameters
 
@@ -888,10 +885,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODY0MDQwMiwyMDU3MzIxODkyLDUzOD
-A2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5
-LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nz
-g0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQy
-MTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMS
-wtNDgwNDA2MjEyLC04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbNDc1OTIwNjM4LDIwNTczMjE4OTIsNTM4MD
+Y0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTks
+LTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
+Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
+NjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC
+00ODA0MDYyMTIsLTg4MTAyNzczNF19
 -->
