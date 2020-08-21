@@ -782,7 +782,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 # Model Metrics
 
-Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must 
+Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must be able to communicate to an employer or manager why you decided to report the model precision scores for a particular set models
 
 Model Evaluation\Interpretation
 
@@ -894,10 +894,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUzOTE1OTAsMTA4OTk3ODQ5NSwxMT
-gyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5
-MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LD
-YxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3
-NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgxMDI3Nz
-M0XX0=
+eyJoaXN0b3J5IjpbMjAzODgxNjI2NiwxMDg5OTc4NDk1LDExOD
+I5MjQ0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkw
+NDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNj
+ExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1
+MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC04ODEwMjc3Mz
+RdfQ==
 -->
