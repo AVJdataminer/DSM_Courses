@@ -825,7 +825,7 @@ Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a 
 
 ## Model Optimization
 
-Parameters Versus Hyperparameters
+[Parameters Versus Hyperparameters by Andrew Ng]
 
 Hyperparameter Tuning
 
@@ -836,19 +836,8 @@ Grid Search in KNN
 Bayesian Optimization
 
 Bayesian Optimization
-[https://www.youtube.com/watch?v=wpQiEHYkBys](https://www.youtube.com/watch?v=wpQiEHYkBys)
 
-[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
-
-[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74)
-
-[https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991)
-
-[https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
-
-[https://docs.google.com/document/d/1GtjOvfbaRmHp6YI7X5CjiK0HgRTITjlSzHOz_tYFQu4/copy](https://docs.google.com/document/d/1GtjOvfbaRmHp6YI7X5CjiK0HgRTITjlSzHOz_tYFQu4/copy)
-
-[https://youtu.be/VTE2KlfoO3Q](https://youtu.be/VTE2KlfoO3Q)
+[https://youtu.be/VTE2KlfoO3Q]
 
 [https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/  
 ](https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/)
@@ -900,7 +889,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEzNTkxNTEsODk5MDQ4MTQxLDEwNT
+eyJoaXN0b3J5IjpbLTEzOTcyMzAwMjYsODk5MDQ4MTQxLDEwNT
 g0MzIyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4
 OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2Mj
 A2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQw
