@@ -623,9 +623,6 @@ This is your short course on Linear Regression, feel free to skip around based o
 
 #### 1.   Overview of Linear Regression in Machine Learning & AI
 
-- [ ]  TODO:  Add image of table with Linear reg highlighted
-
-
 Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/watch?v=szXbuO3bVRk) (18 mins)
 
 #### 2.  Understand the Math and the Assumptions of Linear Regression
@@ -723,7 +720,6 @@ Video Resources:
 #### 2. In-depth Understanding of KNN
 #### [3. KNN Exercise Notebook]
 
-Go to the Hyperparameter optimization section for more info on K Nearest Neighbor.
 
 ## Unsupervised Learning
 
@@ -881,11 +877,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTA5NDc1NCwtNjUwMTAyMzMsMzk4MT
-A0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywt
-OTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nz
-g0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcs
-MTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3Nz
-EyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQx
-NjldfQ==
+eyJoaXN0b3J5IjpbLTExNzYwMDU1MTcsMTQ0OTA5NDc1NCwtNj
+UwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcs
+MTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MD
+Y0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTks
+LTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
+Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
+NjNdfQ==
 -->
