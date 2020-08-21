@@ -780,11 +780,10 @@ No matter which model you start with the idea is to balance the constraints of e
 
 Feature engineering is more likely to improve model performance than hyperparameter tuning, so consider where your time is best spent and develop more features if your models aren’t performing as you would like.
 
-# Model Metrics
+# Model Evaluation Metrics
 
 Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must be able to communicate to an employer or manager why you decided to report the model precision scores for a particular set models. What does the precision emphasize that relates back to the business problem, i.e. false positives and flagging fraudulent transactions.
 
-## Classification and Regression
 
 [x]Precision-False Pos emphasizes
 
@@ -894,10 +893,10 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNzYxMTE2LDUzODA2NDI0MywxMDg5OT
-c4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3
-LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNz
-cxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0
-MTY5LC03Njc1MTk3MDEsMTM0MjI3NDQzMSwtNDgwNDA2MjEyLC
-04ODEwMjc3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQzNDc4Mzc2Niw1MzgwNjQyNDMsMTA4OT
+k3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5
+NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMj
+c3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYy
+NDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMi
+wtODgxMDI3NzM0XX0=
 -->
