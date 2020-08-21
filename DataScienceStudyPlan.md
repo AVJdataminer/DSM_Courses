@@ -631,6 +631,7 @@ Video Resource: [The Coding Train Linear Regression](https://www.youtube.com/wat
 Visual Resource: [Seeing Theory Interactive Exercise](https://seeing-theory.brown.edu/regression-analysis/index.html)  (10 mins)
 
 Get out a pen and paper and do the math along with these videos. Doing the math by hand with these simple examples will meld this method into your mind and allow you to have a deep understanding of the appropriate applications and limitations of Linear Regression.
+
 Video Resources:
 [Krista King Math](https://www.youtube.com/watch?v=1pawL_5QYxE) (8 mins)
 
@@ -716,6 +717,7 @@ Video Resources:
 ---
 ### KNN
 #### 1.  Introduction to KNN
+
 #### 2. In-depth Understanding of KNN
 #### [3. KNN Exercise Notebook]
 
@@ -876,11 +878,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTA3MTg2LDE0NDkwOTQ3NTQsLTY1MD
-EwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwxMDU4NDMyMjY3LDEz
-MDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUzODA2ND
-I0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5LC0x
-NDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OT
-E0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0LC0xNjgxOTQyMTYz
-XX0=
+eyJoaXN0b3J5IjpbLTIwOTEzNjA3MTgsMTQ0OTA5NDc1NCwtNj
+UwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcs
+MTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MD
+Y0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTks
+LTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3OD
+Q5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIx
+NjNdfQ==
 -->
