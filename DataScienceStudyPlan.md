@@ -805,14 +805,10 @@ Mathematically, R_Squared is given by:
 
 ![Image for post](https://miro.medium.com/max/778/1*d7IVANCDovpXKP5N0rR2Yg.png)
 
-> The numerator is MSE ( average of the squares of the residuals) and the denominator is the variance in Y values. Higher the MSE, smaller the R_squared and poorer is the model.
-
 Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a model. It is given by below formula:
 
 ![Image for post](https://miro.medium.com/max/235/1*Hj0akOXAhx4UEhbRJjyHhw.png)
-
-
-- 
+ 
 - MAE (Mean Absolute Error)--> the average of the absolute difference between the predicted values and observed value. Mathematically, it is calculated using this formula:
 
 ![Image for post](https://miro.medium.com/max/315/1*iLabSjpdwd1TaZyKdDKYBA.png)
@@ -902,11 +898,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MT
-UyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5
-NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNz
-MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
-MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
-wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
-MDI3NzM0XX0=
+eyJoaXN0b3J5IjpbLTE3MDQ2NzQyMDEsMTA1ODQzMjI2NywxMz
+A0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQy
+NDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMT
+Q1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkx
+NDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2My
+wtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4
+MDQwNjIxMl19
 -->
