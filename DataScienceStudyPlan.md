@@ -715,7 +715,8 @@ Video Resources:
 -   [Maximal Margin Classifier](https://www.youtube.com/watch?v=QpbynqiTCsY) (11:35)
 -   [Support Vector Classifier](https://www.youtube.com/watch?v=xKsTsGE7KpI) (8:04)
 -   [Kernels and Support Vector Machines](https://www.youtube.com/watch?v=dm32QvCW7wE) (15:04)
-#### 3.1 SVM Exercise Notebook
+#### [3.1 SVM Exercise Notebook](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
+[![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
 ---
 ### KNN
 
@@ -877,11 +878,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjM0MTcyMywzOTgxMDQ0Myw4OTkwND
-gxNDEsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYs
-MjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOT
-I0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQx
-LDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMT
-kzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5
-NzAxXX0=
+eyJoaXN0b3J5IjpbLTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0OD
+E0MSwxMDU4NDMyMjY3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4Niwy
+MDU3MzIxODkyLDUzODA2NDI0MywxMDg5OTc4NDk1LDExODI5Mj
+Q0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEs
+MjEzNzk0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOT
+M3NzA0LC0xNjgxOTQyMTYzLC0yMDAyNjI0MTY5LC03Njc1MTk3
+MDFdfQ==
 -->
