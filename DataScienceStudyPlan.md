@@ -815,10 +815,12 @@ Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a 
 - RMSE (Root Mean Squared Error) --> represents the  [sample standard deviation](https://en.wikipedia.org/wiki/Sample_standard_deviation)  of the differences between predicted values and observed values (called residuals). Mathematically, it is calculated using this formula:
 
 ![Image for post](https://miro.medium.com/max/327/1*pQR9id8CtnsdKljm8KODuw.png)
--  AIC(Akaike's Information Content
+-  AIC (Akaike's Information Content)
 	Equation: 2[(n+2)−log(L)]
 	
-Machine Learning Model Metrics Quick Reference
+[Machine Learning Model Metrics Quick Reference]([https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks))
+
+Test your knowledge with these Model Metrics exercises:
 
 
 
@@ -899,7 +901,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MDcxNzk1LDEwNTg0MzIyNjcsMTMwND
+eyJoaXN0b3J5IjpbMTg2NjQxMzQxLDEwNTg0MzIyNjcsMTMwND
 Q4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQz
 LDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NT
 UxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4
