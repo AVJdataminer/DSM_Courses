@@ -823,25 +823,15 @@ Adjusted R²--> Is the same as the R² but adjusts for the number of terms in a 
 
 [Test your knowledge with these Model Metrics Exercises](https://docs.google.com/document/d/18xT4I9yXhwqOEuTKDmZdYp2Scm3SU5Fd7Ueq--sP12U/edit)
 
-## Model Optimization
+## Model and Parameter Optimization
 
 [Parameters Versus Hyperparameters by Andrew Ng](https://youtu.be/VTE2KlfoO3Q)
 
 [Hyperparameter Tuning PDF](https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/)
 
-Grid Search and Random Search
+[Grid Search and Random Search](https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85)
 
-Grid Search in KNN
-
-Bayesian Optimization
-
-Bayesian Optimization
-
-
-[https://www.springboard.com/archeio/download/3df39f667c5e47669dc4814b613d3eab/  
-]
-
-[https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85](https://blog.usejournal.com/a-comparison-of-grid-search-and-randomized-search-using-scikit-learn-29823179bc85)
+[Bayesian Optimization]
 
 [https://youtu.be/KhBB1J5JRzs](https://youtu.be/KhBB1J5JRzs)
 
@@ -888,7 +878,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTA4NTA5MSw4OTkwNDgxNDEsMTA1OD
+eyJoaXN0b3J5IjpbLTUyNzIyNTgzNCw4OTkwNDgxNDEsMTA1OD
 QzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5
 Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMD
 YyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAz
