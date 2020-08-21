@@ -784,8 +784,7 @@ Feature engineering is more likely to improve model performance than hyperparame
 
 Understanding the appropriate model metric to evaluate your model performance is an important and often overlooked topic. Start by thinking about the business problem you're working on, for example if you're predicting a numeric response your not going to report an F1-score for the model. The model metric applied will depend on if the problem is a regression or classification model and additionally whether it is  multi-class or binary classification. In terms of data science study focus on understanding those listed below. You can branch out and learn about other less common metrics, however, you must be able to communicate to an employer or manager why you decided to report the model precision scores for a particular set models. What does the precision emphasize that relates back to the business problem, i.e. false positives and flagging fraudulent transactions.
 
-Video Resource: # Machine Learning Model Evaluation MetricsMaria Khalusova [https://www.youtube.com/watch?v=wpQiEHYkBys](https://www.youtube.com/watch?v=wpQiEHYkBys)
-
+Video Resource:  [Machine Learning Model Evaluation Metrics by Maria Khalusova](https://www.youtube.com/watch?v=wpQiEHYkBys)
 
 ### Classification Metrics Quick View
 Learn and understand how these are calculated and when to use them.
@@ -901,11 +900,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDA5NDU0NSw4OTkwNDgxNDEsMTA1OD
-QzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5
-Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMD
-YyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAz
-NTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMT
-Y4MTk0MjE2MywtMjAwMjYyNDE2OSwtNzY3NTE5NzAxLDEzNDIy
-NzQ0MzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzEzNTkxNTEsODk5MDQ4MTQxLDEwNT
+g0MzIyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4
+OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2Mj
+A2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQw
+MzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIyOSw2MTE5Mzc3MDQsLT
+E2ODE5NDIxNjMsLTIwMDI2MjQxNjksLTc2NzUxOTcwMSwxMzQy
+Mjc0NDMxXX0=
 -->
