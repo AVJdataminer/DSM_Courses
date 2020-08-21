@@ -800,7 +800,23 @@ Learn and understand how these are calculated and when to use them.
 - Accuracy Score
 
 ### Regression Metrics Quick View
-- R-squared and Adjusted R-squared
+- R-squared and Adjusted R-squared --> are often used for explanatory purposes and explains how well your selected independent variable(s) explain the variability in your dependent variable(s). 
+Mathematically, R_Squared is given by:
+
+![Image for post](https://miro.medium.com/max/778/1*d7IVANCDovpXKP5N0rR2Yg.png)
+
+> The numerator is MSE ( average of the squares of the residuals) and the denominator is the variance in Y values. Higher the MSE, smaller the R_squared and poorer is the model.
+
+Adjusted R²
+
+Just like R², adjusted R² also shows how well terms fit a curve or line but adjusts for the number of terms in a model. It is given by below formula:
+
+![Image for post](https://miro.medium.com/max/60/1*Hj0akOXAhx4UEhbRJjyHhw.png?q=20)
+
+![Image for post](https://miro.medium.com/max/235/1*Hj0akOXAhx4UEhbRJjyHhw.png)
+
+where n is the total number of observations and k is the number of predictors. Adjusted R² will always be less than or equal to R²
+- 
 - MAE (Mean Absolute Error)--> the average of the absolute difference between the predicted values and observed value. Mathematically, it is calculated using this formula:
 
 ![Image for post](https://miro.medium.com/max/315/1*iLabSjpdwd1TaZyKdDKYBA.png)
@@ -890,11 +906,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQxOTAzOTIsMTMwNDQ4MjEwNywtOT
-E1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0
-OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMT
-czMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEy
-NzIyOSw2MTE5Mzc3MDQsLTE2ODE5NDIxNjMsLTIwMDI2MjQxNj
-ksLTc2NzUxOTcwMSwxMzQyMjc0NDMxLC00ODA0MDYyMTIsLTg4
-MTAyNzczNF19
+eyJoaXN0b3J5IjpbMTMyNTE0NjYxNywxMzA0NDgyMTA3LC05MT
+UyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5
+NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNz
+MzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3
+MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2MywtMjAwMjYyNDE2OS
+wtNzY3NTE5NzAxLDEzNDIyNzQ0MzEsLTQ4MDQwNjIxMiwtODgx
+MDI3NzM0XX0=
 -->
