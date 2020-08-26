@@ -722,6 +722,7 @@ Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick
 
 #### 2. In-depth Understanding of KNN
 Text Resource: [Explanation with a code example](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
+Video Reso
 #### [3. KNN Exercise Notebook](https://colab.research.google.com/drive/1LAJZWEp-4lTCHU5BgiQBgGrR6gx5jzT6?usp=sharing)
 
 
@@ -882,11 +883,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3ODgyNTE4LC02MDUyMzc4NDMsLTg1OD
-U1Nzk4OSwxNDQ5MDk0NzU0LC02NTAxMDIzMywzOTgxMDQ0Myw4
-OTkwNDgxNDEsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMz
-Y1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwx
-MTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMz
-g5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0LC0xMjc3MTI3MjI5
+eyJoaXN0b3J5IjpbLTEwMzY2NTg2NDAsNjI3ODgyNTE4LC02MD
+UyMzc4NDMsLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0LC02NTAxMDIz
+MywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMjI2NywxMzA0ND
+gyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMs
+MTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NT
+EyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0
 XX0=
 -->
