@@ -866,15 +866,14 @@ Consider learning more about these topics as well.
 ### Topics common for most data science roles: 
 - Git and Version Control
 - SQL and Databases
-- 
-### Topics that are less common : 
-- [ ] Recommendation Systems
-- [ ] Time Series methods
-- [ ] NLP
-- [ ] Dash Boards (Dask, plotly, Streamlit.io)
-- [ ] Deep Learning
-	- [ ]   Overview
-	- [ ] when is it needed or benefit/cost comparison
+- Working with API's
+### Topics that are less common or an area of focus for future study: 
+- Recommendation Systems
+- Time Series methods
+-  Natural Language Processing
+- Data Dash Boards (Dask, Plotly, Streamlit.io)
+- Deep Learning
+
 
 
 
@@ -891,11 +890,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg4ODMyODMsMTI5MjQwNTk1OSw1MT
-g4MjAyOTgsNjI3ODgyNTE4LC02MDUyMzc4NDMsLTg1ODU1Nzk4
-OSwxNDQ5MDk0NzU0LC02NTAxMDIzMywzOTgxMDQ0Myw4OTkwND
-gxNDEsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYs
-MjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOT
-I0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQx
-XX0=
+eyJoaXN0b3J5IjpbNzQ5MDI2NTEsMTI5MjQwNTk1OSw1MTg4Mj
+AyOTgsNjI3ODgyNTE4LC02MDUyMzc4NDMsLTg1ODU1Nzk4OSwx
+NDQ5MDk0NzU0LC02NTAxMDIzMywzOTgxMDQ0Myw4OTkwNDgxND
+EsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1
+NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0ND
+E0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxXX0=
+
 -->
