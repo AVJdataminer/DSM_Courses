@@ -863,9 +863,11 @@ For a data scientist, the availability of big data is both enticing and daunting
 
 # Advanced topics
 Consider learning more about these topics as well.
-
-- [ ] Git and Version Control
-- [ ] SQL and Databases
+### Topics common for most data science roles: 
+- Git and Version Control
+- SQL and Databases
+- 
+### Topics that are less common : 
 - [ ] Recommendation Systems
 - [ ] Time Series methods
 - [ ] NLP
@@ -889,11 +891,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjQwNTk1OSw1MTg4MjAyOTgsNjI3OD
-gyNTE4LC02MDUyMzc4NDMsLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0
-LC02NTAxMDIzMywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMj
-I2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1
-MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNT
-I1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTFd
-fQ==
+eyJoaXN0b3J5IjpbLTE4Njg4ODMyODMsMTI5MjQwNTk1OSw1MT
+g4MjAyOTgsNjI3ODgyNTE4LC02MDUyMzc4NDMsLTg1ODU1Nzk4
+OSwxNDQ5MDk0NzU0LC02NTAxMDIzMywzOTgxMDQ0Myw4OTkwND
+gxNDEsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYs
+MjA1NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOT
+I0NDE0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQx
+XX0=
 -->
