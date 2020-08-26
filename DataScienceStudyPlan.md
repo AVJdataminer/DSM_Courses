@@ -797,8 +797,8 @@ Learn and understand how these are calculated and when to use them.
 
 - F1-score --> Harmonic mean of precision and recall
 
-- F-beta -> calculate precision and recall for each class
-- Confusion Matrix - Best for Multi-class models
+- F-beta --> Calculate precision and recall for each class
+- Confusion Matrix --> Best for Multi-class models
 - Log loss
 - AUC/ROC 
 - Accuracy Score
@@ -879,11 +879,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0LC02NT
-AxMDIzMywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMjI2Nywx
-MzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNj
-QyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwt
-MTQ1NTEyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4ND
-kxNDg0LC0xMjc3MTI3MjI5LDYxMTkzNzcwNCwtMTY4MTk0MjE2
-M119
+eyJoaXN0b3J5IjpbLTYwNTIzNzg0MywtODU4NTU3OTg5LDE0ND
+kwOTQ3NTQsLTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwx
+MDU4NDMyMjY3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3Mz
+IxODkyLDUzODA2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQs
+NjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNz
+k0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0
+XX0=
 -->
