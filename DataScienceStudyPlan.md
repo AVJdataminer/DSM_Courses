@@ -869,11 +869,12 @@ Consider learning more about these topics as well.
 - Working with API's
 ### Topics that are less common or an area of focus for future study: 
 - Recommendation Systems
-- Time Series methods
+- Time Series modeling
 -  Natural Language Processing
-- Data Dash Boards (Dask, Plotly, Streamlit.io)
+- Data Dashboards (Dask, Plotly, Streamlit.io)
 - Deep Learning
 
+This is not an exhaustive list but is meant to help you catergorize the topics you've run into in your own reading as either 'need to know' or 'save for later' when getting started in your data science and machine learning study path.
 
 
 
@@ -890,11 +891,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MDI2NTEsMTI5MjQwNTk1OSw1MTg4Mj
-AyOTgsNjI3ODgyNTE4LC02MDUyMzc4NDMsLTg1ODU1Nzk4OSwx
-NDQ5MDk0NzU0LC02NTAxMDIzMywzOTgxMDQ0Myw4OTkwNDgxND
-EsMTA1ODQzMjI2NywxMzA0NDgyMTA3LC05MTUyMzY1ODYsMjA1
-NzMyMTg5Miw1MzgwNjQyNDMsMTA4OTk3ODQ5NSwxMTgyOTI0ND
-E0LDYyMDYyNTI1OSwtMTQ1NTEyNzY5NywxNzMzMzg5MDQxXX0=
+eyJoaXN0b3J5IjpbMTcyODA1NTY0LDEyOTI0MDU5NTksNTE4OD
+IwMjk4LDYyNzg4MjUxOCwtNjA1MjM3ODQzLC04NTg1NTc5ODks
+MTQ0OTA5NDc1NCwtNjUwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MT
+QxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIw
+NTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyND
+QxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MV19
 
 -->
