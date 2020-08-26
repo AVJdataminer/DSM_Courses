@@ -719,13 +719,12 @@ Video Resources:
 #### 1.  Introduction to KNN
 Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7)
 
-
 #### 2. In-depth Understanding of KNN
 Text Resource: [Explanation with a code example](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 Video Resource: [Patrick Winston's lecture on MIT OpenCourseWare](https://youtu.be/09mb78oiPkA)
 #### [3. KNN Exercise Notebook](https://colab.research.google.com/drive/1LAJZWEp-4lTCHU5BgiQBgGrR6gx5jzT6?usp=sharing)
 
-
+[![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
 
 ## Unsupervised Learning
 
@@ -883,11 +882,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg0NjIxOTEsNjI3ODgyNTE4LC02MD
-UyMzc4NDMsLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0LC02NTAxMDIz
-MywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMjI2NywxMzA0ND
-gyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMs
-MTA4OTk3ODQ5NSwxMTgyOTI0NDE0LDYyMDYyNTI1OSwtMTQ1NT
-EyNzY5NywxNzMzMzg5MDQxLDIxMzc5NDAzNTEsNzc4NDkxNDg0
-XX0=
+eyJoaXN0b3J5IjpbMTYxMjMxNTExNyw2Mjc4ODI1MTgsLTYwNT
+IzNzg0MywtODU4NTU3OTg5LDE0NDkwOTQ3NTQsLTY1MDEwMjMz
+LDM5ODEwNDQzLDg5OTA0ODE0MSwxMDU4NDMyMjY3LDEzMDQ0OD
+IxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUzODA2NDI0Mywx
+MDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1MjU5LC0xNDU1MT
+I3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MSw3Nzg0OTE0ODRd
+fQ==
 -->
