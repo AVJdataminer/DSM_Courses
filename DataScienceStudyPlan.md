@@ -715,8 +715,10 @@ Video Resources:
 #### [3.1 SVM Exercise Notebook](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
 [![](https://lh4.googleusercontent.com/fubE6_qcQDC88D6umgTzTnxo7f1lVhrQJ_hflqgUGdUF4WAxt2GXoROzZkbnYAY8kd4yXTpcO47Z-0ARGB_oCXgiY3kvwdSOqF3_VoQ_hFZg9liqQv1-a9vkOkiJBmIanOLr4bNo)](https://colab.research.google.com/drive/1-20WI2QhRTwp0wvOz1V1TLK0o7eTL0A7?usp=sharing)
 ---
-### KNN
+### K - Nearest Neighbor (KNN)
 #### 1.  Introduction to KNN
+Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7)
+
 
 #### 2. In-depth Understanding of KNN
 #### [3. KNN Exercise Notebook](https://colab.research.google.com/drive/1LAJZWEp-4lTCHU5BgiQBgGrR6gx5jzT6?usp=sharing)
@@ -879,11 +881,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTIzNzg0MywtODU4NTU3OTg5LDE0ND
-kwOTQ3NTQsLTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwx
-MDU4NDMyMjY3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3Mz
-IxODkyLDUzODA2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQs
-NjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNz
-k0MDM1MSw3Nzg0OTE0ODQsLTEyNzcxMjcyMjksNjExOTM3NzA0
-XX0=
+eyJoaXN0b3J5IjpbMTAyNzc4NjM1OCwtNjA1MjM3ODQzLC04NT
+g1NTc5ODksMTQ0OTA5NDc1NCwtNjUwMTAyMzMsMzk4MTA0NDMs
+ODk5MDQ4MTQxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywtOTE1Mj
+M2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUs
+MTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMz
+M4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NCwtMTI3NzEyNzIy
+OV19
 -->
