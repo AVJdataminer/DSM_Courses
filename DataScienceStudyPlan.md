@@ -861,8 +861,8 @@ For a data scientist, the availability of big data is both enticing and daunting
 # Practical Application
 ### Getting setup in [Python and Jupyter Notebooks](https://aidenvjohnson.com/wp-content/uploads/2020/05/Intro_python-1.html)
 
-# Advanced topics
-Consider learning more about these topics as well.
+# Additional topics
+Other topics you should consider learning more about include these in the common list below.
 ### Topics common for most data science roles: 
 - Git and Version Control
 - SQL and Databases
@@ -873,6 +873,8 @@ Consider learning more about these topics as well.
 -  Natural Language Processing
 - Data Dashboards (Dask, Plotly, Streamlit.io)
 - Deep Learning
+- Putting models into Production
+- AWS, Azure, and GCP
 
 This is not an exhaustive list but is meant to help you catergorize the topics you've run into in your own reading as either 'need to know' or 'save for later' when getting started in your data science and machine learning study path.
 
@@ -891,11 +893,11 @@ This is not an exhaustive list but is meant to help you catergorize the topics y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODA1NTY0LDEyOTI0MDU5NTksNTE4OD
-IwMjk4LDYyNzg4MjUxOCwtNjA1MjM3ODQzLC04NTg1NTc5ODks
-MTQ0OTA5NDc1NCwtNjUwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MT
-QxLDEwNTg0MzIyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIw
-NTczMjE4OTIsNTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyND
-QxNCw2MjA2MjUyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MV19
-
+eyJoaXN0b3J5IjpbMTI1NDEwMzY5MiwxMjkyNDA1OTU5LDUxOD
+gyMDI5OCw2Mjc4ODI1MTgsLTYwNTIzNzg0MywtODU4NTU3OTg5
+LDE0NDkwOTQ3NTQsLTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0OD
+E0MSwxMDU4NDMyMjY3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4Niwy
+MDU3MzIxODkyLDUzODA2NDI0MywxMDg5OTc4NDk1LDExODI5Mj
+Q0MTQsNjIwNjI1MjU5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDFd
+fQ==
 -->
