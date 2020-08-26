@@ -735,6 +735,9 @@ Text Resource: [Oracle's introduction-to-k-means-clustering](https://blogs.oracl
 #### 2. In-depth understanding of K means clustering
 Text Resource: [Step by step walk through in slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYXRhY2x1c3RlcmluZ2FsZ29yaXRobXN8Z3g6NDkxNDNmZGUxMzE5YzgyNg)
 Video Resource: [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
+#### 3. In depth understanding with hands on exercise.
+Open a blank Jup
+[https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
 
 ---
 ### Principle Component Analysis (PCA)
@@ -886,11 +889,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc1MjExMDAsNTE4ODIwMjk4LDYyNz
-g4MjUxOCwtNjA1MjM3ODQzLC04NTg1NTc5ODksMTQ0OTA5NDc1
-NCwtNjUwMTAyMzMsMzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0Mz
-IyNjcsMTMwNDQ4MjEwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIs
-NTM4MDY0MjQzLDEwODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2Mj
-UyNTksLTE0NTUxMjc2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUx
-XX0=
+eyJoaXN0b3J5IjpbMjkyMTU0NTIxLDUxODgyMDI5OCw2Mjc4OD
+I1MTgsLTYwNTIzNzg0MywtODU4NTU3OTg5LDE0NDkwOTQ3NTQs
+LTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwxMDU4NDMyMj
+Y3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUz
+ODA2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1Mj
+U5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MV19
+
 -->
