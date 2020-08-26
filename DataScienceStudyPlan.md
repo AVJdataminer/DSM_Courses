@@ -730,13 +730,12 @@ Video Resource: [Patrick Winston's lecture on MIT OpenCourseWare](https://youtu.
 
 ### K means clustering
 #### 1.  Introduction to K means clustering
-Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7)
+Text Resource:
 
-#### 2. In-depth Understanding of KNN
-Text Resource: [Explanation with a code example]
 
-#### In-depth understanding
-[K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
+#### 2. In-depth understanding of K means clustering
+Text Resource: []([https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYXRhY2x1c3RlcmluZ2FsZ29yaXRobXN8Z3g6NDkxNDNmZGUxMzE5YzgyNg](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYXRhY2x1c3RlcmluZ2FsZ29yaXRobXN8Z3g6NDkxNDNmZGUxMzE5YzgyNg)
+Video Resource: [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
 ---
 ### Principle Component Analysis (PCA)
@@ -888,7 +887,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMzg2Mjg4LDUxODgyMDI5OCw2Mjc4OD
+eyJoaXN0b3J5IjpbNjQ1Njg1MDc3LDUxODgyMDI5OCw2Mjc4OD
 I1MTgsLTYwNTIzNzg0MywtODU4NTU3OTg5LDE0NDkwOTQ3NTQs
 LTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwxMDU4NDMyMj
 Y3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUz
