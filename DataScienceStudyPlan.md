@@ -722,7 +722,7 @@ Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick
 
 #### 2. In-depth Understanding of KNN
 Text Resource: [Explanation with a code example](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
-Video Reso
+Video Resource: [Patrick Winston's lecture on MIT OpenCourseWare](https://youtu.be/09mb78oiPkA)
 #### [3. KNN Exercise Notebook](https://colab.research.google.com/drive/1LAJZWEp-4lTCHU5BgiQBgGrR6gx5jzT6?usp=sharing)
 
 
@@ -883,7 +883,7 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2NTg2NDAsNjI3ODgyNTE4LC02MD
+eyJoaXN0b3J5IjpbLTExNjg0NjIxOTEsNjI3ODgyNTE4LC02MD
 UyMzc4NDMsLTg1ODU1Nzk4OSwxNDQ5MDk0NzU0LC02NTAxMDIz
 MywzOTgxMDQ0Myw4OTkwNDgxNDEsMTA1ODQzMjI2NywxMzA0ND
 gyMTA3LC05MTUyMzY1ODYsMjA1NzMyMTg5Miw1MzgwNjQyNDMs
