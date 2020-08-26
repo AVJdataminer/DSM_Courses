@@ -729,6 +729,12 @@ Video Resource: [Patrick Winston's lecture on MIT OpenCourseWare](https://youtu.
 ## Unsupervised Learning
 
 ### K means clustering
+#### 1.  Introduction to K means clustering
+Text Resource: [A quick introduction to KNN](https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7)
+
+#### 2. In-depth Understanding of KNN
+Text Resource: [Explanation with a code example]
+
 #### In-depth understanding
 [K-means Clustering](https://www.youtube.com/watch?v=aIybuNt9ps4) (17:17)
 
@@ -882,11 +888,11 @@ Consider learning more about these topics as well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4ODIwMjk4LDYyNzg4MjUxOCwtNjA1Mj
-M3ODQzLC04NTg1NTc5ODksMTQ0OTA5NDc1NCwtNjUwMTAyMzMs
-Mzk4MTA0NDMsODk5MDQ4MTQxLDEwNTg0MzIyNjcsMTMwNDQ4Mj
-EwNywtOTE1MjM2NTg2LDIwNTczMjE4OTIsNTM4MDY0MjQzLDEw
-ODk5Nzg0OTUsMTE4MjkyNDQxNCw2MjA2MjUyNTksLTE0NTUxMj
-c2OTcsMTczMzM4OTA0MSwyMTM3OTQwMzUxLDc3ODQ5MTQ4NF19
+eyJoaXN0b3J5IjpbMjUxMzg2Mjg4LDUxODgyMDI5OCw2Mjc4OD
+I1MTgsLTYwNTIzNzg0MywtODU4NTU3OTg5LDE0NDkwOTQ3NTQs
+LTY1MDEwMjMzLDM5ODEwNDQzLDg5OTA0ODE0MSwxMDU4NDMyMj
+Y3LDEzMDQ0ODIxMDcsLTkxNTIzNjU4NiwyMDU3MzIxODkyLDUz
+ODA2NDI0MywxMDg5OTc4NDk1LDExODI5MjQ0MTQsNjIwNjI1Mj
+U5LC0xNDU1MTI3Njk3LDE3MzMzODkwNDEsMjEzNzk0MDM1MV19
 
 -->
